@@ -42,11 +42,11 @@ $(function () {
 
         // Customize some areas of the map
         areas: {
-            "department-56": {
+            "AUS": {
                 text: {content: "Morbihan", attrs: {"font-size": 10}},
                 tooltip: {content: "<b>Morbihan</b> <br /> Bretagne"}
             },
-            "department-21": {
+            "AUS": {
                 attrs: {
                     fill: "#488402"
                 }
@@ -60,3 +60,5 @@ $(function () {
         
     });
 });
+
+
