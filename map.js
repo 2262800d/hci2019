@@ -23,11 +23,11 @@ $(function () {
             }
             , defaultArea: {
                 attrs: {
-                    fill: "#f4f4e8"
+                    fill: "#808080"
                     , stroke: "#ced8d0"
                 }
                 , attrsHover: {
-                    fill: "#a4e100"
+                    fill: "#ffffff"
                 }
                 , text: {
                     attrs: {
@@ -39,23 +39,67 @@ $(function () {
                 }
             }
         },
-
-        // Customize some areas of the map
-        areas: {
-            "AUS": {
-                text: {content: "Morbihan", attrs: {"font-size": 10}},
-                tooltip: {content: "<b>Morbihan</b> <br /> Bretagne"}
-            },
-            "AU":  buildMap()
-            // {
-            //     attrs: {
-            //         fill: "#488402"
-            //     }
-            //     , attrsHover: {
-            //         fill: "#a4e100"
-            //     }
-            // }
+        legend: {
+            area: {
+                title: "Population of France by department",
+                slices: [
+                    {
+                        max: 10,
+                        attrs: {
+                            fill: "#32c12c"
+                        },
+                        label: "Less than de 300 000 inhabitants"
+                    },
+                    {   min:10,
+                        max: 40,
+                        attrs: {
+                            fill: "#87c735"
+                        },
+                        label: "Less than de 300 000 inhabitants"
+                    },
+                    {
+                        min: 40,
+                        max: 60,
+                        attrs: {
+                            fill: "#ffff00"
+                        },
+                        label: "Between 100 000 and 500 000 inhabitants"
+                    },
+                    {
+                        min: 60,
+                        max: 80,
+                        attrs: {
+                            fill: "#ff6600"
+                        },
+                        label: "Between 500 000 and 1 000 000 inhabitants"
+                    },
+                    {
+                        min: 80,
+                        attrs: {
+                            fill: "#cc0000"
+                        },
+                        label: "More than 1 million inhabitants"
+                    }
+                ]
+            }
         },
+        // Customize some areas of the map
+        areas: buildMap()
+        // {
+        //     "AU": {
+        //         //text: {content: "Morbihan", attrs: {"font-size": 10}},
+        //         tooltip: {content: "<b>Morbihan</b> <br /> Bretagne"}
+        //     },
+        //     "AU":  buildMap()
+        //     // {
+        //     //     attrs: {
+        //     //         fill: "#488402"
+        //     //     }
+        //     //     , attrsHover: {
+        //     //         fill: "#a4e100"
+        //     //     }
+        //     // }
+        // },
 
        
         
@@ -63,39 +107,8 @@ $(function () {
 });
 
 function buildMap(){
-    // var request = new XMLHttpRequest();
-    // request.open("GET", "data/parsed_data.json", false);
-    // request.overrideMimeType("application/json");
-    // request.send(null);
-    // var jsonData = JSON.parse(request.responseText);
-    // console.log(jsonData);
-    
-    // $.getJSON("data/parsed_data.json", function(json) {
-    //     console.log("hop");
-    //     console.log(json); // this will show the info it in firebug console
-    // });
-    // function getValues(){
-    //     //dataCountries = null;
-    
-    //     return $.getJSON("https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data.json")
-    //     .then(function(data){
-    //     //console.log(data);
-    //     //return data;
-    //    // dataCountries=data;
-    //     //console.log(dataCountries);
-    //     //getValues(data);
-    //     // return data;
-    //     //   for(var country in dataCountries){
-    //     //     console.log(country);
-    //     // }
-    //     //return data;
-    //     return data;
-    //     });
-        
-    // };
     var dataCountries = null;
-    
- 
+    var countryCodes = null;
     $.ajax({ 
         url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data.json", 
         dataType: 'json', 
@@ -104,26 +117,32 @@ function buildMap(){
             dataCountries=json;
         } 
     });
-
-    console.log(dataCountries);
+    $.ajax({ 
+        url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/country_codes23.json", 
+        dataType: 'json', 
+        async: false, 
+        success: function(json){ 
+            countryCodes=json;
+        } 
+    });
+    //console.log(dataCountries);
+    var jsonData = {};
     for(var country in dataCountries){
-        console.log(country);
+        //console.log(country);
+        if (dataCountries.hasOwnProperty(country)){
+           // console.log(dataCountries[country]);
+            var code = countryCodes[country][1];
+            //console.log(code);
+            var val = dataCountries[country]["2015"];
+            //console.log(val);
+            jsonData[code] = {
+                value: val
+            }
+        }
+
     }
-    
-    var text = {
-        attrs: {
-            fill: "#488402"
-        }
-        , attrsHover: {
-            fill: "#a4e100"
-        }
-    };
-    return text;
+    console.log(jsonData);
+
+    return jsonData;
 }
 
-// function hop(){
-//     $.getJSON( "data/parsed_data.json", function( json ) {
-//         console.log( "JSON Data received, name is " + json.name);
-//         return JSON.parse(json);
-//     });
-// }
