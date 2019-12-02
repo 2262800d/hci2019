@@ -1,5 +1,5 @@
 import json
-with open("data/tobacco_data.json", 'r', encoding="utf-8") as f:
+with open("tobacco_data.json", 'r', encoding="utf-8") as f:
         datastore = json.load(f)
         dic={}
         for el in datastore["fact"]:
@@ -19,4 +19,5 @@ with open("data/tobacco_data.json", 'r', encoding="utf-8") as f:
                     
                         temp[year]=temp[year]+float(el["Value"][0:el["Value"].index('[')-1])
                 
-        print(dic)
+        #print(dic)
+        print(json.dumps(dic))
