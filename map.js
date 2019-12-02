@@ -46,14 +46,15 @@ $(function () {
                 text: {content: "Morbihan", attrs: {"font-size": 10}},
                 tooltip: {content: "<b>Morbihan</b> <br /> Bretagne"}
             },
-            "AUS": {
-                attrs: {
-                    fill: "#488402"
-                }
-                , attrsHover: {
-                    fill: "#a4e100"
-                }
-            }
+            "AU":  buildMap()
+            // {
+            //     attrs: {
+            //         fill: "#488402"
+            //     }
+            //     , attrsHover: {
+            //         fill: "#a4e100"
+            //     }
+            // }
         },
 
        
@@ -61,4 +62,55 @@ $(function () {
     });
 });
 
+function buildMap(){
+    // var request = new XMLHttpRequest();
+    // request.open("GET", "data/parsed_data.json", false);
+    // request.overrideMimeType("application/json");
+    // request.send(null);
+    // var jsonData = JSON.parse(request.responseText);
+    // console.log(jsonData);
+    
+    // $.getJSON("data/parsed_data.json", function(json) {
+    //     console.log("hop");
+    //     console.log(json); // this will show the info it in firebug console
+    // });
+    var dataCountries = function getValues(){
+        dataCountries = null;
+    
+        $.getJSON("https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data.json", function(data){
+        //console.log(data);
+        //return data;
+        dataCountries=data;
+        //console.log(dataCountries);
+        //getValues(data);
+        // return data;
+        //   for(var country in dataCountries){
+        //     console.log(country);
+        // }
+        });
+        return dataCountries;
+    }();
 
+
+    console.log(dataCountries);
+    for(var country in dataCountries){
+        console.log(country);
+    }
+    
+    var text = {
+        attrs: {
+            fill: "#488402"
+        }
+        , attrsHover: {
+            fill: "#a4e100"
+        }
+    };
+    return text;
+}
+
+// function hop(){
+//     $.getJSON( "data/parsed_data.json", function( json ) {
+//         console.log( "JSON Data received, name is " + json.name);
+//         return JSON.parse(json);
+//     });
+// }
