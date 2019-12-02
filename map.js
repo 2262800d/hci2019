@@ -74,23 +74,36 @@ function buildMap(){
     //     console.log("hop");
     //     console.log(json); // this will show the info it in firebug console
     // });
-    var dataCountries = function getValues(){
-        dataCountries = null;
+    // function getValues(){
+    //     //dataCountries = null;
     
-        $.getJSON("https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data.json", function(data){
-        //console.log(data);
-        //return data;
-        dataCountries=data;
-        //console.log(dataCountries);
-        //getValues(data);
-        // return data;
-        //   for(var country in dataCountries){
-        //     console.log(country);
-        // }
-        });
-        return dataCountries;
-    }();
-
+    //     return $.getJSON("https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data.json")
+    //     .then(function(data){
+    //     //console.log(data);
+    //     //return data;
+    //    // dataCountries=data;
+    //     //console.log(dataCountries);
+    //     //getValues(data);
+    //     // return data;
+    //     //   for(var country in dataCountries){
+    //     //     console.log(country);
+    //     // }
+    //     //return data;
+    //     return data;
+    //     });
+        
+    // };
+    var dataCountries = null;
+    
+ 
+    $.ajax({ 
+        url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data.json", 
+        dataType: 'json', 
+        async: false, 
+        success: function(json){ 
+            dataCountries=json;
+        } 
+    });
 
     console.log(dataCountries);
     for(var country in dataCountries){
