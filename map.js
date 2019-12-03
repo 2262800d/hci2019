@@ -1,4 +1,5 @@
 const jsonData = {};
+var priceData = {};
 $(function () {
     $(".mapcontainer").mapael({
         map: {
@@ -46,27 +47,42 @@ $(function () {
                     click: function (e, id) {
                         var modal = document.getElementById("myModal");
                         modal.style.display = "block";  
-                        //console.log(id); 
-                        console.log(jsonData[id]["country_name"]);
                         $("#countryTitle").text(jsonData[id]["country_name"]);
+                        var country_name=jsonData[id]["country_name"];
                         $("#countryTitle").css("font-weight", "bold");
-                        console.log(jsonData[id]["data"]);
                         var datanums = Object.values(jsonData[id]["data"]);
-                        console.log(datanums);
                         var datamale = [];
                         var datafemale = [];
                         for(var entry in datanums){
                             datamale.push(datanums[entry]["Male"]);
                             datafemale.push(datanums[entry]["Female"]);
                         }
-                       // = Object.values(datanums["Male"]);
-                       // = Object.values(datanums["Female"]);
-                        //config["data"]["datasets"][0]["data"]=datanums.reverse();
-                        console.log(datafemale);
+                       
                         config["data"]["datasets"][0]["data"]=datamale;//.reverse();
                         config["data"]["datasets"][1]["data"]=datafemale;//.reverse();
 
+                        //prices
+                        var prices = priceData[country_name];
+                        console.log("prices",prices)
+                        priceDataset = [];
+                        const years = ['2008','2010','2012','2014'];
+                        for(var x in years){
+                            var i = years[x];
+                            console.log(i);
+                            console.log(prices[i]);
+                            if(prices[i]!=""){
+                                priceDataset.push(prices[i]);
+                            }else{
+                                priceDataset.push(null);
+                            }
+                        }
+                        config2["data"]["datasets"][0]["data"]=priceDataset;
+                        console.log(priceDataset);
+                        var max = Math.max.apply(null,priceDataset);
+                        console.log(max);
+                        config2["options"]["scales"]["yAxes"][0]["ticks"]["suggestedMax"]=max+0.5;
                         window.myLine.update();
+                        window.myLine2.update();
                         
                                          
                     }
@@ -148,6 +164,14 @@ function buildMap(){
         async: false, 
         success: function(json){ 
             countryCodes=json;
+        } 
+    });
+    $.ajax({ 
+        url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/price_data.json", 
+        dataType: 'json', 
+        async: false, 
+        success: function(json){ 
+            priceData=json;
         } 
     });
     console.log(dataCountries);
