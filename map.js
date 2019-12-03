@@ -1,5 +1,6 @@
 const jsonData = {};
 var priceData = {};
+var deathRates ={}
 $(function () {
     $(".mapcontainer").mapael({
         map: {
@@ -81,9 +82,17 @@ $(function () {
                         var max = Math.max.apply(null,priceDataset);
                         console.log(max);
                         config2["options"]["scales"]["yAxes"][0]["ticks"]["suggestedMax"]=max+0.5;
+                        
+                        
+                        //death
+                        console.log(deathRates[country_name])
+                        var ded = Object.values(deathRates[country_name])
+                        config["data"]["datasets"][2]["data"] = ded;
+
+
                         window.myLine.update();
                         window.myLine2.update();
-                        
+
                                          
                     }
                 }
@@ -172,6 +181,14 @@ function buildMap(){
         async: false, 
         success: function(json){ 
             priceData=json;
+        } 
+    });
+    $.ajax({ 
+        url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/death_percentage_smoke.json", 
+        dataType: 'json', 
+        async: false, 
+        success: function(json){ 
+            deathRates=json;
         } 
     });
     console.log(dataCountries);

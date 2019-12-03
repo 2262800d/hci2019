@@ -22,6 +22,16 @@ var config = {
             ],
             fill: false,
         
+        },
+        {
+            label: 'Death rate',
+            backgroundColor: window.chartColors.black,
+            borderColor: window.chartColors.black,
+            data: [
+                
+            ],
+            fill: false,
+        
         }
     ]
     },
