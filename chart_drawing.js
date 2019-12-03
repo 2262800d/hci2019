@@ -68,8 +68,8 @@ var config2 = {
         labels: ['2008','2010','2012','2014'],
         datasets: [{
             label: 'Cigarette Prices in $US(2008-2010)',
-            backgroundColor: window.chartColors.blue,
-            borderColor: window.chartColors.blue,
+            backgroundColor: window.chartColors.green,
+            borderColor: window.chartColors.green,
             data: [
                 
             ],
