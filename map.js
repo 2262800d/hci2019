@@ -1,7 +1,4 @@
-
-
-
-
+const jsonData = {};
 $(function () {
     $(".mapcontainer").mapael({
         map: {
@@ -46,9 +43,13 @@ $(function () {
                     }
                 },
                 eventHandlers: {
-                    click: function () {
+                    click: function (e, id) {
                         var modal = document.getElementById("myModal");
-                        modal.style.display = "block";      
+                        modal.style.display = "block";  
+                        //console.log(id); 
+                        console.log(jsonData[id]["country_name"]);
+                        console.log(jsonData[id]["data"]);
+                        
                                          
                     }
                 }
@@ -101,25 +102,7 @@ $(function () {
             }
         },
         // Customize some areas of the map
-        areas: buildMap()
-        // {
-        //     "AU": {
-        //         //text: {content: "Morbihan", attrs: {"font-size": 10}},
-        //         tooltip: {content: "<b>Morbihan</b> <br /> Bretagne"}
-        //     },
-        //     "AU":  buildMap()
-        //     // {
-        //     //     attrs: {
-        //     //         fill: "#488402"
-        //     //     }
-        //     //     , attrsHover: {
-        //     //         fill: "#a4e100"
-        //     //     }
-        //     // }
-        // },
-
-       
-        
+        areas: buildMap()        
     });
 });
 
@@ -143,7 +126,7 @@ function buildMap(){
         } 
     });
     //console.log(dataCountries);
-    var jsonData = {};
+    //var jsonData = {};
     for(var country in dataCountries){
         //console.log(country);
         if (dataCountries.hasOwnProperty(country)){
@@ -153,7 +136,9 @@ function buildMap(){
             var val = dataCountries[country]["2015"];
             //console.log(val);
             jsonData[code] = {
-                value: val
+                value: val,
+                country_name: country,
+                data: dataCountries[country]
             }
         }
 
