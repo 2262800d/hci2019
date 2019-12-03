@@ -64,7 +64,10 @@ var MONTHS = ['2000','2005','2010','2012','2015','2020','2025'];
 		};
 		window.onload = function() {
 			var ctx = document.getElementById('canvas').getContext('2d');
-			window.myLine = new Chart(ctx, config);
+            window.myLine = new Chart(ctx, config);
+            
+            var ctx2 = document.getElementById('canvas2').getContext('2d');
+			window.myLine = new Chart(ctx2, config);
 		};
 		var colorNames = Object.keys(window.chartColors);
 	
