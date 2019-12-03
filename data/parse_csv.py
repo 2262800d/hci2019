@@ -13,7 +13,7 @@ with open('number-of-deaths-by-risk-factor.csv') as csv_file:
             country = row[0]
             year = row[2]
             dead = float(row[23])
-            if int(year)>2000:
+            if int(year)>=2000:
                 if country not in mortality:
                     mortality.update({country:{year:dead}})
                 else:
