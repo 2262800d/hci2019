@@ -4,7 +4,17 @@ var MONTHS = ['2000','2005','2010','2012','2015','2020','2025'];
 			data: {
 				labels: ['2000','2005','2010','2012','2015','2020','2025'],
 				datasets: [{
-					label: 'My First dataset',
+					label: 'Male',
+					backgroundColor: window.chartColors.blue,
+					borderColor: window.chartColors.blue,
+					data: [
+						
+					],
+					fill: false,
+				
+                },
+                {
+					label: 'Female',
 					backgroundColor: window.chartColors.red,
 					borderColor: window.chartColors.red,
 					data: [
@@ -12,7 +22,8 @@ var MONTHS = ['2000','2005','2010','2012','2015','2020','2025'];
 					],
 					fill: false,
 				
-				}]
+                }
+            ]
 			},
 			options: {
 				responsive: true,

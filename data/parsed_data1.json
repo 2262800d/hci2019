@@ -1,1 +1,4761 @@
-{"Albania": {"2025": {"value": 54.099999999999994, "Male": 48.3, "Female": 5.8}, "2020": {"value": 56.1, "Male": 49.5, "Female": 6.6}, "2015": {"value": 58.800000000000004, "Male": 51.2, "Female": 7.6}, "2012": {"value": 60.3, "Male": 52.1, "Female": 8.2}, "2010": {"value": 61.8, "Male": 53.1, "Female": 8.7}, "2005": {"value": 64.8, "Male": 54.7, "Female": 10.1}, "2000": {"value": 68.5, "Male": 56.9, "Female": 11.6}}, "Andorra": {"2025": {"value": 60.4, "Male": 34.3, "Female": 26.1}, "2020": {"value": 62.400000000000006, "Male": 35.6, "Female": 26.8}, "2015": {"value": 65.0, "Male": 37.2, "Female": 27.8}, "2012": {"value": 66.9, "Male": 38.5, "Female": 28.4}, "2010": {"value": 68.0, "Male": 39.2, "Female": 28.8}, "2005": {"value": 71.5, "Male": 41.3, "Female": 30.2}, "2000": {"value": 75.2, "Male": 43.6, "Female": 31.6}}, "Argentina": {"2025": {"value": 35.4, "Male": 23.0, "Female": 12.4}, "2020": {"value": 41.0, "Male": 26.0, "Female": 15.0}, "2015": {"value": 47.9, "Male": 29.5, "Female": 18.4}, "2012": {"value": 52.6, "Male": 31.8, "Female": 20.8}, "2010": {"value": 55.8, "Male": 33.4, "Female": 22.4}, "2005": {"value": 65.9, "Male": 38.2, "Female": 27.7}, "2000": {"value": 77.7, "Male": 43.7, "Female": 34.0}}, "Armenia": {"2025": {"value": 45.7, "Male": 44.6, "Female": 1.1}, "2020": {"value": 49.699999999999996, "Male": 48.4, "Female": 1.3}, "2015": {"value": 53.8, "Male": 52.3, "Female": 1.5}, "2012": {"value": 56.5, "Male": 54.8, "Female": 1.7}, "2010": {"value": 58.5, "Male": 56.7, "Female": 1.8}, "2005": {"value": 63.7, "Male": 61.5, "Female": 2.2}, "2000": {"value": 69.69999999999999, "Male": 67.1, "Female": 2.6}}, "Australia": {"2025": {"value": 21.5, "Male": 12.3, "Female": 9.2}, "2020": {"value": 25.3, "Male": 14.3, "Female": 11.0}, "2015": {"value": 29.799999999999997, "Male": 16.7, "Female": 13.1}, "2012": {"value": 33.099999999999994, "Male": 18.4, "Female": 14.7}, "2010": {"value": 35.400000000000006, "Male": 19.6, "Female": 15.8}, "2005": {"value": 42.1, "Male": 23.0, "Female": 19.1}, "2000": {"value": 49.900000000000006, "Male": 27.1, "Female": 22.8}}, "Austria": {"2025": {"value": 61.9, "Male": 30.0, "Female": 31.9}, "2020": {"value": 66.0, "Male": 32.7, "Female": 33.3}, "2015": {"value": 70.3, "Male": 35.5, "Female": 34.8}, "2012": {"value": 73.3, "Male": 37.4, "Female": 35.9}, "2010": {"value": 75.5, "Male": 38.8, "Female": 36.7}, "2005": {"value": 80.69999999999999, "Male": 42.3, "Female": 38.4}, "2000": {"value": 86.9, "Male": 46.4, "Female": 40.5}}, "Azerbaijan": {"2025": {"value": 40.9, "Male": 40.6, "Female": 0.3}, "2020": {"value": 43.699999999999996, "Male": 43.3, "Female": 0.4}, "2015": {"value": 46.9, "Male": 46.5, "Female": 0.4}, "2012": {"value": 49.0, "Male": 48.6, "Female": 0.4}, "2010": {"value": 50.4, "Male": 49.9, "Female": 0.5}, "2005": {"value": 54.6, "Male": 54.1, "Female": 0.5}, "2000": {"value": 59.2, "Male": 58.6, "Female": 0.6}}, "Bahrain": {"2025": {"value": 96.89999999999999, "Male": 86.1, "Female": 10.8}, "2020": {"value": 76.5, "Male": 67.5, "Female": 9.0}, "2015": {"value": 56.4, "Male": 48.8, "Female": 7.6}, "2012": {"value": 47.0, "Male": 40.1, "Female": 6.9}, "2010": {"value": 41.3, "Male": 34.8, "Female": 6.5}, "2005": {"value": 30.6, "Male": 25.0, "Female": 5.6}, "2000": {"value": 23.0, "Male": 18.2, "Female": 4.8}}, "Bangladesh": {"2025": {"value": 29.7, "Male": 29.5, "Female": 0.2}, "2020": {"value": 34.599999999999994, "Male": 34.3, "Female": 0.3}, "2015": {"value": 40.5, "Male": 39.8, "Female": 0.7}, "2012": {"value": 44.800000000000004, "Male": 43.7, "Female": 1.1}, "2010": {"value": 48.0, "Male": 46.6, "Female": 1.4}, "2005": {"value": 57.2, "Male": 54.2, "Female": 3.0}, "2000": {"value": 70.0, "Male": 63.7, "Female": 6.3}}, "Barbados": {"2025": {"value": 13.899999999999999, "Male": 13.2, "Female": 0.7}, "2020": {"value": 13.8, "Male": 13.0, "Female": 0.8}, "2015": {"value": 14.0, "Male": 13.1, "Female": 0.9}, "2012": {"value": 14.299999999999999, "Male": 13.2, "Female": 1.1}, "2010": {"value": 14.399999999999999, "Male": 13.2, "Female": 1.2}, "2005": {"value": 14.9, "Male": 13.5, "Female": 1.4}, "2000": {"value": 15.600000000000001, "Male": 13.8, "Female": 1.8}}, "Belarus": {"2025": {"value": 46.8, "Male": 37.6, "Female": 9.2}, "2020": {"value": 51.5, "Male": 41.7, "Female": 9.8}, "2015": {"value": 56.800000000000004, "Male": 46.2, "Female": 10.6}, "2012": {"value": 60.4, "Male": 49.4, "Female": 11.0}, "2010": {"value": 62.699999999999996, "Male": 51.3, "Female": 11.4}, "2005": {"value": 69.9, "Male": 57.6, "Female": 12.3}, "2000": {"value": 77.5, "Male": 64.1, "Female": 13.4}}, "Belgium": {"2025": {"value": 40.0, "Male": 22.2, "Female": 17.8}, "2020": {"value": 43.099999999999994, "Male": 24.2, "Female": 18.9}, "2015": {"value": 46.5, "Male": 26.5, "Female": 20.0}, "2012": {"value": 48.9, "Male": 28.0, "Female": 20.9}, "2010": {"value": 50.400000000000006, "Male": 29.1, "Female": 21.3}, "2005": {"value": 54.8, "Male": 32.1, "Female": 22.7}, "2000": {"value": 59.900000000000006, "Male": 35.6, "Female": 24.3}}, "Benin": {"2025": {"value": 23.8, "Male": 23.1, "Female": 0.7}, "2020": {"value": 21.0, "Male": 20.2, "Female": 0.8}, "2015": {"value": 18.7, "Male": 17.7, "Female": 1.0}, "2012": {"value": 17.5, "Male": 16.4, "Female": 1.1}, "2010": {"value": 16.7, "Male": 15.6, "Female": 1.1}, "2005": {"value": 15.100000000000001, "Male": 13.8, "Female": 1.3}, "2000": {"value": 14.0, "Male": 12.4, "Female": 1.6}}, "Bolivia (Plurinational State of)": {"2025": {"value": 35.599999999999994, "Male": 22.4, "Female": 13.2}, "2020": {"value": 41.0, "Male": 26.0, "Female": 15.0}, "2015": {"value": 47.6, "Male": 30.5, "Female": 17.1}, "2012": {"value": 52.2, "Male": 33.6, "Female": 18.6}, "2010": {"value": 55.5, "Male": 35.8, "Female": 19.7}, "2005": {"value": 65.6, "Male": 42.8, "Female": 22.8}, "2000": {"value": 77.3, "Male": 50.9, "Female": 26.4}}, "Bosnia and Herzegovina": {"2025": {"value": 69.5, "Male": 42.2, "Female": 27.3}, "2020": {"value": 73.0, "Male": 44.4, "Female": 28.6}, "2015": {"value": 77.2, "Male": 47.2, "Female": 30.0}, "2012": {"value": 80.2, "Male": 49.0, "Female": 31.2}, "2010": {"value": 81.7, "Male": 50.0, "Female": 31.7}, "2005": {"value": 87.4, "Male": 53.8, "Female": 33.6}, "2000": {"value": 93.6, "Male": 57.7, "Female": 35.9}}, "Brazil": {"2025": {"value": 23.3, "Male": 14.9, "Female": 8.4}, "2020": {"value": 26.599999999999998, "Male": 16.9, "Female": 9.7}, "2015": {"value": 30.6, "Male": 19.3, "Female": 11.3}, "2012": {"value": 33.4, "Male": 21.0, "Female": 12.4}, "2010": {"value": 35.5, "Male": 22.2, "Female": 13.3}, "2005": {"value": 41.0, "Male": 25.4, "Female": 15.6}, "2000": {"value": 47.9, "Male": 29.4, "Female": 18.5}}, "Brunei Darussalam": {"2025": {"value": 32.7, "Male": 30.3, "Female": 2.4}, "2020": {"value": 32.5, "Male": 29.8, "Female": 2.7}, "2015": {"value": 32.4, "Male": 29.3, "Female": 3.1}, "2012": {"value": 32.6, "Male": 29.2, "Female": 3.4}, "2010": {"value": 32.7, "Male": 29.1, "Female": 3.6}, "2005": {"value": 33.5, "Male": 29.2, "Female": 4.3}, "2000": {"value": 34.6, "Male": 29.5, "Female": 5.1}}, "Bulgaria": {"2025": {"value": 56.800000000000004, "Male": 34.7, "Female": 22.1}, "2020": {"value": 63.3, "Male": 38.4, "Female": 24.9}, "2015": {"value": 70.6, "Male": 42.4, "Female": 28.2}, "2012": {"value": 75.6, "Male": 45.2, "Female": 30.4}, "2010": {"value": 79.1, "Male": 47.1, "Female": 32.0}, "2005": {"value": 89.1, "Male": 52.7, "Female": 36.4}, "2000": {"value": 100.8, "Male": 58.8, "Female": 42.0}}, "Burkina Faso": {"2025": {"value": 51.9, "Male": 48.9, "Female": 3.0}, "2020": {"value": 45.4, "Male": 41.8, "Female": 3.6}, "2015": {"value": 40.5, "Male": 36.0, "Female": 4.5}, "2012": {"value": 38.2, "Male": 33.1, "Female": 5.1}, "2010": {"value": 36.6, "Male": 31.1, "Female": 5.5}, "2005": {"value": 33.9, "Male": 27.0, "Female": 6.9}, "2000": {"value": 32.2, "Male": 23.6, "Female": 8.6}}, "Cabo Verde": {"2025": {"value": 33.3, "Male": 30.7, "Female": 2.6}, "2020": {"value": 29.0, "Male": 26.0, "Female": 3.0}, "2015": {"value": 25.7, "Male": 22.2, "Female": 3.5}, "2012": {"value": 24.099999999999998, "Male": 20.2, "Female": 3.9}, "2010": {"value": 23.200000000000003, "Male": 19.1, "Female": 4.1}, "2005": {"value": 21.4, "Male": 16.5, "Female": 4.9}, "2000": {"value": 20.3, "Male": 14.4, "Female": 5.9}}, "Cambodia": {"2025": {"value": 42.5, "Male": 41.1, "Female": 1.4}, "2020": {"value": 44.5, "Male": 42.5, "Female": 2.0}, "2015": {"value": 46.9, "Male": 44.1, "Female": 2.8}, "2012": {"value": 48.7, "Male": 45.2, "Female": 3.5}, "2010": {"value": 50.0, "Male": 46.0, "Female": 4.0}, "2005": {"value": 54.1, "Male": 48.4, "Female": 5.7}, "2000": {"value": 59.300000000000004, "Male": 51.2, "Female": 8.1}}, "Cameroon": {"2025": {"value": 88.10000000000001, "Male": 87.2, "Female": 0.9}, "2020": {"value": 66.80000000000001, "Male": 65.9, "Female": 0.9}, "2015": {"value": 44.699999999999996, "Male": 43.8, "Female": 0.9}, "2012": {"value": 34.6, "Male": 33.7, "Female": 0.9}, "2010": {"value": 29.4, "Male": 28.5, "Female": 0.9}, "2005": {"value": 19.599999999999998, "Male": 18.7, "Female": 0.9}, "2000": {"value": 13.200000000000001, "Male": 12.3, "Female": 0.9}}, "Canada": {"2025": {"value": 19.9, "Male": 12.6, "Female": 7.3}, "2020": {"value": 24.200000000000003, "Male": 14.8, "Female": 9.4}, "2015": {"value": 29.9, "Male": 17.7, "Female": 12.2}, "2012": {"value": 33.7, "Male": 19.5, "Female": 14.2}, "2010": {"value": 36.7, "Male": 20.9, "Female": 15.8}, "2005": {"value": 45.2, "Male": 24.8, "Female": 20.4}, "2000": {"value": 55.9, "Male": 29.4, "Female": 26.5}}, "Chile": {"2025": {"value": 67.30000000000001, "Male": 35.2, "Female": 32.1}, "2020": {"value": 71.7, "Male": 37.6, "Female": 34.1}, "2015": {"value": 76.0, "Male": 40.0, "Female": 36.0}, "2012": {"value": 79.1, "Male": 41.7, "Female": 37.4}, "2010": {"value": 81.1, "Male": 42.8, "Female": 38.3}, "2005": {"value": 87.0, "Male": 46.2, "Female": 40.8}, "2000": {"value": 93.5, "Male": 49.9, "Female": 43.6}}, "China": {"2025": {"value": 44.9, "Male": 43.8, "Female": 1.1}, "2020": {"value": 47.1, "Male": 45.7, "Female": 1.4}, "2015": {"value": 49.4, "Male": 47.6, "Female": 1.8}, "2012": {"value": 51.0, "Male": 49.0, "Female": 2.0}, "2010": {"value": 52.300000000000004, "Male": 50.1, "Female": 2.2}, "2005": {"value": 55.699999999999996, "Male": 52.9, "Female": 2.8}, "2000": {"value": 59.3, "Male": 55.8, "Female": 3.5}}, "Colombia": {"2025": {"value": 16.8, "Male": 12.4, "Female": 4.4}, "2020": {"value": 19.2, "Male": 14.0, "Female": 5.2}, "2015": {"value": 22.2, "Male": 16.0, "Female": 6.2}, "2012": {"value": 24.1, "Male": 17.2, "Female": 6.9}, "2010": {"value": 25.700000000000003, "Male": 18.3, "Female": 7.4}, "2005": {"value": 29.900000000000002, "Male": 21.1, "Female": 8.8}, "2000": {"value": 35.1, "Male": 24.5, "Female": 10.6}}, "Comoros": {"2025": {"value": 23.2, "Male": 19.7, "Female": 3.5}, "2020": {"value": 25.799999999999997, "Male": 21.2, "Female": 4.6}, "2015": {"value": 29.1, "Male": 23.1, "Female": 6.0}, "2012": {"value": 31.5, "Male": 24.4, "Female": 7.1}, "2010": {"value": 33.1, "Male": 25.2, "Female": 7.9}, "2005": {"value": 38.2, "Male": 27.7, "Female": 10.5}, "2000": {"value": 44.6, "Male": 30.6, "Female": 14.0}}, "Congo": {"2025": {"value": 94.80000000000001, "Male": 92.9, "Female": 1.9}, "2020": {"value": 71.39999999999999, "Male": 69.6, "Female": 1.8}, "2015": {"value": 44.900000000000006, "Male": 43.2, "Female": 1.7}, "2012": {"value": 33.800000000000004, "Male": 32.1, "Female": 1.7}, "2010": {"value": 28.099999999999998, "Male": 26.4, "Female": 1.7}, "2005": {"value": 17.8, "Male": 16.2, "Female": 1.6}, "2000": {"value": 11.7, "Male": 10.1, "Female": 1.6}}, "Costa Rica": {"2025": {"value": 21.1, "Male": 14.8, "Female": 6.3}, "2020": {"value": 23.7, "Male": 16.5, "Female": 7.2}, "2015": {"value": 26.8, "Male": 18.5, "Female": 8.3}, "2012": {"value": 29.0, "Male": 19.8, "Female": 9.2}, "2010": {"value": 30.7, "Male": 20.9, "Female": 9.8}, "2005": {"value": 35.4, "Male": 23.7, "Female": 11.7}, "2000": {"value": 41.6, "Male": 27.5, "Female": 14.1}}, "Croatia": {"2025": {"value": 77.8, "Male": 39.3, "Female": 38.5}, "2020": {"value": 75.4, "Male": 39.3, "Female": 36.1}, "2015": {"value": 72.9, "Male": 39.4, "Female": 33.5}, "2012": {"value": 71.69999999999999, "Male": 39.4, "Female": 32.3}, "2010": {"value": 71.0, "Male": 39.4, "Female": 31.6}, "2005": {"value": 69.4, "Male": 39.8, "Female": 29.6}, "2000": {"value": 68.3, "Male": 40.3, "Female": 28.0}}, "Cuba": {"2025": {"value": 65.0, "Male": 52.1, "Female": 12.9}, "2020": {"value": 67.7, "Male": 52.6, "Female": 15.1}, "2015": {"value": 70.5, "Male": 52.7, "Female": 17.8}, "2012": {"value": 73.0, "Male": 53.2, "Female": 19.8}, "2010": {"value": 74.5, "Male": 53.2, "Female": 21.3}, "2005": {"value": 79.6, "Male": 54.0, "Female": 25.6}, "2000": {"value": 85.80000000000001, "Male": 54.7, "Female": 31.1}}, "Czechia": {"2025": {"value": 64.5, "Male": 35.7, "Female": 28.8}, "2020": {"value": 65.4, "Male": 36.5, "Female": 28.9}, "2015": {"value": 66.4, "Male": 37.4, "Female": 29.0}, "2012": {"value": 66.9, "Male": 38.0, "Female": 28.9}, "2010": {"value": 67.7, "Male": 38.5, "Female": 29.2}, "2005": {"value": 68.9, "Male": 39.5, "Female": 29.4}, "2000": {"value": 70.4, "Male": 40.7, "Female": 29.7}}, "Denmark": {"2025": {"value": 20.299999999999997, "Male": 10.2, "Female": 10.1}, "2020": {"value": 26.3, "Male": 13.4, "Female": 12.9}, "2015": {"value": 34.0, "Male": 17.6, "Female": 16.4}, "2012": {"value": 40.0, "Male": 21.0, "Female": 19.0}, "2010": {"value": 44.3, "Male": 23.4, "Female": 20.9}, "2005": {"value": 58.1, "Male": 31.1, "Female": 27.0}, "2000": {"value": 76.2, "Male": 41.6, "Female": 34.6}}, "Dominican Republic": {"2025": {"value": 24.700000000000003, "Male": 17.6, "Female": 7.1}, "2020": {"value": 26.3, "Male": 18.1, "Female": 8.2}, "2015": {"value": 28.200000000000003, "Male": 18.8, "Female": 9.4}, "2012": {"value": 29.400000000000002, "Male": 19.1, "Female": 10.3}, "2010": {"value": 30.4, "Male": 19.5, "Female": 10.9}, "2005": {"value": 33.3, "Male": 20.4, "Female": 12.9}, "2000": {"value": 36.9, "Male": 21.7, "Female": 15.2}}, "Ecuador": {"2025": {"value": 13.5, "Male": 11.0, "Female": 2.5}, "2020": {"value": 15.100000000000001, "Male": 12.3, "Female": 2.8}, "2015": {"value": 17.3, "Male": 14.0, "Female": 3.3}, "2012": {"value": 18.7, "Male": 15.1, "Female": 3.6}, "2010": {"value": 19.7, "Male": 15.9, "Female": 3.8}, "2005": {"value": 22.9, "Male": 18.4, "Female": 4.5}, "2000": {"value": 26.7, "Male": 21.4, "Female": 5.3}}, "Egypt": {"2025": {"value": 63.2, "Male": 63.1, "Female": 0.1}, "2020": {"value": 56.5, "Male": 56.3, "Female": 0.2}, "2015": {"value": 50.199999999999996, "Male": 49.9, "Female": 0.3}, "2012": {"value": 46.3, "Male": 45.9, "Female": 0.4}, "2010": {"value": 44.4, "Male": 43.9, "Female": 0.5}, "2005": {"value": 40.099999999999994, "Male": 39.3, "Female": 0.8}, "2000": {"value": 36.7, "Male": 35.5, "Female": 1.2}}, "Estonia": {"2025": {"value": 57.900000000000006, "Male": 34.2, "Female": 23.7}, "2020": {"value": 61.8, "Male": 37.5, "Female": 24.3}, "2015": {"value": 66.1, "Male": 41.2, "Female": 24.9}, "2012": {"value": 69.0, "Male": 43.6, "Female": 25.4}, "2010": {"value": 70.80000000000001, "Male": 45.2, "Female": 25.6}, "2005": {"value": 76.4, "Male": 49.9, "Female": 26.5}, "2000": {"value": 82.69999999999999, "Male": 55.3, "Female": 27.4}}, "Eswatini": {"2025": {"value": 23.6, "Male": 21.8, "Female": 1.8}, "2020": {"value": 22.3, "Male": 20.3, "Female": 2.0}, "2015": {"value": 21.2, "Male": 19.0, "Female": 2.2}, "2012": {"value": 20.599999999999998, "Male": 18.2, "Female": 2.4}, "2010": {"value": 20.3, "Male": 17.8, "Female": 2.5}, "2005": {"value": 19.6, "Male": 16.8, "Female": 2.8}, "2000": {"value": 19.1, "Male": 15.9, "Female": 3.2}}, "Ethiopia": {"2025": {"value": 9.5, "Male": 9.1, "Female": 0.4}, "2020": {"value": 9.5, "Male": 9.0, "Female": 0.5}, "2015": {"value": 9.4, "Male": 8.9, "Female": 0.5}, "2012": {"value": 9.4, "Male": 8.9, "Female": 0.5}, "2010": {"value": 9.5, "Male": 9.0, "Female": 0.5}, "2005": {"value": 9.7, "Male": 9.1, "Female": 0.6}, "2000": {"value": 9.6, "Male": 9.0, "Female": 0.6}}, "Fiji": {"2025": {"value": 44.699999999999996, "Male": 33.3, "Female": 11.4}, "2020": {"value": 47.699999999999996, "Male": 35.8, "Female": 11.9}, "2015": {"value": 51.1, "Male": 38.7, "Female": 12.4}, "2012": {"value": 53.400000000000006, "Male": 40.6, "Female": 12.8}, "2010": {"value": 55.4, "Male": 42.3, "Female": 13.1}, "2005": {"value": 60.5, "Male": 46.4, "Female": 14.1}, "2000": {"value": 67.2, "Male": 52.0, "Female": 15.2}}, "Finland": {"2025": {"value": 33.3, "Male": 18.3, "Female": 15.0}, "2020": {"value": 37.3, "Male": 20.6, "Female": 16.7}, "2015": {"value": 41.7, "Male": 23.2, "Female": 18.5}, "2012": {"value": 44.6, "Male": 25.0, "Female": 19.6}, "2010": {"value": 46.900000000000006, "Male": 26.3, "Female": 20.6}, "2005": {"value": 52.7, "Male": 29.9, "Female": 22.8}, "2000": {"value": 59.5, "Male": 33.8, "Female": 25.7}}, "France": {"2025": {"value": 50.099999999999994, "Male": 25.7, "Female": 24.4}, "2020": {"value": 52.599999999999994, "Male": 27.7, "Female": 24.9}, "2015": {"value": 55.400000000000006, "Male": 29.8, "Female": 25.6}, "2012": {"value": 56.900000000000006, "Male": 31.1, "Female": 25.8}, "2010": {"value": 58.3, "Male": 32.1, "Female": 26.2}, "2005": {"value": 61.599999999999994, "Male": 34.8, "Female": 26.8}, "2000": {"value": 65.5, "Male": 37.7, "Female": 27.8}}, "Georgia": {"2025": {"value": 60.099999999999994, "Male": 54.8, "Female": 5.3}, "2020": {"value": 61.5, "Male": 56.0, "Female": 5.5}, "2015": {"value": 63.400000000000006, "Male": 57.7, "Female": 5.7}, "2012": {"value": 64.4, "Male": 58.6, "Female": 5.8}, "2010": {"value": 65.6, "Male": 59.6, "Female": 6.0}, "2005": {"value": 67.6, "Male": 61.4, "Female": 6.2}, "2000": {"value": 69.9, "Male": 63.4, "Female": 6.5}}, "Germany": {"2025": {"value": 56.1, "Male": 29.1, "Female": 27.0}, "2020": {"value": 58.4, "Male": 30.7, "Female": 27.7}, "2015": {"value": 60.7, "Male": 32.4, "Female": 28.3}, "2012": {"value": 62.3, "Male": 33.6, "Female": 28.7}, "2010": {"value": 63.3, "Male": 34.3, "Female": 29.0}, "2005": {"value": 65.7, "Male": 36.1, "Female": 29.6}, "2000": {"value": 68.8, "Male": 38.4, "Female": 30.4}}, "Ghana": {"2025": {"value": 17.3, "Male": 17.0, "Female": 0.3}, "2020": {"value": 15.3, "Male": 14.9, "Female": 0.4}, "2015": {"value": 13.5, "Male": 13.1, "Female": 0.4}, "2012": {"value": 12.6, "Male": 12.1, "Female": 0.5}, "2010": {"value": 12.1, "Male": 11.6, "Female": 0.5}, "2005": {"value": 10.9, "Male": 10.3, "Female": 0.6}, "2000": {"value": 10.0, "Male": 9.2, "Female": 0.8}}, "Greece": {"2025": {"value": 76.0, "Male": 47.7, "Female": 28.3}, "2020": {"value": 79.9, "Male": 49.7, "Female": 30.2}, "2015": {"value": 85.30000000000001, "Male": 52.6, "Female": 32.7}, "2012": {"value": 88.5, "Male": 54.3, "Female": 34.2}, "2010": {"value": 90.80000000000001, "Male": 55.6, "Female": 35.2}, "2005": {"value": 97.9, "Male": 59.3, "Female": 38.6}, "2000": {"value": 105.4, "Male": 63.0, "Female": 42.4}}, "Haiti": {"2025": {"value": 27.8, "Male": 25.8, "Female": 2.0}, "2020": {"value": 25.9, "Male": 23.7, "Female": 2.2}, "2015": {"value": 24.6, "Male": 22.1, "Female": 2.5}, "2012": {"value": 23.9, "Male": 21.2, "Female": 2.7}, "2010": {"value": 23.599999999999998, "Male": 20.7, "Female": 2.9}, "2005": {"value": 22.7, "Male": 19.4, "Female": 3.3}, "2000": {"value": 22.2, "Male": 18.4, "Female": 3.8}}, "Honduras": {"2025": {"value": 25.2, "Male": 23.8, "Female": 1.4}, "2020": {"value": 29.5, "Male": 27.8, "Female": 1.7}, "2015": {"value": 35.4, "Male": 33.3, "Female": 2.1}, "2012": {"value": 39.6, "Male": 37.2, "Female": 2.4}, "2010": {"value": 43.0, "Male": 40.3, "Female": 2.7}, "2005": {"value": 52.5, "Male": 49.2, "Female": 3.3}, "2000": {"value": 64.4, "Male": 60.2, "Female": 4.2}}, "Hungary": {"2025": {"value": 45.5, "Male": 25.3, "Female": 20.2}, "2020": {"value": 50.7, "Male": 28.3, "Female": 22.4}, "2015": {"value": 56.8, "Male": 32.0, "Female": 24.8}, "2012": {"value": 61.0, "Male": 34.5, "Female": 26.5}, "2010": {"value": 63.4, "Male": 35.9, "Female": 27.5}, "2005": {"value": 71.4, "Male": 40.6, "Female": 30.8}, "2000": {"value": 80.5, "Male": 46.1, "Female": 34.4}}, "Iceland": {"2025": {"value": 21.9, "Male": 11.3, "Female": 10.6}, "2020": {"value": 26.299999999999997, "Male": 13.7, "Female": 12.6}, "2015": {"value": 32.1, "Male": 17.0, "Female": 15.1}, "2012": {"value": 36.2, "Male": 19.3, "Female": 16.9}, "2010": {"value": 39.2, "Male": 21.1, "Female": 18.1}, "2005": {"value": 48.6, "Male": 26.5, "Female": 22.1}, "2000": {"value": 60.6, "Male": 33.5, "Female": 27.1}}, "India": {"2025": {"value": 15.5, "Male": 14.7, "Female": 0.8}, "2020": {"value": 18.4, "Male": 17.2, "Female": 1.2}, "2015": {"value": 22.299999999999997, "Male": 20.4, "Female": 1.9}, "2012": {"value": 25.2, "Male": 22.8, "Female": 2.4}, "2010": {"value": 27.299999999999997, "Male": 24.4, "Female": 2.9}, "2005": {"value": 34.1, "Male": 29.5, "Female": 4.6}, "2000": {"value": 43.199999999999996, "Male": 35.9, "Female": 7.3}}, "Indonesia": {"2025": {"value": 89.8, "Male": 87.2, "Female": 2.6}, "2020": {"value": 85.7, "Male": 82.7, "Female": 3.0}, "2015": {"value": 79.8, "Male": 76.2, "Female": 3.6}, "2012": {"value": 75.8, "Male": 71.8, "Female": 4.0}, "2010": {"value": 72.60000000000001, "Male": 68.4, "Female": 4.2}, "2005": {"value": 67.0, "Male": 62.0, "Female": 5.0}, "2000": {"value": 62.2, "Male": 56.2, "Female": 6.0}}, "Iran (Islamic Republic of)": {"2025": {"value": 17.9, "Male": 17.7, "Female": 0.2}, "2020": {"value": 19.799999999999997, "Male": 19.4, "Female": 0.4}, "2015": {"value": 22.2, "Male": 21.5, "Female": 0.7}, "2012": {"value": 24.0, "Male": 22.9, "Female": 1.1}, "2010": {"value": 25.3, "Male": 23.8, "Female": 1.5}, "2005": {"value": 29.7, "Male": 26.8, "Female": 2.9}, "2000": {"value": 36.0, "Male": 30.2, "Female": 5.8}}, "Ireland": {"2025": {"value": 35.8, "Male": 17.8, "Female": 18.0}, "2020": {"value": 39.8, "Male": 20.0, "Female": 19.8}, "2015": {"value": 44.3, "Male": 22.4, "Female": 21.9}, "2012": {"value": 47.7, "Male": 24.2, "Female": 23.5}, "2010": {"value": 49.9, "Male": 25.5, "Female": 24.4}, "2005": {"value": 56.2, "Male": 28.9, "Female": 27.3}, "2000": {"value": 63.6, "Male": 33.1, "Female": 30.5}}, "Israel": {"2025": {"value": 59.0, "Male": 41.1, "Female": 17.9}, "2020": {"value": 59.7, "Male": 41.0, "Female": 18.7}, "2015": {"value": 60.5, "Male": 41.2, "Female": 19.3}, "2012": {"value": 61.800000000000004, "Male": 41.7, "Female": 20.1}, "2010": {"value": 62.199999999999996, "Male": 41.8, "Female": 20.4}, "2005": {"value": 64.1, "Male": 42.5, "Female": 21.6}, "2000": {"value": 66.4, "Male": 43.6, "Female": 22.8}}, "Italy": {"2025": {"value": 45.400000000000006, "Male": 25.8, "Female": 19.6}, "2020": {"value": 46.5, "Male": 26.9, "Female": 19.6}, "2015": {"value": 48.0, "Male": 28.3, "Female": 19.7}, "2012": {"value": 48.900000000000006, "Male": 29.1, "Female": 19.8}, "2010": {"value": 49.5, "Male": 29.7, "Female": 19.8}, "2005": {"value": 51.3, "Male": 31.2, "Female": 20.1}, "2000": {"value": 53.099999999999994, "Male": 32.9, "Female": 20.2}}, "Jamaica": {"2025": {"value": 36.3, "Male": 31.7, "Female": 4.6}, "2020": {"value": 35.9, "Male": 30.7, "Female": 5.2}, "2015": {"value": 35.8, "Male": 29.9, "Female": 5.9}, "2012": {"value": 35.9, "Male": 29.5, "Female": 6.4}, "2010": {"value": 36.0, "Male": 29.3, "Female": 6.7}, "2005": {"value": 36.699999999999996, "Male": 28.9, "Female": 7.8}, "2000": {"value": 37.9, "Male": 29.0, "Female": 8.9}}, "Japan": {"2025": {"value": 34.2, "Male": 25.5, "Female": 8.7}, "2020": {"value": 38.8, "Male": 29.2, "Female": 9.6}, "2015": {"value": 44.300000000000004, "Male": 33.7, "Female": 10.6}, "2012": {"value": 47.599999999999994, "Male": 36.3, "Female": 11.3}, "2010": {"value": 50.099999999999994, "Male": 38.4, "Female": 11.7}, "2005": {"value": 57.4, "Male": 44.4, "Female": 13.0}, "2000": {"value": 65.7, "Male": 51.3, "Female": 14.4}}, "Jordan": {"2025": {"value": 100.3, "Male": 86.5, "Female": 13.8}, "2020": {"value": 92.5, "Male": 80.4, "Female": 12.1}, "2015": {"value": 80.9, "Male": 70.2, "Female": 10.7}, "2012": {"value": 73.6, "Male": 63.6, "Female": 10.0}, "2010": {"value": 68.4, "Male": 58.9, "Female": 9.5}, "2005": {"value": 58.1, "Male": 49.6, "Female": 8.5}, "2000": {"value": 49.7, "Male": 42.0, "Female": 7.7}}, "Kazakhstan": {"2025": {"value": 45.400000000000006, "Male": 37.2, "Female": 8.2}, "2020": {"value": 49.0, "Male": 40.3, "Female": 8.7}, "2015": {"value": 53.2, "Male": 43.9, "Female": 9.3}, "2012": {"value": 56.0, "Male": 46.3, "Female": 9.7}, "2010": {"value": 57.699999999999996, "Male": 47.8, "Female": 9.9}, "2005": {"value": 62.800000000000004, "Male": 52.2, "Female": 10.6}, "2000": {"value": 68.9, "Male": 57.4, "Female": 11.5}}, "Kenya": {"2025": {"value": 23.099999999999998, "Male": 21.4, "Female": 1.7}, "2020": {"value": 24.799999999999997, "Male": 22.9, "Female": 1.9}, "2015": {"value": 26.700000000000003, "Male": 24.6, "Female": 2.1}, "2012": {"value": 28.0, "Male": 25.7, "Female": 2.3}, "2010": {"value": 28.7, "Male": 26.3, "Female": 2.4}, "2005": {"value": 31.2, "Male": 28.5, "Female": 2.7}, "2000": {"value": 34.0, "Male": 31.0, "Female": 3.0}}, "Kiribati": {"2025": {"value": 91.69999999999999, "Male": 54.9, "Female": 36.8}, "2020": {"value": 97.9, "Male": 59.1, "Female": 38.8}, "2015": {"value": 104.8, "Male": 63.9, "Female": 40.9}, "2012": {"value": 109.9, "Male": 67.3, "Female": 42.6}, "2010": {"value": 113.0, "Male": 69.3, "Female": 43.7}, "2005": {"value": 123.0, "Male": 75.9, "Female": 47.1}, "2000": {"value": 133.1, "Male": 82.0, "Female": 51.1}}, "Kyrgyzstan": {"2025": {"value": 53.4, "Male": 50.4, "Female": 3.0}, "2020": {"value": 53.599999999999994, "Male": 50.3, "Female": 3.3}, "2015": {"value": 54.0, "Male": 50.4, "Female": 3.6}, "2012": {"value": 54.0, "Male": 50.2, "Female": 3.8}, "2010": {"value": 54.3, "Male": 50.4, "Female": 3.9}, "2005": {"value": 54.699999999999996, "Male": 50.3, "Female": 4.4}, "2000": {"value": 55.9, "Male": 51.1, "Female": 4.8}}, "Lao People's Democratic Republic": {"2025": {"value": 53.4, "Male": 48.0, "Female": 5.4}, "2020": {"value": 58.9, "Male": 51.9, "Female": 7.0}, "2015": {"value": 65.7, "Male": 56.6, "Female": 9.1}, "2012": {"value": 70.5, "Male": 59.8, "Female": 10.7}, "2010": {"value": 73.60000000000001, "Male": 61.7, "Female": 11.9}, "2005": {"value": 83.3, "Male": 67.6, "Female": 15.7}, "2000": {"value": 94.9, "Male": 74.2, "Female": 20.7}}, "Latvia": {"2025": {"value": 68.5, "Male": 44.4, "Female": 24.1}, "2020": {"value": 70.7, "Male": 46.5, "Female": 24.2}, "2015": {"value": 73.2, "Male": 48.9, "Female": 24.3}, "2012": {"value": 74.9, "Male": 50.5, "Female": 24.4}, "2010": {"value": 76.0, "Male": 51.6, "Female": 24.4}, "2005": {"value": 78.5, "Male": 53.9, "Female": 24.6}, "2000": {"value": 82.1, "Male": 57.1, "Female": 25.0}}, "Lebanon": {"2025": {"value": 93.1, "Male": 55.4, "Female": 37.7}, "2020": {"value": 84.30000000000001, "Male": 50.2, "Female": 34.1}, "2015": {"value": 76.4, "Male": 45.4, "Female": 31.0}, "2012": {"value": 72.4, "Male": 43.0, "Female": 29.4}, "2010": {"value": 70.0, "Male": 41.7, "Female": 28.3}, "2005": {"value": 64.5, "Male": 38.3, "Female": 26.2}, "2000": {"value": 59.7, "Male": 35.4, "Female": 24.3}}, "Lesotho": {"2025": {"value": 74.0, "Male": 73.6, "Female": 0.4}, "2020": {"value": 64.7, "Male": 64.3, "Female": 0.4}, "2015": {"value": 55.5, "Male": 55.1, "Female": 0.4}, "2012": {"value": 50.5, "Male": 50.1, "Female": 0.4}, "2010": {"value": 47.7, "Male": 47.2, "Female": 0.5}, "2005": {"value": 41.2, "Male": 40.7, "Female": 0.5}, "2000": {"value": 35.800000000000004, "Male": 35.2, "Female": 0.6}}, "Liberia": {"2025": {"value": 38.900000000000006, "Male": 37.2, "Female": 1.7}, "2020": {"value": 34.0, "Male": 32.0, "Female": 2.0}, "2015": {"value": 30.0, "Male": 27.6, "Female": 2.4}, "2012": {"value": 28.099999999999998, "Male": 25.4, "Female": 2.7}, "2010": {"value": 26.7, "Male": 23.9, "Female": 2.8}, "2005": {"value": 24.4, "Male": 21.0, "Female": 3.4}, "2000": {"value": 22.5, "Male": 18.4, "Female": 4.1}}, "Lithuania": {"2025": {"value": 54.6, "Male": 31.0, "Female": 23.6}, "2020": {"value": 57.1, "Male": 34.2, "Female": 22.9}, "2015": {"value": 60.3, "Male": 38.1, "Female": 22.2}, "2012": {"value": 62.4, "Male": 40.5, "Female": 21.9}, "2010": {"value": 64.1, "Male": 42.3, "Female": 21.8}, "2005": {"value": 68.6, "Male": 47.3, "Female": 21.3}, "2000": {"value": 74.0, "Male": 53.1, "Female": 20.9}}, "Luxembourg": {"2025": {"value": 41.2, "Male": 21.8, "Female": 19.4}, "2020": {"value": 44.2, "Male": 23.8, "Female": 20.4}, "2015": {"value": 47.2, "Male": 25.8, "Female": 21.4}, "2012": {"value": 49.7, "Male": 27.4, "Female": 22.3}, "2010": {"value": 51.099999999999994, "Male": 28.4, "Female": 22.7}, "2005": {"value": 55.2, "Male": 31.1, "Female": 24.1}, "2000": {"value": 60.099999999999994, "Male": 34.3, "Female": 25.8}}, "Malawi": {"2025": {"value": 26.3, "Male": 21.8, "Female": 4.5}, "2020": {"value": 28.7, "Male": 23.5, "Female": 5.2}, "2015": {"value": 31.4, "Male": 25.4, "Female": 6.0}, "2012": {"value": 33.2, "Male": 26.6, "Female": 6.6}, "2010": {"value": 34.6, "Male": 27.6, "Female": 7.0}, "2005": {"value": 38.2, "Male": 30.0, "Female": 8.2}, "2000": {"value": 42.5, "Male": 32.8, "Female": 9.7}}, "Malaysia": {"2025": {"value": 38.599999999999994, "Male": 37.8, "Female": 0.8}, "2020": {"value": 41.300000000000004, "Male": 40.2, "Female": 1.1}, "2015": {"value": 44.4, "Male": 43.0, "Female": 1.4}, "2012": {"value": 46.5, "Male": 44.9, "Female": 1.6}, "2010": {"value": 48.0, "Male": 46.2, "Female": 1.8}, "2005": {"value": 52.4, "Male": 50.0, "Female": 2.4}, "2000": {"value": 58.0, "Male": 54.8, "Female": 3.2}}, "Mali": {"2025": {"value": 57.8, "Male": 55.0, "Female": 2.8}, "2020": {"value": 48.1, "Male": 45.1, "Female": 3.0}, "2015": {"value": 40.0, "Male": 36.8, "Female": 3.2}, "2012": {"value": 36.0, "Male": 32.6, "Female": 3.4}, "2010": {"value": 33.8, "Male": 30.3, "Female": 3.5}, "2005": {"value": 28.599999999999998, "Male": 24.9, "Female": 3.7}, "2000": {"value": 24.700000000000003, "Male": 20.6, "Female": 4.1}}, "Malta": {"2025": {"value": 42.9, "Male": 25.9, "Female": 17.0}, "2020": {"value": 46.3, "Male": 27.7, "Female": 18.6}, "2015": {"value": 49.9, "Male": 29.7, "Female": 20.2}, "2012": {"value": 53.0, "Male": 31.5, "Female": 21.5}, "2010": {"value": 54.5, "Male": 32.5, "Female": 22.0}, "2005": {"value": 59.7, "Male": 35.4, "Female": 24.3}, "2000": {"value": 65.69999999999999, "Male": 38.8, "Female": 26.9}}, "Mauritania": {"2025": {"value": 67.7, "Male": 64.9, "Female": 2.8}, "2020": {"value": 57.5, "Male": 54.3, "Female": 3.2}, "2015": {"value": 47.7, "Male": 44.0, "Female": 3.7}, "2012": {"value": 42.9, "Male": 38.9, "Female": 4.0}, "2010": {"value": 40.0, "Male": 35.8, "Female": 4.2}, "2005": {"value": 34.1, "Male": 29.2, "Female": 4.9}, "2000": {"value": 29.599999999999998, "Male": 23.9, "Female": 5.7}}, "Mauritius": {"2025": {"value": 39.800000000000004, "Male": 37.2, "Female": 2.6}, "2020": {"value": 41.5, "Male": 38.6, "Female": 2.9}, "2015": {"value": 43.4, "Male": 40.1, "Female": 3.3}, "2012": {"value": 44.8, "Male": 41.3, "Female": 3.5}, "2010": {"value": 45.7, "Male": 42.0, "Female": 3.7}, "2005": {"value": 48.300000000000004, "Male": 44.1, "Female": 4.2}, "2000": {"value": 51.4, "Male": 46.6, "Female": 4.8}}, "Mexico": {"2025": {"value": 18.8, "Male": 14.5, "Female": 4.3}, "2020": {"value": 22.6, "Male": 17.3, "Female": 5.3}, "2015": {"value": 27.4, "Male": 20.8, "Female": 6.6}, "2012": {"value": 30.9, "Male": 23.3, "Female": 7.6}, "2010": {"value": 33.5, "Male": 25.1, "Female": 8.4}, "2005": {"value": 40.7, "Male": 30.2, "Female": 10.5}, "2000": {"value": 49.900000000000006, "Male": 36.6, "Female": 13.3}}, "Mongolia": {"2025": {"value": 47.3, "Male": 43.5, "Female": 3.8}, "2020": {"value": 49.9, "Male": 45.4, "Female": 4.5}, "2015": {"value": 53.0, "Male": 47.7, "Female": 5.3}, "2012": {"value": 55.099999999999994, "Male": 49.3, "Female": 5.8}, "2010": {"value": 56.599999999999994, "Male": 50.3, "Female": 6.3}, "2005": {"value": 61.1, "Male": 53.6, "Female": 7.5}, "2000": {"value": 65.9, "Male": 56.9, "Female": 9.0}}, "Morocco": {"2025": {"value": 57.7, "Male": 57.0, "Female": 0.7}, "2020": {"value": 52.3, "Male": 51.3, "Female": 1.0}, "2015": {"value": 46.8, "Male": 45.4, "Female": 1.4}, "2012": {"value": 44.2, "Male": 42.5, "Female": 1.7}, "2010": {"value": 42.5, "Male": 40.6, "Female": 1.9}, "2005": {"value": 39.199999999999996, "Male": 36.4, "Female": 2.8}, "2000": {"value": 37.1, "Male": 33.1, "Female": 4.0}}, "Mozambique": {"2025": {"value": 31.599999999999998, "Male": 26.4, "Female": 5.2}, "2020": {"value": 34.3, "Male": 28.8, "Female": 5.5}, "2015": {"value": 37.3, "Male": 31.4, "Female": 5.9}, "2012": {"value": 39.6, "Male": 33.4, "Female": 6.2}, "2010": {"value": 41.199999999999996, "Male": 34.8, "Female": 6.4}, "2005": {"value": 45.4, "Male": 38.5, "Female": 6.9}, "2000": {"value": 50.300000000000004, "Male": 42.7, "Female": 7.6}}, "Myanmar": {"2025": {"value": 25.8, "Male": 22.0, "Female": 3.8}, "2020": {"value": 31.1, "Male": 26.2, "Female": 4.9}, "2015": {"value": 38.0, "Male": 31.6, "Female": 6.4}, "2012": {"value": 42.900000000000006, "Male": 35.2, "Female": 7.7}, "2010": {"value": 46.9, "Male": 38.3, "Female": 8.6}, "2005": {"value": 58.0, "Male": 46.4, "Female": 11.6}, "2000": {"value": 72.4, "Male": 56.6, "Female": 15.8}}, "Namibia": {"2025": {"value": 57.2, "Male": 47.4, "Female": 9.8}, "2020": {"value": 53.4, "Male": 42.9, "Female": 10.5}, "2015": {"value": 50.3, "Male": 38.9, "Female": 11.4}, "2012": {"value": 48.4, "Male": 36.4, "Female": 12.0}, "2010": {"value": 47.400000000000006, "Male": 35.1, "Female": 12.3}, "2005": {"value": 45.3, "Male": 31.9, "Female": 13.4}, "2000": {"value": 44.0, "Male": 29.3, "Female": 14.7}}, "Nauru": {"2025": {"value": 83.69999999999999, "Male": 36.9, "Female": 46.8}, "2020": {"value": 88.7, "Male": 39.5, "Female": 49.2}, "2015": {"value": 95.0, "Male": 43.0, "Female": 52.0}, "2012": {"value": 99.1, "Male": 45.4, "Female": 53.7}, "2010": {"value": 102.4, "Male": 46.9, "Female": 55.5}, "2005": {"value": 110.9, "Male": 51.6, "Female": 59.3}, "2000": {"value": 120.9, "Male": 57.0, "Female": 63.9}}, "Nepal": {"2025": {"value": 38.199999999999996, "Male": 32.9, "Female": 5.3}, "2020": {"value": 42.400000000000006, "Male": 34.7, "Female": 7.7}, "2015": {"value": 48.2, "Male": 37.1, "Female": 11.1}, "2012": {"value": 52.6, "Male": 38.7, "Female": 13.9}, "2010": {"value": 55.800000000000004, "Male": 39.7, "Female": 16.1}, "2005": {"value": 66.0, "Male": 42.5, "Female": 23.5}, "2000": {"value": 79.9, "Male": 45.6, "Female": 34.3}}, "Netherlands": {"2025": {"value": 41.0, "Male": 20.6, "Female": 20.4}, "2020": {"value": 45.0, "Male": 22.9, "Female": 22.1}, "2015": {"value": 50.099999999999994, "Male": 26.2, "Female": 23.9}, "2012": {"value": 52.2, "Male": 27.5, "Female": 24.7}, "2010": {"value": 55.3, "Male": 29.4, "Female": 25.9}, "2005": {"value": 60.800000000000004, "Male": 32.7, "Female": 28.1}, "2000": {"value": 67.4, "Male": 36.7, "Female": 30.7}}, "Niger": {"2025": {"value": 31.1, "Male": 31.0, "Female": 0.1}, "2020": {"value": 24.2, "Male": 24.0, "Female": 0.2}, "2015": {"value": 18.8, "Male": 18.6, "Female": 0.2}, "2012": {"value": 16.1, "Male": 15.9, "Female": 0.2}, "2010": {"value": 14.6, "Male": 14.4, "Female": 0.2}, "2005": {"value": 11.600000000000001, "Male": 11.3, "Female": 0.3}, "2000": {"value": 9.3, "Male": 9.0, "Female": 0.3}}, "Nigeria": {"2025": {"value": 24.5, "Male": 23.8, "Female": 0.7}, "2020": {"value": 21.099999999999998, "Male": 20.2, "Female": 0.9}, "2015": {"value": 18.5, "Male": 17.4, "Female": 1.1}, "2012": {"value": 17.1, "Male": 15.9, "Female": 1.2}, "2010": {"value": 16.3, "Male": 15.0, "Female": 1.3}, "2005": {"value": 14.6, "Male": 13.0, "Female": 1.6}, "2000": {"value": 13.3, "Male": 11.3, "Female": 2.0}}, "Niue": {"2025": {"value": 25.7, "Male": 16.2, "Female": 9.5}, "2020": {"value": 28.5, "Male": 18.2, "Female": 10.3}, "2015": {"value": 31.700000000000003, "Male": 20.3, "Female": 11.4}, "2012": {"value": 33.9, "Male": 21.9, "Female": 12.0}, "2010": {"value": 35.7, "Male": 23.2, "Female": 12.5}, "2005": {"value": 40.5, "Male": 26.5, "Female": 14.0}, "2000": {"value": 46.3, "Male": 30.6, "Female": 15.7}}, "Norway": {"2025": {"value": 29.1, "Male": 14.4, "Female": 14.7}, "2020": {"value": 36.0, "Male": 17.9, "Female": 18.1}, "2015": {"value": 44.5, "Male": 22.4, "Female": 22.1}, "2012": {"value": 50.4, "Male": 25.5, "Female": 24.9}, "2010": {"value": 55.1, "Male": 28.0, "Female": 27.1}, "2005": {"value": 68.1, "Male": 34.7, "Female": 33.4}, "2000": {"value": 84.1, "Male": 43.1, "Female": 41.0}}, "Oman": {"2025": {"value": 32.1, "Male": 30.8, "Female": 1.3}, "2020": {"value": 26.5, "Male": 25.4, "Female": 1.1}, "2015": {"value": 22.0, "Male": 21.0, "Female": 1.0}, "2012": {"value": 19.9, "Male": 18.9, "Female": 1.0}, "2010": {"value": 18.5, "Male": 17.5, "Female": 1.0}, "2005": {"value": 15.700000000000001, "Male": 14.8, "Female": 0.9}, "2000": {"value": 13.3, "Male": 12.5, "Female": 0.8}}, "Pakistan": {"2025": {"value": 47.9, "Male": 46.3, "Female": 1.6}, "2020": {"value": 46.0, "Male": 43.9, "Female": 2.1}, "2015": {"value": 44.9, "Male": 41.9, "Female": 3.0}, "2012": {"value": 44.2, "Male": 40.6, "Female": 3.6}, "2010": {"value": 44.400000000000006, "Male": 40.2, "Female": 4.2}, "2005": {"value": 44.4, "Male": 38.5, "Female": 5.9}, "2000": {"value": 45.8, "Male": 37.4, "Female": 8.4}}, "Panama": {"2025": {"value": 7.8, "Male": 6.1, "Female": 1.7}, "2020": {"value": 10.1, "Male": 8.0, "Female": 2.1}, "2015": {"value": 13.2, "Male": 10.6, "Female": 2.6}, "2012": {"value": 15.4, "Male": 12.5, "Female": 2.9}, "2010": {"value": 17.3, "Male": 14.1, "Female": 3.2}, "2005": {"value": 23.0, "Male": 18.9, "Female": 4.1}, "2000": {"value": 30.7, "Male": 25.5, "Female": 5.2}}, "Paraguay": {"2025": {"value": 26.4, "Male": 21.0, "Female": 5.4}, "2020": {"value": 30.9, "Male": 24.4, "Female": 6.5}, "2015": {"value": 36.2, "Male": 28.3, "Female": 7.9}, "2012": {"value": 40.3, "Male": 31.3, "Female": 9.0}, "2010": {"value": 42.8, "Male": 33.1, "Female": 9.7}, "2005": {"value": 51.0, "Male": 39.0, "Female": 12.0}, "2000": {"value": 61.1, "Male": 46.2, "Female": 14.9}}, "Peru": {"2025": {"value": 4.3, "Female": 4.3}, "2020": {"value": 5.0, "Female": 5.0}, "2015": {"value": 5.9, "Female": 5.9}, "2012": {"value": 6.5, "Female": 6.5}, "2010": {"value": 6.9, "Female": 6.9}, "2005": {"value": 8.2, "Female": 8.2}, "2000": {"value": 9.7, "Female": 9.7}}, "Philippines": {"2025": {"value": 42.1, "Male": 35.6, "Female": 6.5}, "2020": {"value": 46.4, "Male": 39.0, "Female": 7.4}, "2015": {"value": 51.5, "Male": 43.0, "Female": 8.5}, "2012": {"value": 55.0, "Male": 45.8, "Female": 9.2}, "2010": {"value": 57.3, "Male": 47.6, "Female": 9.7}, "2005": {"value": 64.4, "Male": 53.2, "Female": 11.2}, "2000": {"value": 72.0, "Male": 59.1, "Female": 12.9}}, "Poland": {"2025": {"value": 43.8, "Male": 26.0, "Female": 17.8}, "2020": {"value": 49.5, "Male": 28.9, "Female": 20.6}, "2015": {"value": 56.099999999999994, "Male": 32.4, "Female": 23.7}, "2012": {"value": 61.0, "Male": 34.9, "Female": 26.1}, "2010": {"value": 64.2, "Male": 36.5, "Female": 27.7}, "2005": {"value": 73.30000000000001, "Male": 41.1, "Female": 32.2}, "2000": {"value": 84.8, "Male": 46.9, "Female": 37.9}}, "Portugal": {"2025": {"value": 42.2, "Male": 29.3, "Female": 12.9}, "2020": {"value": 43.5, "Male": 30.3, "Female": 13.2}, "2015": {"value": 45.2, "Male": 31.5, "Female": 13.7}, "2012": {"value": 46.4, "Male": 32.4, "Female": 14.0}, "2010": {"value": 47.099999999999994, "Male": 32.9, "Female": 14.2}, "2005": {"value": 49.4, "Male": 34.5, "Female": 14.9}, "2000": {"value": 51.8, "Male": 36.1, "Female": 15.7}}, "Republic of Korea": {"2025": {"value": 47.6, "Male": 44.0, "Female": 3.6}, "2020": {"value": 50.699999999999996, "Male": 46.9, "Female": 3.8}, "2015": {"value": 54.0, "Male": 49.8, "Female": 4.2}, "2012": {"value": 56.1, "Male": 51.7, "Female": 4.4}, "2010": {"value": 57.9, "Male": 53.3, "Female": 4.6}, "2005": {"value": 62.0, "Male": 57.0, "Female": 5.0}, "2000": {"value": 67.1, "Male": 61.5, "Female": 5.6}}, "Republic of Moldova": {"2025": {"value": 55.199999999999996, "Male": 49.8, "Female": 5.4}, "2020": {"value": 53.199999999999996, "Male": 47.8, "Female": 5.4}, "2015": {"value": 51.1, "Male": 45.7, "Female": 5.4}, "2012": {"value": 50.0, "Male": 44.6, "Female": 5.4}, "2010": {"value": 49.5, "Male": 44.1, "Female": 5.4}, "2005": {"value": 47.5, "Male": 42.1, "Female": 5.4}, "2000": {"value": 46.2, "Male": 40.7, "Female": 5.5}}, "Romania": {"2025": {"value": 49.900000000000006, "Male": 29.8, "Female": 20.1}, "2020": {"value": 54.400000000000006, "Male": 33.1, "Female": 21.3}, "2015": {"value": 59.599999999999994, "Male": 36.9, "Female": 22.7}, "2012": {"value": 62.9, "Male": 39.5, "Female": 23.4}, "2010": {"value": 65.3, "Male": 41.4, "Female": 23.9}, "2005": {"value": 72.2, "Male": 46.6, "Female": 25.6}, "2000": {"value": 80.19999999999999, "Male": 52.8, "Female": 27.4}}, "Russian Federation": {"2025": {"value": 78.6, "Male": 54.6, "Female": 24.0}, "2020": {"value": 80.19999999999999, "Male": 56.8, "Female": 23.4}, "2015": {"value": 81.8, "Male": 59.0, "Female": 22.8}, "2012": {"value": 82.8, "Male": 60.3, "Female": 22.5}, "2010": {"value": 83.6, "Male": 61.2, "Female": 22.4}, "2005": {"value": 86.1, "Male": 64.0, "Female": 22.1}, "2000": {"value": 89.0, "Male": 67.2, "Female": 21.8}}, "Rwanda": {"2025": {"value": 5.0, "Female": 5.0}, "2020": {"value": 5.2, "Female": 5.2}, "2015": {"value": 5.5, "Female": 5.5}, "2012": {"value": 5.7, "Female": 5.7}, "2010": {"value": 5.8, "Female": 5.8}, "2005": {"value": 6.3, "Female": 6.3}, "2000": {"value": 6.7, "Female": 6.7}}, "Samoa": {"2025": {"value": 47.5, "Male": 31.6, "Female": 15.9}, "2020": {"value": 53.2, "Male": 35.9, "Female": 17.3}, "2015": {"value": 59.9, "Male": 41.0, "Female": 18.9}, "2012": {"value": 64.9, "Male": 44.8, "Female": 20.1}, "2010": {"value": 68.3, "Male": 47.4, "Female": 20.9}, "2005": {"value": 78.2, "Male": 54.9, "Female": 23.3}, "2000": {"value": 89.4, "Male": 63.4, "Female": 26.0}}, "Saudi Arabia": {"2025": {"value": 38.1, "Male": 35.5, "Female": 2.6}, "2020": {"value": 34.1, "Male": 31.4, "Female": 2.7}, "2015": {"value": 30.799999999999997, "Male": 27.9, "Female": 2.9}, "2012": {"value": 29.3, "Male": 26.3, "Female": 3.0}, "2010": {"value": 27.9, "Male": 24.9, "Female": 3.0}, "2005": {"value": 25.6, "Male": 22.3, "Female": 3.3}, "2000": {"value": 23.7, "Male": 20.2, "Female": 3.5}}, "Senegal": {"2025": {"value": 29.2, "Male": 28.7, "Female": 0.5}, "2020": {"value": 26.400000000000002, "Male": 25.8, "Female": 0.6}, "2015": {"value": 24.099999999999998, "Male": 23.4, "Female": 0.7}, "2012": {"value": 22.900000000000002, "Male": 22.1, "Female": 0.8}, "2010": {"value": 22.099999999999998, "Male": 21.2, "Female": 0.9}, "2005": {"value": 20.3, "Male": 19.2, "Female": 1.1}, "2000": {"value": 19.0, "Male": 17.6, "Female": 1.4}}, "Serbia": {"2025": {"value": 76.8, "Male": 37.9, "Female": 38.9}, "2020": {"value": 79.9, "Male": 40.6, "Female": 39.3}, "2015": {"value": 83.30000000000001, "Male": 43.6, "Female": 39.7}, "2012": {"value": 85.3, "Male": 45.5, "Female": 39.8}, "2010": {"value": 87.0, "Male": 46.8, "Female": 40.2}, "2005": {"value": 91.0, "Male": 50.4, "Female": 40.6}, "2000": {"value": 95.80000000000001, "Male": 54.6, "Female": 41.2}}, "Seychelles": {"2025": {"value": 48.5, "Male": 40.9, "Female": 7.6}, "2020": {"value": 50.3, "Male": 42.1, "Female": 8.2}, "2015": {"value": 51.8, "Male": 43.0, "Female": 8.8}, "2012": {"value": 53.2, "Male": 44.0, "Female": 9.2}, "2010": {"value": 54.3, "Male": 44.8, "Female": 9.5}, "2005": {"value": 56.5, "Male": 46.2, "Female": 10.3}, "2000": {"value": 59.3, "Male": 48.1, "Female": 11.2}}, "Sierra Leone": {"2025": {"value": 84.9, "Male": 76.2, "Female": 8.7}, "2020": {"value": 78.8, "Male": 68.6, "Female": 10.2}, "2015": {"value": 72.0, "Male": 60.0, "Female": 12.0}, "2012": {"value": 68.4, "Male": 55.0, "Female": 13.4}, "2010": {"value": 66.5, "Male": 52.1, "Female": 14.4}, "2005": {"value": 62.8, "Male": 45.6, "Female": 17.2}, "2000": {"value": 61.0, "Male": 40.1, "Female": 20.9}}, "Singapore": {"2025": {"value": 33.5, "Male": 28.8, "Female": 4.7}, "2020": {"value": 33.2, "Male": 28.3, "Female": 4.9}, "2015": {"value": 33.0, "Male": 28.0, "Female": 5.0}, "2012": {"value": 32.9, "Male": 27.7, "Female": 5.2}, "2010": {"value": 32.9, "Male": 27.6, "Female": 5.3}, "2005": {"value": 33.0, "Male": 27.5, "Female": 5.5}, "2000": {"value": 33.199999999999996, "Male": 27.4, "Female": 5.8}}, "Slovakia": {"2025": {"value": 52.9, "Male": 37.0, "Female": 15.9}, "2020": {"value": 54.900000000000006, "Male": 38.1, "Female": 16.8}, "2015": {"value": 57.300000000000004, "Male": 39.7, "Female": 17.6}, "2012": {"value": 58.800000000000004, "Male": 40.7, "Female": 18.1}, "2010": {"value": 60.0, "Male": 41.4, "Female": 18.6}, "2005": {"value": 63.6, "Male": 43.7, "Female": 19.9}, "2000": {"value": 67.6, "Male": 46.2, "Female": 21.4}}, "Slovenia": {"2025": {"value": 34.6, "Male": 18.7, "Female": 15.9}, "2020": {"value": 37.4, "Male": 20.4, "Female": 17.0}, "2015": {"value": 40.400000000000006, "Male": 22.3, "Female": 18.1}, "2012": {"value": 42.5, "Male": 23.6, "Female": 18.9}, "2010": {"value": 44.1, "Male": 24.6, "Female": 19.5}, "2005": {"value": 48.0, "Male": 27.0, "Female": 21.0}, "2000": {"value": 52.5, "Male": 29.9, "Female": 22.6}}, "South Africa": {"2025": {"value": 33.800000000000004, "Male": 29.6, "Female": 4.2}, "2020": {"value": 35.6, "Male": 30.4, "Female": 5.2}, "2015": {"value": 37.9, "Male": 31.4, "Female": 6.5}, "2012": {"value": 39.5, "Male": 32.1, "Female": 7.4}, "2010": {"value": 40.5, "Male": 32.5, "Female": 8.0}, "2005": {"value": 43.9, "Male": 33.9, "Female": 10.0}, "2000": {"value": 47.8, "Male": 35.3, "Female": 12.5}}, "Spain": {"2025": {"value": 49.2, "Male": 24.8, "Female": 24.4}, "2020": {"value": 53.7, "Male": 28.0, "Female": 25.7}, "2015": {"value": 58.400000000000006, "Male": 31.3, "Female": 27.1}, "2012": {"value": 61.7, "Male": 33.7, "Female": 28.0}, "2010": {"value": 63.9, "Male": 35.3, "Female": 28.6}, "2005": {"value": 70.19999999999999, "Male": 39.8, "Female": 30.4}, "2000": {"value": 77.5, "Male": 45.2, "Female": 32.3}}, "Sri Lanka": {"2025": {"value": 27.900000000000002, "Male": 27.8, "Female": 0.1}, "2020": {"value": 28.3, "Male": 28.1, "Female": 0.2}, "2015": {"value": 28.799999999999997, "Male": 28.4, "Female": 0.4}, "2012": {"value": 29.3, "Male": 28.8, "Female": 0.5}, "2010": {"value": 29.900000000000002, "Male": 29.3, "Female": 0.6}, "2005": {"value": 31.3, "Male": 30.2, "Female": 1.1}, "2000": {"value": 33.4, "Male": 31.5, "Female": 1.9}}, "Sweden": {"2025": {"value": 29.9, "Male": 15.0, "Female": 14.9}, "2020": {"value": 35.1, "Male": 17.5, "Female": 17.6}, "2015": {"value": 41.2, "Male": 20.4, "Female": 20.8}, "2012": {"value": 45.3, "Male": 22.3, "Female": 23.0}, "2010": {"value": 48.3, "Male": 23.8, "Female": 24.5}, "2005": {"value": 56.8, "Male": 27.7, "Female": 29.1}, "2000": {"value": 67.2, "Male": 32.6, "Female": 34.6}}, "Switzerland": {"2025": {"value": 39.2, "Male": 22.7, "Female": 16.5}, "2020": {"value": 42.8, "Male": 24.7, "Female": 18.1}, "2015": {"value": 46.599999999999994, "Male": 26.9, "Female": 19.7}, "2012": {"value": 49.2, "Male": 28.3, "Female": 20.9}, "2010": {"value": 50.9, "Male": 29.2, "Female": 21.7}, "2005": {"value": 55.6, "Male": 31.8, "Female": 23.8}, "2000": {"value": 61.1, "Male": 35.0, "Female": 26.1}}, "Thailand": {"2025": {"value": 40.199999999999996, "Male": 38.3, "Female": 1.9}, "2020": {"value": 41.800000000000004, "Male": 39.7, "Female": 2.1}, "2015": {"value": 43.699999999999996, "Male": 41.4, "Female": 2.3}, "2012": {"value": 44.699999999999996, "Male": 42.3, "Female": 2.4}, "2010": {"value": 45.7, "Male": 43.2, "Female": 2.5}, "2005": {"value": 47.699999999999996, "Male": 44.9, "Female": 2.8}, "2000": {"value": 49.7, "Male": 46.6, "Female": 3.1}}, "Tonga": {"2025": {"value": 55.9, "Male": 44.0, "Female": 11.9}, "2020": {"value": 58.0, "Male": 45.6, "Female": 12.4}, "2015": {"value": 60.3, "Male": 47.3, "Female": 13.0}, "2012": {"value": 61.7, "Male": 48.4, "Female": 13.3}, "2010": {"value": 62.9, "Male": 49.3, "Female": 13.6}, "2005": {"value": 66.1, "Male": 51.8, "Female": 14.3}, "2000": {"value": 69.5, "Male": 54.4, "Female": 15.1}}, "Turkey": {"2025": {"value": 39.9, "Male": 30.7, "Female": 9.2}, "2020": {"value": 45.300000000000004, "Male": 34.7, "Female": 10.6}, "2015": {"value": 51.9, "Male": 39.5, "Female": 12.4}, "2012": {"value": 56.2, "Male": 42.7, "Female": 13.5}, "2010": {"value": 59.4, "Male": 45.0, "Female": 14.4}, "2005": {"value": 68.2, "Male": 51.5, "Female": 16.7}, "2000": {"value": 78.4, "Male": 58.7, "Female": 19.7}}, "Uganda": {"2025": {"value": 13.9, "Male": 11.8, "Female": 2.1}, "2020": {"value": 16.2, "Male": 13.8, "Female": 2.4}, "2015": {"value": 19.299999999999997, "Male": 16.4, "Female": 2.9}, "2012": {"value": 21.3, "Male": 18.1, "Female": 3.2}, "2010": {"value": 22.7, "Male": 19.3, "Female": 3.4}, "2005": {"value": 27.1, "Male": 23.1, "Female": 4.0}, "2000": {"value": 32.3, "Male": 27.5, "Female": 4.8}}, "Ukraine": {"2025": {"value": 56.6, "Male": 43.6, "Female": 13.0}, "2020": {"value": 59.8, "Male": 46.3, "Female": 13.5}, "2015": {"value": 63.4, "Male": 49.4, "Female": 14.0}, "2012": {"value": 65.8, "Male": 51.4, "Female": 14.4}, "2010": {"value": 67.2, "Male": 52.6, "Female": 14.6}, "2005": {"value": 71.5, "Male": 56.4, "Female": 15.1}, "2000": {"value": 76.10000000000001, "Male": 60.2, "Female": 15.9}}, "United Kingdom of Great Britain and Northern Ireland": {"2025": {"value": 28.7, "Male": 15.0, "Female": 13.7}, "2020": {"value": 33.2, "Male": 17.3, "Female": 15.9}, "2015": {"value": 38.3, "Male": 19.9, "Female": 18.4}, "2012": {"value": 41.900000000000006, "Male": 21.8, "Female": 20.1}, "2010": {"value": 44.4, "Male": 23.0, "Female": 21.4}, "2005": {"value": 51.5, "Male": 26.8, "Female": 24.7}, "2000": {"value": 60.2, "Male": 31.3, "Female": 28.9}}, "United Republic of Tanzania": {"2025": {"value": 26.4, "Male": 23.2, "Female": 3.2}, "2020": {"value": 28.6, "Male": 25.1, "Female": 3.5}, "2015": {"value": 31.3, "Male": 27.5, "Female": 3.8}, "2012": {"value": 33.2, "Male": 29.2, "Female": 4.0}, "2010": {"value": 34.4, "Male": 30.3, "Female": 4.1}, "2005": {"value": 38.3, "Male": 33.8, "Female": 4.5}, "2000": {"value": 42.5, "Male": 37.6, "Female": 4.9}}, "United States of America": {"2025": {"value": 26.8, "Male": 15.4, "Female": 11.4}, "2020": {"value": 30.4, "Male": 17.4, "Female": 13.0}, "2015": {"value": 34.5, "Male": 19.5, "Female": 15.0}, "2012": {"value": 37.3, "Male": 21.0, "Female": 16.3}, "2010": {"value": 39.3, "Male": 22.0, "Female": 17.3}, "2005": {"value": 44.599999999999994, "Male": 24.7, "Female": 19.9}, "2000": {"value": 50.7, "Male": 27.7, "Female": 23.0}}, "Uruguay": {"2025": {"value": 31.1, "Male": 18.3, "Female": 12.8}, "2020": {"value": 37.7, "Male": 22.0, "Female": 15.7}, "2015": {"value": 46.099999999999994, "Male": 26.7, "Female": 19.4}, "2012": {"value": 52.0, "Male": 30.0, "Female": 22.0}, "2010": {"value": 56.3, "Male": 32.3, "Female": 24.0}, "2005": {"value": 69.2, "Male": 39.6, "Female": 29.6}, "2000": {"value": 84.80000000000001, "Male": 48.1, "Female": 36.7}}, "Uzbekistan": {"2025": {"value": 23.9, "Male": 22.7, "Female": 1.2}, "2020": {"value": 25.0, "Male": 23.8, "Female": 1.2}, "2015": {"value": 26.2, "Male": 24.9, "Female": 1.3}, "2012": {"value": 27.2, "Male": 25.9, "Female": 1.3}, "2010": {"value": 27.9, "Male": 26.5, "Female": 1.4}, "2005": {"value": 29.6, "Male": 28.1, "Female": 1.5}, "2000": {"value": 31.6, "Male": 30.1, "Female": 1.5}}, "Viet Nam": {"2025": {"value": 46.6, "Male": 45.6, "Female": 1.0}, "2020": {"value": 47.300000000000004, "Male": 46.2, "Female": 1.1}, "2015": {"value": 48.4, "Male": 47.1, "Female": 1.3}, "2012": {"value": 49.0, "Male": 47.6, "Female": 1.4}, "2010": {"value": 49.699999999999996, "Male": 48.3, "Female": 1.4}, "2005": {"value": 51.1, "Male": 49.5, "Female": 1.6}, "2000": {"value": 53.0, "Male": 51.1, "Female": 1.9}}, "Zambia": {"2025": {"value": 28.7, "Male": 24.8, "Female": 3.9}, "2020": {"value": 29.7, "Male": 25.5, "Female": 4.2}, "2015": {"value": 31.1, "Male": 26.5, "Female": 4.6}, "2012": {"value": 32.1, "Male": 27.3, "Female": 4.8}, "2010": {"value": 32.8, "Male": 27.8, "Female": 5.0}, "2005": {"value": 34.8, "Male": 29.3, "Female": 5.5}, "2000": {"value": 37.1, "Male": 31.0, "Female": 6.1}}, "Zimbabwe": {"2025": {"value": 32.0, "Male": 30.3, "Female": 1.7}, "2020": {"value": 32.5, "Male": 30.6, "Female": 1.9}, "2015": {"value": 33.3, "Male": 31.2, "Female": 2.1}, "2012": {"value": 33.8, "Male": 31.5, "Female": 2.3}, "2010": {"value": 34.2, "Male": 31.8, "Female": 2.4}, "2005": {"value": 35.2, "Male": 32.5, "Female": 2.7}, "2000": {"value": 36.6, "Male": 33.5, "Female": 3.1}}}
+{
+    "Albania": {
+        "2025": {
+            "value": 54.099999999999994,
+            "Male": 48.3,
+            "Female": 5.8
+        },
+        "2020": {
+            "value": 56.1,
+            "Male": 49.5,
+            "Female": 6.6
+        },
+        "2015": {
+            "value": 58.800000000000004,
+            "Male": 51.2,
+            "Female": 7.6
+        },
+        "2012": {
+            "value": 60.3,
+            "Male": 52.1,
+            "Female": 8.2
+        },
+        "2010": {
+            "value": 61.8,
+            "Male": 53.1,
+            "Female": 8.7
+        },
+        "2005": {
+            "value": 64.8,
+            "Male": 54.7,
+            "Female": 10.1
+        },
+        "2000": {
+            "value": 68.5,
+            "Male": 56.9,
+            "Female": 11.6
+        }
+    },
+    "Andorra": {
+        "2025": {
+            "value": 60.4,
+            "Male": 34.3,
+            "Female": 26.1
+        },
+        "2020": {
+            "value": 62.400000000000006,
+            "Male": 35.6,
+            "Female": 26.8
+        },
+        "2015": {
+            "value": 65.0,
+            "Male": 37.2,
+            "Female": 27.8
+        },
+        "2012": {
+            "value": 66.9,
+            "Male": 38.5,
+            "Female": 28.4
+        },
+        "2010": {
+            "value": 68.0,
+            "Male": 39.2,
+            "Female": 28.8
+        },
+        "2005": {
+            "value": 71.5,
+            "Male": 41.3,
+            "Female": 30.2
+        },
+        "2000": {
+            "value": 75.2,
+            "Male": 43.6,
+            "Female": 31.6
+        }
+    },
+    "Argentina": {
+        "2025": {
+            "value": 35.4,
+            "Male": 23.0,
+            "Female": 12.4
+        },
+        "2020": {
+            "value": 41.0,
+            "Male": 26.0,
+            "Female": 15.0
+        },
+        "2015": {
+            "value": 47.9,
+            "Male": 29.5,
+            "Female": 18.4
+        },
+        "2012": {
+            "value": 52.6,
+            "Male": 31.8,
+            "Female": 20.8
+        },
+        "2010": {
+            "value": 55.8,
+            "Male": 33.4,
+            "Female": 22.4
+        },
+        "2005": {
+            "value": 65.9,
+            "Male": 38.2,
+            "Female": 27.7
+        },
+        "2000": {
+            "value": 77.7,
+            "Male": 43.7,
+            "Female": 34.0
+        }
+    },
+    "Armenia": {
+        "2025": {
+            "value": 45.7,
+            "Male": 44.6,
+            "Female": 1.1
+        },
+        "2020": {
+            "value": 49.699999999999996,
+            "Male": 48.4,
+            "Female": 1.3
+        },
+        "2015": {
+            "value": 53.8,
+            "Male": 52.3,
+            "Female": 1.5
+        },
+        "2012": {
+            "value": 56.5,
+            "Male": 54.8,
+            "Female": 1.7
+        },
+        "2010": {
+            "value": 58.5,
+            "Male": 56.7,
+            "Female": 1.8
+        },
+        "2005": {
+            "value": 63.7,
+            "Male": 61.5,
+            "Female": 2.2
+        },
+        "2000": {
+            "value": 69.69999999999999,
+            "Male": 67.1,
+            "Female": 2.6
+        }
+    },
+    "Australia": {
+        "2025": {
+            "value": 21.5,
+            "Male": 12.3,
+            "Female": 9.2
+        },
+        "2020": {
+            "value": 25.3,
+            "Male": 14.3,
+            "Female": 11.0
+        },
+        "2015": {
+            "value": 29.799999999999997,
+            "Male": 16.7,
+            "Female": 13.1
+        },
+        "2012": {
+            "value": 33.099999999999994,
+            "Male": 18.4,
+            "Female": 14.7
+        },
+        "2010": {
+            "value": 35.400000000000006,
+            "Male": 19.6,
+            "Female": 15.8
+        },
+        "2005": {
+            "value": 42.1,
+            "Male": 23.0,
+            "Female": 19.1
+        },
+        "2000": {
+            "value": 49.900000000000006,
+            "Male": 27.1,
+            "Female": 22.8
+        }
+    },
+    "Austria": {
+        "2025": {
+            "value": 61.9,
+            "Male": 30.0,
+            "Female": 31.9
+        },
+        "2020": {
+            "value": 66.0,
+            "Male": 32.7,
+            "Female": 33.3
+        },
+        "2015": {
+            "value": 70.3,
+            "Male": 35.5,
+            "Female": 34.8
+        },
+        "2012": {
+            "value": 73.3,
+            "Male": 37.4,
+            "Female": 35.9
+        },
+        "2010": {
+            "value": 75.5,
+            "Male": 38.8,
+            "Female": 36.7
+        },
+        "2005": {
+            "value": 80.69999999999999,
+            "Male": 42.3,
+            "Female": 38.4
+        },
+        "2000": {
+            "value": 86.9,
+            "Male": 46.4,
+            "Female": 40.5
+        }
+    },
+    "Azerbaijan": {
+        "2025": {
+            "value": 40.9,
+            "Male": 40.6,
+            "Female": 0.3
+        },
+        "2020": {
+            "value": 43.699999999999996,
+            "Male": 43.3,
+            "Female": 0.4
+        },
+        "2015": {
+            "value": 46.9,
+            "Male": 46.5,
+            "Female": 0.4
+        },
+        "2012": {
+            "value": 49.0,
+            "Male": 48.6,
+            "Female": 0.4
+        },
+        "2010": {
+            "value": 50.4,
+            "Male": 49.9,
+            "Female": 0.5
+        },
+        "2005": {
+            "value": 54.6,
+            "Male": 54.1,
+            "Female": 0.5
+        },
+        "2000": {
+            "value": 59.2,
+            "Male": 58.6,
+            "Female": 0.6
+        }
+    },
+    "Bahrain": {
+        "2025": {
+            "value": 96.89999999999999,
+            "Male": 86.1,
+            "Female": 10.8
+        },
+        "2020": {
+            "value": 76.5,
+            "Male": 67.5,
+            "Female": 9.0
+        },
+        "2015": {
+            "value": 56.4,
+            "Male": 48.8,
+            "Female": 7.6
+        },
+        "2012": {
+            "value": 47.0,
+            "Male": 40.1,
+            "Female": 6.9
+        },
+        "2010": {
+            "value": 41.3,
+            "Male": 34.8,
+            "Female": 6.5
+        },
+        "2005": {
+            "value": 30.6,
+            "Male": 25.0,
+            "Female": 5.6
+        },
+        "2000": {
+            "value": 23.0,
+            "Male": 18.2,
+            "Female": 4.8
+        }
+    },
+    "Bangladesh": {
+        "2025": {
+            "value": 29.7,
+            "Male": 29.5,
+            "Female": 0.2
+        },
+        "2020": {
+            "value": 34.599999999999994,
+            "Male": 34.3,
+            "Female": 0.3
+        },
+        "2015": {
+            "value": 40.5,
+            "Male": 39.8,
+            "Female": 0.7
+        },
+        "2012": {
+            "value": 44.800000000000004,
+            "Male": 43.7,
+            "Female": 1.1
+        },
+        "2010": {
+            "value": 48.0,
+            "Male": 46.6,
+            "Female": 1.4
+        },
+        "2005": {
+            "value": 57.2,
+            "Male": 54.2,
+            "Female": 3.0
+        },
+        "2000": {
+            "value": 70.0,
+            "Male": 63.7,
+            "Female": 6.3
+        }
+    },
+    "Barbados": {
+        "2025": {
+            "value": 13.899999999999999,
+            "Male": 13.2,
+            "Female": 0.7
+        },
+        "2020": {
+            "value": 13.8,
+            "Male": 13.0,
+            "Female": 0.8
+        },
+        "2015": {
+            "value": 14.0,
+            "Male": 13.1,
+            "Female": 0.9
+        },
+        "2012": {
+            "value": 14.299999999999999,
+            "Male": 13.2,
+            "Female": 1.1
+        },
+        "2010": {
+            "value": 14.399999999999999,
+            "Male": 13.2,
+            "Female": 1.2
+        },
+        "2005": {
+            "value": 14.9,
+            "Male": 13.5,
+            "Female": 1.4
+        },
+        "2000": {
+            "value": 15.600000000000001,
+            "Male": 13.8,
+            "Female": 1.8
+        }
+    },
+    "Belarus": {
+        "2025": {
+            "value": 46.8,
+            "Male": 37.6,
+            "Female": 9.2
+        },
+        "2020": {
+            "value": 51.5,
+            "Male": 41.7,
+            "Female": 9.8
+        },
+        "2015": {
+            "value": 56.800000000000004,
+            "Male": 46.2,
+            "Female": 10.6
+        },
+        "2012": {
+            "value": 60.4,
+            "Male": 49.4,
+            "Female": 11.0
+        },
+        "2010": {
+            "value": 62.699999999999996,
+            "Male": 51.3,
+            "Female": 11.4
+        },
+        "2005": {
+            "value": 69.9,
+            "Male": 57.6,
+            "Female": 12.3
+        },
+        "2000": {
+            "value": 77.5,
+            "Male": 64.1,
+            "Female": 13.4
+        }
+    },
+    "Belgium": {
+        "2025": {
+            "value": 40.0,
+            "Male": 22.2,
+            "Female": 17.8
+        },
+        "2020": {
+            "value": 43.099999999999994,
+            "Male": 24.2,
+            "Female": 18.9
+        },
+        "2015": {
+            "value": 46.5,
+            "Male": 26.5,
+            "Female": 20.0
+        },
+        "2012": {
+            "value": 48.9,
+            "Male": 28.0,
+            "Female": 20.9
+        },
+        "2010": {
+            "value": 50.400000000000006,
+            "Male": 29.1,
+            "Female": 21.3
+        },
+        "2005": {
+            "value": 54.8,
+            "Male": 32.1,
+            "Female": 22.7
+        },
+        "2000": {
+            "value": 59.900000000000006,
+            "Male": 35.6,
+            "Female": 24.3
+        }
+    },
+    "Benin": {
+        "2025": {
+            "value": 23.8,
+            "Male": 23.1,
+            "Female": 0.7
+        },
+        "2020": {
+            "value": 21.0,
+            "Male": 20.2,
+            "Female": 0.8
+        },
+        "2015": {
+            "value": 18.7,
+            "Male": 17.7,
+            "Female": 1.0
+        },
+        "2012": {
+            "value": 17.5,
+            "Male": 16.4,
+            "Female": 1.1
+        },
+        "2010": {
+            "value": 16.7,
+            "Male": 15.6,
+            "Female": 1.1
+        },
+        "2005": {
+            "value": 15.100000000000001,
+            "Male": 13.8,
+            "Female": 1.3
+        },
+        "2000": {
+            "value": 14.0,
+            "Male": 12.4,
+            "Female": 1.6
+        }
+    },
+    "Bolivia (Plurinational State of)": {
+        "2025": {
+            "value": 35.599999999999994,
+            "Male": 22.4,
+            "Female": 13.2
+        },
+        "2020": {
+            "value": 41.0,
+            "Male": 26.0,
+            "Female": 15.0
+        },
+        "2015": {
+            "value": 47.6,
+            "Male": 30.5,
+            "Female": 17.1
+        },
+        "2012": {
+            "value": 52.2,
+            "Male": 33.6,
+            "Female": 18.6
+        },
+        "2010": {
+            "value": 55.5,
+            "Male": 35.8,
+            "Female": 19.7
+        },
+        "2005": {
+            "value": 65.6,
+            "Male": 42.8,
+            "Female": 22.8
+        },
+        "2000": {
+            "value": 77.3,
+            "Male": 50.9,
+            "Female": 26.4
+        }
+    },
+    "Bosnia and Herzegovina": {
+        "2025": {
+            "value": 69.5,
+            "Male": 42.2,
+            "Female": 27.3
+        },
+        "2020": {
+            "value": 73.0,
+            "Male": 44.4,
+            "Female": 28.6
+        },
+        "2015": {
+            "value": 77.2,
+            "Male": 47.2,
+            "Female": 30.0
+        },
+        "2012": {
+            "value": 80.2,
+            "Male": 49.0,
+            "Female": 31.2
+        },
+        "2010": {
+            "value": 81.7,
+            "Male": 50.0,
+            "Female": 31.7
+        },
+        "2005": {
+            "value": 87.4,
+            "Male": 53.8,
+            "Female": 33.6
+        },
+        "2000": {
+            "value": 93.6,
+            "Male": 57.7,
+            "Female": 35.9
+        }
+    },
+    "Brazil": {
+        "2025": {
+            "value": 23.3,
+            "Male": 14.9,
+            "Female": 8.4
+        },
+        "2020": {
+            "value": 26.599999999999998,
+            "Male": 16.9,
+            "Female": 9.7
+        },
+        "2015": {
+            "value": 30.6,
+            "Male": 19.3,
+            "Female": 11.3
+        },
+        "2012": {
+            "value": 33.4,
+            "Male": 21.0,
+            "Female": 12.4
+        },
+        "2010": {
+            "value": 35.5,
+            "Male": 22.2,
+            "Female": 13.3
+        },
+        "2005": {
+            "value": 41.0,
+            "Male": 25.4,
+            "Female": 15.6
+        },
+        "2000": {
+            "value": 47.9,
+            "Male": 29.4,
+            "Female": 18.5
+        }
+    },
+    "Brunei Darussalam": {
+        "2025": {
+            "value": 32.7,
+            "Male": 30.3,
+            "Female": 2.4
+        },
+        "2020": {
+            "value": 32.5,
+            "Male": 29.8,
+            "Female": 2.7
+        },
+        "2015": {
+            "value": 32.4,
+            "Male": 29.3,
+            "Female": 3.1
+        },
+        "2012": {
+            "value": 32.6,
+            "Male": 29.2,
+            "Female": 3.4
+        },
+        "2010": {
+            "value": 32.7,
+            "Male": 29.1,
+            "Female": 3.6
+        },
+        "2005": {
+            "value": 33.5,
+            "Male": 29.2,
+            "Female": 4.3
+        },
+        "2000": {
+            "value": 34.6,
+            "Male": 29.5,
+            "Female": 5.1
+        }
+    },
+    "Bulgaria": {
+        "2025": {
+            "value": 56.800000000000004,
+            "Male": 34.7,
+            "Female": 22.1
+        },
+        "2020": {
+            "value": 63.3,
+            "Male": 38.4,
+            "Female": 24.9
+        },
+        "2015": {
+            "value": 70.6,
+            "Male": 42.4,
+            "Female": 28.2
+        },
+        "2012": {
+            "value": 75.6,
+            "Male": 45.2,
+            "Female": 30.4
+        },
+        "2010": {
+            "value": 79.1,
+            "Male": 47.1,
+            "Female": 32.0
+        },
+        "2005": {
+            "value": 89.1,
+            "Male": 52.7,
+            "Female": 36.4
+        },
+        "2000": {
+            "value": 100.8,
+            "Male": 58.8,
+            "Female": 42.0
+        }
+    },
+    "Burkina Faso": {
+        "2025": {
+            "value": 51.9,
+            "Male": 48.9,
+            "Female": 3.0
+        },
+        "2020": {
+            "value": 45.4,
+            "Male": 41.8,
+            "Female": 3.6
+        },
+        "2015": {
+            "value": 40.5,
+            "Male": 36.0,
+            "Female": 4.5
+        },
+        "2012": {
+            "value": 38.2,
+            "Male": 33.1,
+            "Female": 5.1
+        },
+        "2010": {
+            "value": 36.6,
+            "Male": 31.1,
+            "Female": 5.5
+        },
+        "2005": {
+            "value": 33.9,
+            "Male": 27.0,
+            "Female": 6.9
+        },
+        "2000": {
+            "value": 32.2,
+            "Male": 23.6,
+            "Female": 8.6
+        }
+    },
+    "Cabo Verde": {
+        "2025": {
+            "value": 33.3,
+            "Male": 30.7,
+            "Female": 2.6
+        },
+        "2020": {
+            "value": 29.0,
+            "Male": 26.0,
+            "Female": 3.0
+        },
+        "2015": {
+            "value": 25.7,
+            "Male": 22.2,
+            "Female": 3.5
+        },
+        "2012": {
+            "value": 24.099999999999998,
+            "Male": 20.2,
+            "Female": 3.9
+        },
+        "2010": {
+            "value": 23.200000000000003,
+            "Male": 19.1,
+            "Female": 4.1
+        },
+        "2005": {
+            "value": 21.4,
+            "Male": 16.5,
+            "Female": 4.9
+        },
+        "2000": {
+            "value": 20.3,
+            "Male": 14.4,
+            "Female": 5.9
+        }
+    },
+    "Cambodia": {
+        "2025": {
+            "value": 42.5,
+            "Male": 41.1,
+            "Female": 1.4
+        },
+        "2020": {
+            "value": 44.5,
+            "Male": 42.5,
+            "Female": 2.0
+        },
+        "2015": {
+            "value": 46.9,
+            "Male": 44.1,
+            "Female": 2.8
+        },
+        "2012": {
+            "value": 48.7,
+            "Male": 45.2,
+            "Female": 3.5
+        },
+        "2010": {
+            "value": 50.0,
+            "Male": 46.0,
+            "Female": 4.0
+        },
+        "2005": {
+            "value": 54.1,
+            "Male": 48.4,
+            "Female": 5.7
+        },
+        "2000": {
+            "value": 59.300000000000004,
+            "Male": 51.2,
+            "Female": 8.1
+        }
+    },
+    "Cameroon": {
+        "2025": {
+            "value": 88.10000000000001,
+            "Male": 87.2,
+            "Female": 0.9
+        },
+        "2020": {
+            "value": 66.80000000000001,
+            "Male": 65.9,
+            "Female": 0.9
+        },
+        "2015": {
+            "value": 44.699999999999996,
+            "Male": 43.8,
+            "Female": 0.9
+        },
+        "2012": {
+            "value": 34.6,
+            "Male": 33.7,
+            "Female": 0.9
+        },
+        "2010": {
+            "value": 29.4,
+            "Male": 28.5,
+            "Female": 0.9
+        },
+        "2005": {
+            "value": 19.599999999999998,
+            "Male": 18.7,
+            "Female": 0.9
+        },
+        "2000": {
+            "value": 13.200000000000001,
+            "Male": 12.3,
+            "Female": 0.9
+        }
+    },
+    "Canada": {
+        "2025": {
+            "value": 19.9,
+            "Male": 12.6,
+            "Female": 7.3
+        },
+        "2020": {
+            "value": 24.200000000000003,
+            "Male": 14.8,
+            "Female": 9.4
+        },
+        "2015": {
+            "value": 29.9,
+            "Male": 17.7,
+            "Female": 12.2
+        },
+        "2012": {
+            "value": 33.7,
+            "Male": 19.5,
+            "Female": 14.2
+        },
+        "2010": {
+            "value": 36.7,
+            "Male": 20.9,
+            "Female": 15.8
+        },
+        "2005": {
+            "value": 45.2,
+            "Male": 24.8,
+            "Female": 20.4
+        },
+        "2000": {
+            "value": 55.9,
+            "Male": 29.4,
+            "Female": 26.5
+        }
+    },
+    "Chile": {
+        "2025": {
+            "value": 67.30000000000001,
+            "Male": 35.2,
+            "Female": 32.1
+        },
+        "2020": {
+            "value": 71.7,
+            "Male": 37.6,
+            "Female": 34.1
+        },
+        "2015": {
+            "value": 76.0,
+            "Male": 40.0,
+            "Female": 36.0
+        },
+        "2012": {
+            "value": 79.1,
+            "Male": 41.7,
+            "Female": 37.4
+        },
+        "2010": {
+            "value": 81.1,
+            "Male": 42.8,
+            "Female": 38.3
+        },
+        "2005": {
+            "value": 87.0,
+            "Male": 46.2,
+            "Female": 40.8
+        },
+        "2000": {
+            "value": 93.5,
+            "Male": 49.9,
+            "Female": 43.6
+        }
+    },
+    "China": {
+        "2025": {
+            "value": 44.9,
+            "Male": 43.8,
+            "Female": 1.1
+        },
+        "2020": {
+            "value": 47.1,
+            "Male": 45.7,
+            "Female": 1.4
+        },
+        "2015": {
+            "value": 49.4,
+            "Male": 47.6,
+            "Female": 1.8
+        },
+        "2012": {
+            "value": 51.0,
+            "Male": 49.0,
+            "Female": 2.0
+        },
+        "2010": {
+            "value": 52.300000000000004,
+            "Male": 50.1,
+            "Female": 2.2
+        },
+        "2005": {
+            "value": 55.699999999999996,
+            "Male": 52.9,
+            "Female": 2.8
+        },
+        "2000": {
+            "value": 59.3,
+            "Male": 55.8,
+            "Female": 3.5
+        }
+    },
+    "Colombia": {
+        "2025": {
+            "value": 16.8,
+            "Male": 12.4,
+            "Female": 4.4
+        },
+        "2020": {
+            "value": 19.2,
+            "Male": 14.0,
+            "Female": 5.2
+        },
+        "2015": {
+            "value": 22.2,
+            "Male": 16.0,
+            "Female": 6.2
+        },
+        "2012": {
+            "value": 24.1,
+            "Male": 17.2,
+            "Female": 6.9
+        },
+        "2010": {
+            "value": 25.700000000000003,
+            "Male": 18.3,
+            "Female": 7.4
+        },
+        "2005": {
+            "value": 29.900000000000002,
+            "Male": 21.1,
+            "Female": 8.8
+        },
+        "2000": {
+            "value": 35.1,
+            "Male": 24.5,
+            "Female": 10.6
+        }
+    },
+    "Comoros": {
+        "2025": {
+            "value": 23.2,
+            "Male": 19.7,
+            "Female": 3.5
+        },
+        "2020": {
+            "value": 25.799999999999997,
+            "Male": 21.2,
+            "Female": 4.6
+        },
+        "2015": {
+            "value": 29.1,
+            "Male": 23.1,
+            "Female": 6.0
+        },
+        "2012": {
+            "value": 31.5,
+            "Male": 24.4,
+            "Female": 7.1
+        },
+        "2010": {
+            "value": 33.1,
+            "Male": 25.2,
+            "Female": 7.9
+        },
+        "2005": {
+            "value": 38.2,
+            "Male": 27.7,
+            "Female": 10.5
+        },
+        "2000": {
+            "value": 44.6,
+            "Male": 30.6,
+            "Female": 14.0
+        }
+    },
+    "Congo": {
+        "2025": {
+            "value": 94.80000000000001,
+            "Male": 92.9,
+            "Female": 1.9
+        },
+        "2020": {
+            "value": 71.39999999999999,
+            "Male": 69.6,
+            "Female": 1.8
+        },
+        "2015": {
+            "value": 44.900000000000006,
+            "Male": 43.2,
+            "Female": 1.7
+        },
+        "2012": {
+            "value": 33.800000000000004,
+            "Male": 32.1,
+            "Female": 1.7
+        },
+        "2010": {
+            "value": 28.099999999999998,
+            "Male": 26.4,
+            "Female": 1.7
+        },
+        "2005": {
+            "value": 17.8,
+            "Male": 16.2,
+            "Female": 1.6
+        },
+        "2000": {
+            "value": 11.7,
+            "Male": 10.1,
+            "Female": 1.6
+        }
+    },
+    "Costa Rica": {
+        "2025": {
+            "value": 21.1,
+            "Male": 14.8,
+            "Female": 6.3
+        },
+        "2020": {
+            "value": 23.7,
+            "Male": 16.5,
+            "Female": 7.2
+        },
+        "2015": {
+            "value": 26.8,
+            "Male": 18.5,
+            "Female": 8.3
+        },
+        "2012": {
+            "value": 29.0,
+            "Male": 19.8,
+            "Female": 9.2
+        },
+        "2010": {
+            "value": 30.7,
+            "Male": 20.9,
+            "Female": 9.8
+        },
+        "2005": {
+            "value": 35.4,
+            "Male": 23.7,
+            "Female": 11.7
+        },
+        "2000": {
+            "value": 41.6,
+            "Male": 27.5,
+            "Female": 14.1
+        }
+    },
+    "Croatia": {
+        "2025": {
+            "value": 77.8,
+            "Male": 39.3,
+            "Female": 38.5
+        },
+        "2020": {
+            "value": 75.4,
+            "Male": 39.3,
+            "Female": 36.1
+        },
+        "2015": {
+            "value": 72.9,
+            "Male": 39.4,
+            "Female": 33.5
+        },
+        "2012": {
+            "value": 71.69999999999999,
+            "Male": 39.4,
+            "Female": 32.3
+        },
+        "2010": {
+            "value": 71.0,
+            "Male": 39.4,
+            "Female": 31.6
+        },
+        "2005": {
+            "value": 69.4,
+            "Male": 39.8,
+            "Female": 29.6
+        },
+        "2000": {
+            "value": 68.3,
+            "Male": 40.3,
+            "Female": 28.0
+        }
+    },
+    "Cuba": {
+        "2025": {
+            "value": 65.0,
+            "Male": 52.1,
+            "Female": 12.9
+        },
+        "2020": {
+            "value": 67.7,
+            "Male": 52.6,
+            "Female": 15.1
+        },
+        "2015": {
+            "value": 70.5,
+            "Male": 52.7,
+            "Female": 17.8
+        },
+        "2012": {
+            "value": 73.0,
+            "Male": 53.2,
+            "Female": 19.8
+        },
+        "2010": {
+            "value": 74.5,
+            "Male": 53.2,
+            "Female": 21.3
+        },
+        "2005": {
+            "value": 79.6,
+            "Male": 54.0,
+            "Female": 25.6
+        },
+        "2000": {
+            "value": 85.80000000000001,
+            "Male": 54.7,
+            "Female": 31.1
+        }
+    },
+    "Czechia": {
+        "2025": {
+            "value": 64.5,
+            "Male": 35.7,
+            "Female": 28.8
+        },
+        "2020": {
+            "value": 65.4,
+            "Male": 36.5,
+            "Female": 28.9
+        },
+        "2015": {
+            "value": 66.4,
+            "Male": 37.4,
+            "Female": 29.0
+        },
+        "2012": {
+            "value": 66.9,
+            "Male": 38.0,
+            "Female": 28.9
+        },
+        "2010": {
+            "value": 67.7,
+            "Male": 38.5,
+            "Female": 29.2
+        },
+        "2005": {
+            "value": 68.9,
+            "Male": 39.5,
+            "Female": 29.4
+        },
+        "2000": {
+            "value": 70.4,
+            "Male": 40.7,
+            "Female": 29.7
+        }
+    },
+    "Denmark": {
+        "2025": {
+            "value": 20.299999999999997,
+            "Male": 10.2,
+            "Female": 10.1
+        },
+        "2020": {
+            "value": 26.3,
+            "Male": 13.4,
+            "Female": 12.9
+        },
+        "2015": {
+            "value": 34.0,
+            "Male": 17.6,
+            "Female": 16.4
+        },
+        "2012": {
+            "value": 40.0,
+            "Male": 21.0,
+            "Female": 19.0
+        },
+        "2010": {
+            "value": 44.3,
+            "Male": 23.4,
+            "Female": 20.9
+        },
+        "2005": {
+            "value": 58.1,
+            "Male": 31.1,
+            "Female": 27.0
+        },
+        "2000": {
+            "value": 76.2,
+            "Male": 41.6,
+            "Female": 34.6
+        }
+    },
+    "Dominican Republic": {
+        "2025": {
+            "value": 24.700000000000003,
+            "Male": 17.6,
+            "Female": 7.1
+        },
+        "2020": {
+            "value": 26.3,
+            "Male": 18.1,
+            "Female": 8.2
+        },
+        "2015": {
+            "value": 28.200000000000003,
+            "Male": 18.8,
+            "Female": 9.4
+        },
+        "2012": {
+            "value": 29.400000000000002,
+            "Male": 19.1,
+            "Female": 10.3
+        },
+        "2010": {
+            "value": 30.4,
+            "Male": 19.5,
+            "Female": 10.9
+        },
+        "2005": {
+            "value": 33.3,
+            "Male": 20.4,
+            "Female": 12.9
+        },
+        "2000": {
+            "value": 36.9,
+            "Male": 21.7,
+            "Female": 15.2
+        }
+    },
+    "Ecuador": {
+        "2025": {
+            "value": 13.5,
+            "Male": 11.0,
+            "Female": 2.5
+        },
+        "2020": {
+            "value": 15.100000000000001,
+            "Male": 12.3,
+            "Female": 2.8
+        },
+        "2015": {
+            "value": 17.3,
+            "Male": 14.0,
+            "Female": 3.3
+        },
+        "2012": {
+            "value": 18.7,
+            "Male": 15.1,
+            "Female": 3.6
+        },
+        "2010": {
+            "value": 19.7,
+            "Male": 15.9,
+            "Female": 3.8
+        },
+        "2005": {
+            "value": 22.9,
+            "Male": 18.4,
+            "Female": 4.5
+        },
+        "2000": {
+            "value": 26.7,
+            "Male": 21.4,
+            "Female": 5.3
+        }
+    },
+    "Egypt": {
+        "2025": {
+            "value": 63.2,
+            "Male": 63.1,
+            "Female": 0.1
+        },
+        "2020": {
+            "value": 56.5,
+            "Male": 56.3,
+            "Female": 0.2
+        },
+        "2015": {
+            "value": 50.199999999999996,
+            "Male": 49.9,
+            "Female": 0.3
+        },
+        "2012": {
+            "value": 46.3,
+            "Male": 45.9,
+            "Female": 0.4
+        },
+        "2010": {
+            "value": 44.4,
+            "Male": 43.9,
+            "Female": 0.5
+        },
+        "2005": {
+            "value": 40.099999999999994,
+            "Male": 39.3,
+            "Female": 0.8
+        },
+        "2000": {
+            "value": 36.7,
+            "Male": 35.5,
+            "Female": 1.2
+        }
+    },
+    "Estonia": {
+        "2025": {
+            "value": 57.900000000000006,
+            "Male": 34.2,
+            "Female": 23.7
+        },
+        "2020": {
+            "value": 61.8,
+            "Male": 37.5,
+            "Female": 24.3
+        },
+        "2015": {
+            "value": 66.1,
+            "Male": 41.2,
+            "Female": 24.9
+        },
+        "2012": {
+            "value": 69.0,
+            "Male": 43.6,
+            "Female": 25.4
+        },
+        "2010": {
+            "value": 70.80000000000001,
+            "Male": 45.2,
+            "Female": 25.6
+        },
+        "2005": {
+            "value": 76.4,
+            "Male": 49.9,
+            "Female": 26.5
+        },
+        "2000": {
+            "value": 82.69999999999999,
+            "Male": 55.3,
+            "Female": 27.4
+        }
+    },
+    "Eswatini": {
+        "2025": {
+            "value": 23.6,
+            "Male": 21.8,
+            "Female": 1.8
+        },
+        "2020": {
+            "value": 22.3,
+            "Male": 20.3,
+            "Female": 2.0
+        },
+        "2015": {
+            "value": 21.2,
+            "Male": 19.0,
+            "Female": 2.2
+        },
+        "2012": {
+            "value": 20.599999999999998,
+            "Male": 18.2,
+            "Female": 2.4
+        },
+        "2010": {
+            "value": 20.3,
+            "Male": 17.8,
+            "Female": 2.5
+        },
+        "2005": {
+            "value": 19.6,
+            "Male": 16.8,
+            "Female": 2.8
+        },
+        "2000": {
+            "value": 19.1,
+            "Male": 15.9,
+            "Female": 3.2
+        }
+    },
+    "Ethiopia": {
+        "2025": {
+            "value": 9.5,
+            "Male": 9.1,
+            "Female": 0.4
+        },
+        "2020": {
+            "value": 9.5,
+            "Male": 9.0,
+            "Female": 0.5
+        },
+        "2015": {
+            "value": 9.4,
+            "Male": 8.9,
+            "Female": 0.5
+        },
+        "2012": {
+            "value": 9.4,
+            "Male": 8.9,
+            "Female": 0.5
+        },
+        "2010": {
+            "value": 9.5,
+            "Male": 9.0,
+            "Female": 0.5
+        },
+        "2005": {
+            "value": 9.7,
+            "Male": 9.1,
+            "Female": 0.6
+        },
+        "2000": {
+            "value": 9.6,
+            "Male": 9.0,
+            "Female": 0.6
+        }
+    },
+    "Fiji": {
+        "2025": {
+            "value": 44.699999999999996,
+            "Male": 33.3,
+            "Female": 11.4
+        },
+        "2020": {
+            "value": 47.699999999999996,
+            "Male": 35.8,
+            "Female": 11.9
+        },
+        "2015": {
+            "value": 51.1,
+            "Male": 38.7,
+            "Female": 12.4
+        },
+        "2012": {
+            "value": 53.400000000000006,
+            "Male": 40.6,
+            "Female": 12.8
+        },
+        "2010": {
+            "value": 55.4,
+            "Male": 42.3,
+            "Female": 13.1
+        },
+        "2005": {
+            "value": 60.5,
+            "Male": 46.4,
+            "Female": 14.1
+        },
+        "2000": {
+            "value": 67.2,
+            "Male": 52.0,
+            "Female": 15.2
+        }
+    },
+    "Finland": {
+        "2025": {
+            "value": 33.3,
+            "Male": 18.3,
+            "Female": 15.0
+        },
+        "2020": {
+            "value": 37.3,
+            "Male": 20.6,
+            "Female": 16.7
+        },
+        "2015": {
+            "value": 41.7,
+            "Male": 23.2,
+            "Female": 18.5
+        },
+        "2012": {
+            "value": 44.6,
+            "Male": 25.0,
+            "Female": 19.6
+        },
+        "2010": {
+            "value": 46.900000000000006,
+            "Male": 26.3,
+            "Female": 20.6
+        },
+        "2005": {
+            "value": 52.7,
+            "Male": 29.9,
+            "Female": 22.8
+        },
+        "2000": {
+            "value": 59.5,
+            "Male": 33.8,
+            "Female": 25.7
+        }
+    },
+    "France": {
+        "2025": {
+            "value": 50.099999999999994,
+            "Male": 25.7,
+            "Female": 24.4
+        },
+        "2020": {
+            "value": 52.599999999999994,
+            "Male": 27.7,
+            "Female": 24.9
+        },
+        "2015": {
+            "value": 55.400000000000006,
+            "Male": 29.8,
+            "Female": 25.6
+        },
+        "2012": {
+            "value": 56.900000000000006,
+            "Male": 31.1,
+            "Female": 25.8
+        },
+        "2010": {
+            "value": 58.3,
+            "Male": 32.1,
+            "Female": 26.2
+        },
+        "2005": {
+            "value": 61.599999999999994,
+            "Male": 34.8,
+            "Female": 26.8
+        },
+        "2000": {
+            "value": 65.5,
+            "Male": 37.7,
+            "Female": 27.8
+        }
+    },
+    "Georgia": {
+        "2025": {
+            "value": 60.099999999999994,
+            "Male": 54.8,
+            "Female": 5.3
+        },
+        "2020": {
+            "value": 61.5,
+            "Male": 56.0,
+            "Female": 5.5
+        },
+        "2015": {
+            "value": 63.400000000000006,
+            "Male": 57.7,
+            "Female": 5.7
+        },
+        "2012": {
+            "value": 64.4,
+            "Male": 58.6,
+            "Female": 5.8
+        },
+        "2010": {
+            "value": 65.6,
+            "Male": 59.6,
+            "Female": 6.0
+        },
+        "2005": {
+            "value": 67.6,
+            "Male": 61.4,
+            "Female": 6.2
+        },
+        "2000": {
+            "value": 69.9,
+            "Male": 63.4,
+            "Female": 6.5
+        }
+    },
+    "Germany": {
+        "2025": {
+            "value": 56.1,
+            "Male": 29.1,
+            "Female": 27.0
+        },
+        "2020": {
+            "value": 58.4,
+            "Male": 30.7,
+            "Female": 27.7
+        },
+        "2015": {
+            "value": 60.7,
+            "Male": 32.4,
+            "Female": 28.3
+        },
+        "2012": {
+            "value": 62.3,
+            "Male": 33.6,
+            "Female": 28.7
+        },
+        "2010": {
+            "value": 63.3,
+            "Male": 34.3,
+            "Female": 29.0
+        },
+        "2005": {
+            "value": 65.7,
+            "Male": 36.1,
+            "Female": 29.6
+        },
+        "2000": {
+            "value": 68.8,
+            "Male": 38.4,
+            "Female": 30.4
+        }
+    },
+    "Ghana": {
+        "2025": {
+            "value": 17.3,
+            "Male": 17.0,
+            "Female": 0.3
+        },
+        "2020": {
+            "value": 15.3,
+            "Male": 14.9,
+            "Female": 0.4
+        },
+        "2015": {
+            "value": 13.5,
+            "Male": 13.1,
+            "Female": 0.4
+        },
+        "2012": {
+            "value": 12.6,
+            "Male": 12.1,
+            "Female": 0.5
+        },
+        "2010": {
+            "value": 12.1,
+            "Male": 11.6,
+            "Female": 0.5
+        },
+        "2005": {
+            "value": 10.9,
+            "Male": 10.3,
+            "Female": 0.6
+        },
+        "2000": {
+            "value": 10.0,
+            "Male": 9.2,
+            "Female": 0.8
+        }
+    },
+    "Greece": {
+        "2025": {
+            "value": 76.0,
+            "Male": 47.7,
+            "Female": 28.3
+        },
+        "2020": {
+            "value": 79.9,
+            "Male": 49.7,
+            "Female": 30.2
+        },
+        "2015": {
+            "value": 85.30000000000001,
+            "Male": 52.6,
+            "Female": 32.7
+        },
+        "2012": {
+            "value": 88.5,
+            "Male": 54.3,
+            "Female": 34.2
+        },
+        "2010": {
+            "value": 90.80000000000001,
+            "Male": 55.6,
+            "Female": 35.2
+        },
+        "2005": {
+            "value": 97.9,
+            "Male": 59.3,
+            "Female": 38.6
+        },
+        "2000": {
+            "value": 105.4,
+            "Male": 63.0,
+            "Female": 42.4
+        }
+    },
+    "Haiti": {
+        "2025": {
+            "value": 27.8,
+            "Male": 25.8,
+            "Female": 2.0
+        },
+        "2020": {
+            "value": 25.9,
+            "Male": 23.7,
+            "Female": 2.2
+        },
+        "2015": {
+            "value": 24.6,
+            "Male": 22.1,
+            "Female": 2.5
+        },
+        "2012": {
+            "value": 23.9,
+            "Male": 21.2,
+            "Female": 2.7
+        },
+        "2010": {
+            "value": 23.599999999999998,
+            "Male": 20.7,
+            "Female": 2.9
+        },
+        "2005": {
+            "value": 22.7,
+            "Male": 19.4,
+            "Female": 3.3
+        },
+        "2000": {
+            "value": 22.2,
+            "Male": 18.4,
+            "Female": 3.8
+        }
+    },
+    "Honduras": {
+        "2025": {
+            "value": 25.2,
+            "Male": 23.8,
+            "Female": 1.4
+        },
+        "2020": {
+            "value": 29.5,
+            "Male": 27.8,
+            "Female": 1.7
+        },
+        "2015": {
+            "value": 35.4,
+            "Male": 33.3,
+            "Female": 2.1
+        },
+        "2012": {
+            "value": 39.6,
+            "Male": 37.2,
+            "Female": 2.4
+        },
+        "2010": {
+            "value": 43.0,
+            "Male": 40.3,
+            "Female": 2.7
+        },
+        "2005": {
+            "value": 52.5,
+            "Male": 49.2,
+            "Female": 3.3
+        },
+        "2000": {
+            "value": 64.4,
+            "Male": 60.2,
+            "Female": 4.2
+        }
+    },
+    "Hungary": {
+        "2025": {
+            "value": 45.5,
+            "Male": 25.3,
+            "Female": 20.2
+        },
+        "2020": {
+            "value": 50.7,
+            "Male": 28.3,
+            "Female": 22.4
+        },
+        "2015": {
+            "value": 56.8,
+            "Male": 32.0,
+            "Female": 24.8
+        },
+        "2012": {
+            "value": 61.0,
+            "Male": 34.5,
+            "Female": 26.5
+        },
+        "2010": {
+            "value": 63.4,
+            "Male": 35.9,
+            "Female": 27.5
+        },
+        "2005": {
+            "value": 71.4,
+            "Male": 40.6,
+            "Female": 30.8
+        },
+        "2000": {
+            "value": 80.5,
+            "Male": 46.1,
+            "Female": 34.4
+        }
+    },
+    "Iceland": {
+        "2025": {
+            "value": 21.9,
+            "Male": 11.3,
+            "Female": 10.6
+        },
+        "2020": {
+            "value": 26.299999999999997,
+            "Male": 13.7,
+            "Female": 12.6
+        },
+        "2015": {
+            "value": 32.1,
+            "Male": 17.0,
+            "Female": 15.1
+        },
+        "2012": {
+            "value": 36.2,
+            "Male": 19.3,
+            "Female": 16.9
+        },
+        "2010": {
+            "value": 39.2,
+            "Male": 21.1,
+            "Female": 18.1
+        },
+        "2005": {
+            "value": 48.6,
+            "Male": 26.5,
+            "Female": 22.1
+        },
+        "2000": {
+            "value": 60.6,
+            "Male": 33.5,
+            "Female": 27.1
+        }
+    },
+    "India": {
+        "2025": {
+            "value": 15.5,
+            "Male": 14.7,
+            "Female": 0.8
+        },
+        "2020": {
+            "value": 18.4,
+            "Male": 17.2,
+            "Female": 1.2
+        },
+        "2015": {
+            "value": 22.299999999999997,
+            "Male": 20.4,
+            "Female": 1.9
+        },
+        "2012": {
+            "value": 25.2,
+            "Male": 22.8,
+            "Female": 2.4
+        },
+        "2010": {
+            "value": 27.299999999999997,
+            "Male": 24.4,
+            "Female": 2.9
+        },
+        "2005": {
+            "value": 34.1,
+            "Male": 29.5,
+            "Female": 4.6
+        },
+        "2000": {
+            "value": 43.199999999999996,
+            "Male": 35.9,
+            "Female": 7.3
+        }
+    },
+    "Indonesia": {
+        "2025": {
+            "value": 89.8,
+            "Male": 87.2,
+            "Female": 2.6
+        },
+        "2020": {
+            "value": 85.7,
+            "Male": 82.7,
+            "Female": 3.0
+        },
+        "2015": {
+            "value": 79.8,
+            "Male": 76.2,
+            "Female": 3.6
+        },
+        "2012": {
+            "value": 75.8,
+            "Male": 71.8,
+            "Female": 4.0
+        },
+        "2010": {
+            "value": 72.60000000000001,
+            "Male": 68.4,
+            "Female": 4.2
+        },
+        "2005": {
+            "value": 67.0,
+            "Male": 62.0,
+            "Female": 5.0
+        },
+        "2000": {
+            "value": 62.2,
+            "Male": 56.2,
+            "Female": 6.0
+        }
+    },
+    "Iran (Islamic Republic of)": {
+        "2025": {
+            "value": 17.9,
+            "Male": 17.7,
+            "Female": 0.2
+        },
+        "2020": {
+            "value": 19.799999999999997,
+            "Male": 19.4,
+            "Female": 0.4
+        },
+        "2015": {
+            "value": 22.2,
+            "Male": 21.5,
+            "Female": 0.7
+        },
+        "2012": {
+            "value": 24.0,
+            "Male": 22.9,
+            "Female": 1.1
+        },
+        "2010": {
+            "value": 25.3,
+            "Male": 23.8,
+            "Female": 1.5
+        },
+        "2005": {
+            "value": 29.7,
+            "Male": 26.8,
+            "Female": 2.9
+        },
+        "2000": {
+            "value": 36.0,
+            "Male": 30.2,
+            "Female": 5.8
+        }
+    },
+    "Ireland": {
+        "2025": {
+            "value": 35.8,
+            "Male": 17.8,
+            "Female": 18.0
+        },
+        "2020": {
+            "value": 39.8,
+            "Male": 20.0,
+            "Female": 19.8
+        },
+        "2015": {
+            "value": 44.3,
+            "Male": 22.4,
+            "Female": 21.9
+        },
+        "2012": {
+            "value": 47.7,
+            "Male": 24.2,
+            "Female": 23.5
+        },
+        "2010": {
+            "value": 49.9,
+            "Male": 25.5,
+            "Female": 24.4
+        },
+        "2005": {
+            "value": 56.2,
+            "Male": 28.9,
+            "Female": 27.3
+        },
+        "2000": {
+            "value": 63.6,
+            "Male": 33.1,
+            "Female": 30.5
+        }
+    },
+    "Israel": {
+        "2025": {
+            "value": 59.0,
+            "Male": 41.1,
+            "Female": 17.9
+        },
+        "2020": {
+            "value": 59.7,
+            "Male": 41.0,
+            "Female": 18.7
+        },
+        "2015": {
+            "value": 60.5,
+            "Male": 41.2,
+            "Female": 19.3
+        },
+        "2012": {
+            "value": 61.800000000000004,
+            "Male": 41.7,
+            "Female": 20.1
+        },
+        "2010": {
+            "value": 62.199999999999996,
+            "Male": 41.8,
+            "Female": 20.4
+        },
+        "2005": {
+            "value": 64.1,
+            "Male": 42.5,
+            "Female": 21.6
+        },
+        "2000": {
+            "value": 66.4,
+            "Male": 43.6,
+            "Female": 22.8
+        }
+    },
+    "Italy": {
+        "2025": {
+            "value": 45.400000000000006,
+            "Male": 25.8,
+            "Female": 19.6
+        },
+        "2020": {
+            "value": 46.5,
+            "Male": 26.9,
+            "Female": 19.6
+        },
+        "2015": {
+            "value": 48.0,
+            "Male": 28.3,
+            "Female": 19.7
+        },
+        "2012": {
+            "value": 48.900000000000006,
+            "Male": 29.1,
+            "Female": 19.8
+        },
+        "2010": {
+            "value": 49.5,
+            "Male": 29.7,
+            "Female": 19.8
+        },
+        "2005": {
+            "value": 51.3,
+            "Male": 31.2,
+            "Female": 20.1
+        },
+        "2000": {
+            "value": 53.099999999999994,
+            "Male": 32.9,
+            "Female": 20.2
+        }
+    },
+    "Jamaica": {
+        "2025": {
+            "value": 36.3,
+            "Male": 31.7,
+            "Female": 4.6
+        },
+        "2020": {
+            "value": 35.9,
+            "Male": 30.7,
+            "Female": 5.2
+        },
+        "2015": {
+            "value": 35.8,
+            "Male": 29.9,
+            "Female": 5.9
+        },
+        "2012": {
+            "value": 35.9,
+            "Male": 29.5,
+            "Female": 6.4
+        },
+        "2010": {
+            "value": 36.0,
+            "Male": 29.3,
+            "Female": 6.7
+        },
+        "2005": {
+            "value": 36.699999999999996,
+            "Male": 28.9,
+            "Female": 7.8
+        },
+        "2000": {
+            "value": 37.9,
+            "Male": 29.0,
+            "Female": 8.9
+        }
+    },
+    "Japan": {
+        "2025": {
+            "value": 34.2,
+            "Male": 25.5,
+            "Female": 8.7
+        },
+        "2020": {
+            "value": 38.8,
+            "Male": 29.2,
+            "Female": 9.6
+        },
+        "2015": {
+            "value": 44.300000000000004,
+            "Male": 33.7,
+            "Female": 10.6
+        },
+        "2012": {
+            "value": 47.599999999999994,
+            "Male": 36.3,
+            "Female": 11.3
+        },
+        "2010": {
+            "value": 50.099999999999994,
+            "Male": 38.4,
+            "Female": 11.7
+        },
+        "2005": {
+            "value": 57.4,
+            "Male": 44.4,
+            "Female": 13.0
+        },
+        "2000": {
+            "value": 65.7,
+            "Male": 51.3,
+            "Female": 14.4
+        }
+    },
+    "Jordan": {
+        "2025": {
+            "value": 100.3,
+            "Male": 86.5,
+            "Female": 13.8
+        },
+        "2020": {
+            "value": 92.5,
+            "Male": 80.4,
+            "Female": 12.1
+        },
+        "2015": {
+            "value": 80.9,
+            "Male": 70.2,
+            "Female": 10.7
+        },
+        "2012": {
+            "value": 73.6,
+            "Male": 63.6,
+            "Female": 10.0
+        },
+        "2010": {
+            "value": 68.4,
+            "Male": 58.9,
+            "Female": 9.5
+        },
+        "2005": {
+            "value": 58.1,
+            "Male": 49.6,
+            "Female": 8.5
+        },
+        "2000": {
+            "value": 49.7,
+            "Male": 42.0,
+            "Female": 7.7
+        }
+    },
+    "Kazakhstan": {
+        "2025": {
+            "value": 45.400000000000006,
+            "Male": 37.2,
+            "Female": 8.2
+        },
+        "2020": {
+            "value": 49.0,
+            "Male": 40.3,
+            "Female": 8.7
+        },
+        "2015": {
+            "value": 53.2,
+            "Male": 43.9,
+            "Female": 9.3
+        },
+        "2012": {
+            "value": 56.0,
+            "Male": 46.3,
+            "Female": 9.7
+        },
+        "2010": {
+            "value": 57.699999999999996,
+            "Male": 47.8,
+            "Female": 9.9
+        },
+        "2005": {
+            "value": 62.800000000000004,
+            "Male": 52.2,
+            "Female": 10.6
+        },
+        "2000": {
+            "value": 68.9,
+            "Male": 57.4,
+            "Female": 11.5
+        }
+    },
+    "Kenya": {
+        "2025": {
+            "value": 23.099999999999998,
+            "Male": 21.4,
+            "Female": 1.7
+        },
+        "2020": {
+            "value": 24.799999999999997,
+            "Male": 22.9,
+            "Female": 1.9
+        },
+        "2015": {
+            "value": 26.700000000000003,
+            "Male": 24.6,
+            "Female": 2.1
+        },
+        "2012": {
+            "value": 28.0,
+            "Male": 25.7,
+            "Female": 2.3
+        },
+        "2010": {
+            "value": 28.7,
+            "Male": 26.3,
+            "Female": 2.4
+        },
+        "2005": {
+            "value": 31.2,
+            "Male": 28.5,
+            "Female": 2.7
+        },
+        "2000": {
+            "value": 34.0,
+            "Male": 31.0,
+            "Female": 3.0
+        }
+    },
+    "Kiribati": {
+        "2025": {
+            "value": 91.69999999999999,
+            "Male": 54.9,
+            "Female": 36.8
+        },
+        "2020": {
+            "value": 97.9,
+            "Male": 59.1,
+            "Female": 38.8
+        },
+        "2015": {
+            "value": 104.8,
+            "Male": 63.9,
+            "Female": 40.9
+        },
+        "2012": {
+            "value": 109.9,
+            "Male": 67.3,
+            "Female": 42.6
+        },
+        "2010": {
+            "value": 113.0,
+            "Male": 69.3,
+            "Female": 43.7
+        },
+        "2005": {
+            "value": 123.0,
+            "Male": 75.9,
+            "Female": 47.1
+        },
+        "2000": {
+            "value": 133.1,
+            "Male": 82.0,
+            "Female": 51.1
+        }
+    },
+    "Kyrgyzstan": {
+        "2025": {
+            "value": 53.4,
+            "Male": 50.4,
+            "Female": 3.0
+        },
+        "2020": {
+            "value": 53.599999999999994,
+            "Male": 50.3,
+            "Female": 3.3
+        },
+        "2015": {
+            "value": 54.0,
+            "Male": 50.4,
+            "Female": 3.6
+        },
+        "2012": {
+            "value": 54.0,
+            "Male": 50.2,
+            "Female": 3.8
+        },
+        "2010": {
+            "value": 54.3,
+            "Male": 50.4,
+            "Female": 3.9
+        },
+        "2005": {
+            "value": 54.699999999999996,
+            "Male": 50.3,
+            "Female": 4.4
+        },
+        "2000": {
+            "value": 55.9,
+            "Male": 51.1,
+            "Female": 4.8
+        }
+    },
+    "Lao People's Democratic Republic": {
+        "2025": {
+            "value": 53.4,
+            "Male": 48.0,
+            "Female": 5.4
+        },
+        "2020": {
+            "value": 58.9,
+            "Male": 51.9,
+            "Female": 7.0
+        },
+        "2015": {
+            "value": 65.7,
+            "Male": 56.6,
+            "Female": 9.1
+        },
+        "2012": {
+            "value": 70.5,
+            "Male": 59.8,
+            "Female": 10.7
+        },
+        "2010": {
+            "value": 73.60000000000001,
+            "Male": 61.7,
+            "Female": 11.9
+        },
+        "2005": {
+            "value": 83.3,
+            "Male": 67.6,
+            "Female": 15.7
+        },
+        "2000": {
+            "value": 94.9,
+            "Male": 74.2,
+            "Female": 20.7
+        }
+    },
+    "Latvia": {
+        "2025": {
+            "value": 68.5,
+            "Male": 44.4,
+            "Female": 24.1
+        },
+        "2020": {
+            "value": 70.7,
+            "Male": 46.5,
+            "Female": 24.2
+        },
+        "2015": {
+            "value": 73.2,
+            "Male": 48.9,
+            "Female": 24.3
+        },
+        "2012": {
+            "value": 74.9,
+            "Male": 50.5,
+            "Female": 24.4
+        },
+        "2010": {
+            "value": 76.0,
+            "Male": 51.6,
+            "Female": 24.4
+        },
+        "2005": {
+            "value": 78.5,
+            "Male": 53.9,
+            "Female": 24.6
+        },
+        "2000": {
+            "value": 82.1,
+            "Male": 57.1,
+            "Female": 25.0
+        }
+    },
+    "Lebanon": {
+        "2025": {
+            "value": 93.1,
+            "Male": 55.4,
+            "Female": 37.7
+        },
+        "2020": {
+            "value": 84.30000000000001,
+            "Male": 50.2,
+            "Female": 34.1
+        },
+        "2015": {
+            "value": 76.4,
+            "Male": 45.4,
+            "Female": 31.0
+        },
+        "2012": {
+            "value": 72.4,
+            "Male": 43.0,
+            "Female": 29.4
+        },
+        "2010": {
+            "value": 70.0,
+            "Male": 41.7,
+            "Female": 28.3
+        },
+        "2005": {
+            "value": 64.5,
+            "Male": 38.3,
+            "Female": 26.2
+        },
+        "2000": {
+            "value": 59.7,
+            "Male": 35.4,
+            "Female": 24.3
+        }
+    },
+    "Lesotho": {
+        "2025": {
+            "value": 74.0,
+            "Male": 73.6,
+            "Female": 0.4
+        },
+        "2020": {
+            "value": 64.7,
+            "Male": 64.3,
+            "Female": 0.4
+        },
+        "2015": {
+            "value": 55.5,
+            "Male": 55.1,
+            "Female": 0.4
+        },
+        "2012": {
+            "value": 50.5,
+            "Male": 50.1,
+            "Female": 0.4
+        },
+        "2010": {
+            "value": 47.7,
+            "Male": 47.2,
+            "Female": 0.5
+        },
+        "2005": {
+            "value": 41.2,
+            "Male": 40.7,
+            "Female": 0.5
+        },
+        "2000": {
+            "value": 35.800000000000004,
+            "Male": 35.2,
+            "Female": 0.6
+        }
+    },
+    "Liberia": {
+        "2025": {
+            "value": 38.900000000000006,
+            "Male": 37.2,
+            "Female": 1.7
+        },
+        "2020": {
+            "value": 34.0,
+            "Male": 32.0,
+            "Female": 2.0
+        },
+        "2015": {
+            "value": 30.0,
+            "Male": 27.6,
+            "Female": 2.4
+        },
+        "2012": {
+            "value": 28.099999999999998,
+            "Male": 25.4,
+            "Female": 2.7
+        },
+        "2010": {
+            "value": 26.7,
+            "Male": 23.9,
+            "Female": 2.8
+        },
+        "2005": {
+            "value": 24.4,
+            "Male": 21.0,
+            "Female": 3.4
+        },
+        "2000": {
+            "value": 22.5,
+            "Male": 18.4,
+            "Female": 4.1
+        }
+    },
+    "Lithuania": {
+        "2025": {
+            "value": 54.6,
+            "Male": 31.0,
+            "Female": 23.6
+        },
+        "2020": {
+            "value": 57.1,
+            "Male": 34.2,
+            "Female": 22.9
+        },
+        "2015": {
+            "value": 60.3,
+            "Male": 38.1,
+            "Female": 22.2
+        },
+        "2012": {
+            "value": 62.4,
+            "Male": 40.5,
+            "Female": 21.9
+        },
+        "2010": {
+            "value": 64.1,
+            "Male": 42.3,
+            "Female": 21.8
+        },
+        "2005": {
+            "value": 68.6,
+            "Male": 47.3,
+            "Female": 21.3
+        },
+        "2000": {
+            "value": 74.0,
+            "Male": 53.1,
+            "Female": 20.9
+        }
+    },
+    "Luxembourg": {
+        "2025": {
+            "value": 41.2,
+            "Male": 21.8,
+            "Female": 19.4
+        },
+        "2020": {
+            "value": 44.2,
+            "Male": 23.8,
+            "Female": 20.4
+        },
+        "2015": {
+            "value": 47.2,
+            "Male": 25.8,
+            "Female": 21.4
+        },
+        "2012": {
+            "value": 49.7,
+            "Male": 27.4,
+            "Female": 22.3
+        },
+        "2010": {
+            "value": 51.099999999999994,
+            "Male": 28.4,
+            "Female": 22.7
+        },
+        "2005": {
+            "value": 55.2,
+            "Male": 31.1,
+            "Female": 24.1
+        },
+        "2000": {
+            "value": 60.099999999999994,
+            "Male": 34.3,
+            "Female": 25.8
+        }
+    },
+    "Malawi": {
+        "2025": {
+            "value": 26.3,
+            "Male": 21.8,
+            "Female": 4.5
+        },
+        "2020": {
+            "value": 28.7,
+            "Male": 23.5,
+            "Female": 5.2
+        },
+        "2015": {
+            "value": 31.4,
+            "Male": 25.4,
+            "Female": 6.0
+        },
+        "2012": {
+            "value": 33.2,
+            "Male": 26.6,
+            "Female": 6.6
+        },
+        "2010": {
+            "value": 34.6,
+            "Male": 27.6,
+            "Female": 7.0
+        },
+        "2005": {
+            "value": 38.2,
+            "Male": 30.0,
+            "Female": 8.2
+        },
+        "2000": {
+            "value": 42.5,
+            "Male": 32.8,
+            "Female": 9.7
+        }
+    },
+    "Malaysia": {
+        "2025": {
+            "value": 38.599999999999994,
+            "Male": 37.8,
+            "Female": 0.8
+        },
+        "2020": {
+            "value": 41.300000000000004,
+            "Male": 40.2,
+            "Female": 1.1
+        },
+        "2015": {
+            "value": 44.4,
+            "Male": 43.0,
+            "Female": 1.4
+        },
+        "2012": {
+            "value": 46.5,
+            "Male": 44.9,
+            "Female": 1.6
+        },
+        "2010": {
+            "value": 48.0,
+            "Male": 46.2,
+            "Female": 1.8
+        },
+        "2005": {
+            "value": 52.4,
+            "Male": 50.0,
+            "Female": 2.4
+        },
+        "2000": {
+            "value": 58.0,
+            "Male": 54.8,
+            "Female": 3.2
+        }
+    },
+    "Mali": {
+        "2025": {
+            "value": 57.8,
+            "Male": 55.0,
+            "Female": 2.8
+        },
+        "2020": {
+            "value": 48.1,
+            "Male": 45.1,
+            "Female": 3.0
+        },
+        "2015": {
+            "value": 40.0,
+            "Male": 36.8,
+            "Female": 3.2
+        },
+        "2012": {
+            "value": 36.0,
+            "Male": 32.6,
+            "Female": 3.4
+        },
+        "2010": {
+            "value": 33.8,
+            "Male": 30.3,
+            "Female": 3.5
+        },
+        "2005": {
+            "value": 28.599999999999998,
+            "Male": 24.9,
+            "Female": 3.7
+        },
+        "2000": {
+            "value": 24.700000000000003,
+            "Male": 20.6,
+            "Female": 4.1
+        }
+    },
+    "Malta": {
+        "2025": {
+            "value": 42.9,
+            "Male": 25.9,
+            "Female": 17.0
+        },
+        "2020": {
+            "value": 46.3,
+            "Male": 27.7,
+            "Female": 18.6
+        },
+        "2015": {
+            "value": 49.9,
+            "Male": 29.7,
+            "Female": 20.2
+        },
+        "2012": {
+            "value": 53.0,
+            "Male": 31.5,
+            "Female": 21.5
+        },
+        "2010": {
+            "value": 54.5,
+            "Male": 32.5,
+            "Female": 22.0
+        },
+        "2005": {
+            "value": 59.7,
+            "Male": 35.4,
+            "Female": 24.3
+        },
+        "2000": {
+            "value": 65.69999999999999,
+            "Male": 38.8,
+            "Female": 26.9
+        }
+    },
+    "Mauritania": {
+        "2025": {
+            "value": 67.7,
+            "Male": 64.9,
+            "Female": 2.8
+        },
+        "2020": {
+            "value": 57.5,
+            "Male": 54.3,
+            "Female": 3.2
+        },
+        "2015": {
+            "value": 47.7,
+            "Male": 44.0,
+            "Female": 3.7
+        },
+        "2012": {
+            "value": 42.9,
+            "Male": 38.9,
+            "Female": 4.0
+        },
+        "2010": {
+            "value": 40.0,
+            "Male": 35.8,
+            "Female": 4.2
+        },
+        "2005": {
+            "value": 34.1,
+            "Male": 29.2,
+            "Female": 4.9
+        },
+        "2000": {
+            "value": 29.599999999999998,
+            "Male": 23.9,
+            "Female": 5.7
+        }
+    },
+    "Mauritius": {
+        "2025": {
+            "value": 39.800000000000004,
+            "Male": 37.2,
+            "Female": 2.6
+        },
+        "2020": {
+            "value": 41.5,
+            "Male": 38.6,
+            "Female": 2.9
+        },
+        "2015": {
+            "value": 43.4,
+            "Male": 40.1,
+            "Female": 3.3
+        },
+        "2012": {
+            "value": 44.8,
+            "Male": 41.3,
+            "Female": 3.5
+        },
+        "2010": {
+            "value": 45.7,
+            "Male": 42.0,
+            "Female": 3.7
+        },
+        "2005": {
+            "value": 48.300000000000004,
+            "Male": 44.1,
+            "Female": 4.2
+        },
+        "2000": {
+            "value": 51.4,
+            "Male": 46.6,
+            "Female": 4.8
+        }
+    },
+    "Mexico": {
+        "2025": {
+            "value": 18.8,
+            "Male": 14.5,
+            "Female": 4.3
+        },
+        "2020": {
+            "value": 22.6,
+            "Male": 17.3,
+            "Female": 5.3
+        },
+        "2015": {
+            "value": 27.4,
+            "Male": 20.8,
+            "Female": 6.6
+        },
+        "2012": {
+            "value": 30.9,
+            "Male": 23.3,
+            "Female": 7.6
+        },
+        "2010": {
+            "value": 33.5,
+            "Male": 25.1,
+            "Female": 8.4
+        },
+        "2005": {
+            "value": 40.7,
+            "Male": 30.2,
+            "Female": 10.5
+        },
+        "2000": {
+            "value": 49.900000000000006,
+            "Male": 36.6,
+            "Female": 13.3
+        }
+    },
+    "Mongolia": {
+        "2025": {
+            "value": 47.3,
+            "Male": 43.5,
+            "Female": 3.8
+        },
+        "2020": {
+            "value": 49.9,
+            "Male": 45.4,
+            "Female": 4.5
+        },
+        "2015": {
+            "value": 53.0,
+            "Male": 47.7,
+            "Female": 5.3
+        },
+        "2012": {
+            "value": 55.099999999999994,
+            "Male": 49.3,
+            "Female": 5.8
+        },
+        "2010": {
+            "value": 56.599999999999994,
+            "Male": 50.3,
+            "Female": 6.3
+        },
+        "2005": {
+            "value": 61.1,
+            "Male": 53.6,
+            "Female": 7.5
+        },
+        "2000": {
+            "value": 65.9,
+            "Male": 56.9,
+            "Female": 9.0
+        }
+    },
+    "Morocco": {
+        "2025": {
+            "value": 57.7,
+            "Male": 57.0,
+            "Female": 0.7
+        },
+        "2020": {
+            "value": 52.3,
+            "Male": 51.3,
+            "Female": 1.0
+        },
+        "2015": {
+            "value": 46.8,
+            "Male": 45.4,
+            "Female": 1.4
+        },
+        "2012": {
+            "value": 44.2,
+            "Male": 42.5,
+            "Female": 1.7
+        },
+        "2010": {
+            "value": 42.5,
+            "Male": 40.6,
+            "Female": 1.9
+        },
+        "2005": {
+            "value": 39.199999999999996,
+            "Male": 36.4,
+            "Female": 2.8
+        },
+        "2000": {
+            "value": 37.1,
+            "Male": 33.1,
+            "Female": 4.0
+        }
+    },
+    "Mozambique": {
+        "2025": {
+            "value": 31.599999999999998,
+            "Male": 26.4,
+            "Female": 5.2
+        },
+        "2020": {
+            "value": 34.3,
+            "Male": 28.8,
+            "Female": 5.5
+        },
+        "2015": {
+            "value": 37.3,
+            "Male": 31.4,
+            "Female": 5.9
+        },
+        "2012": {
+            "value": 39.6,
+            "Male": 33.4,
+            "Female": 6.2
+        },
+        "2010": {
+            "value": 41.199999999999996,
+            "Male": 34.8,
+            "Female": 6.4
+        },
+        "2005": {
+            "value": 45.4,
+            "Male": 38.5,
+            "Female": 6.9
+        },
+        "2000": {
+            "value": 50.300000000000004,
+            "Male": 42.7,
+            "Female": 7.6
+        }
+    },
+    "Myanmar": {
+        "2025": {
+            "value": 25.8,
+            "Male": 22.0,
+            "Female": 3.8
+        },
+        "2020": {
+            "value": 31.1,
+            "Male": 26.2,
+            "Female": 4.9
+        },
+        "2015": {
+            "value": 38.0,
+            "Male": 31.6,
+            "Female": 6.4
+        },
+        "2012": {
+            "value": 42.900000000000006,
+            "Male": 35.2,
+            "Female": 7.7
+        },
+        "2010": {
+            "value": 46.9,
+            "Male": 38.3,
+            "Female": 8.6
+        },
+        "2005": {
+            "value": 58.0,
+            "Male": 46.4,
+            "Female": 11.6
+        },
+        "2000": {
+            "value": 72.4,
+            "Male": 56.6,
+            "Female": 15.8
+        }
+    },
+    "Namibia": {
+        "2025": {
+            "value": 57.2,
+            "Male": 47.4,
+            "Female": 9.8
+        },
+        "2020": {
+            "value": 53.4,
+            "Male": 42.9,
+            "Female": 10.5
+        },
+        "2015": {
+            "value": 50.3,
+            "Male": 38.9,
+            "Female": 11.4
+        },
+        "2012": {
+            "value": 48.4,
+            "Male": 36.4,
+            "Female": 12.0
+        },
+        "2010": {
+            "value": 47.400000000000006,
+            "Male": 35.1,
+            "Female": 12.3
+        },
+        "2005": {
+            "value": 45.3,
+            "Male": 31.9,
+            "Female": 13.4
+        },
+        "2000": {
+            "value": 44.0,
+            "Male": 29.3,
+            "Female": 14.7
+        }
+    },
+    "Nauru": {
+        "2025": {
+            "value": 83.69999999999999,
+            "Male": 36.9,
+            "Female": 46.8
+        },
+        "2020": {
+            "value": 88.7,
+            "Male": 39.5,
+            "Female": 49.2
+        },
+        "2015": {
+            "value": 95.0,
+            "Male": 43.0,
+            "Female": 52.0
+        },
+        "2012": {
+            "value": 99.1,
+            "Male": 45.4,
+            "Female": 53.7
+        },
+        "2010": {
+            "value": 102.4,
+            "Male": 46.9,
+            "Female": 55.5
+        },
+        "2005": {
+            "value": 110.9,
+            "Male": 51.6,
+            "Female": 59.3
+        },
+        "2000": {
+            "value": 120.9,
+            "Male": 57.0,
+            "Female": 63.9
+        }
+    },
+    "Nepal": {
+        "2025": {
+            "value": 38.199999999999996,
+            "Male": 32.9,
+            "Female": 5.3
+        },
+        "2020": {
+            "value": 42.400000000000006,
+            "Male": 34.7,
+            "Female": 7.7
+        },
+        "2015": {
+            "value": 48.2,
+            "Male": 37.1,
+            "Female": 11.1
+        },
+        "2012": {
+            "value": 52.6,
+            "Male": 38.7,
+            "Female": 13.9
+        },
+        "2010": {
+            "value": 55.800000000000004,
+            "Male": 39.7,
+            "Female": 16.1
+        },
+        "2005": {
+            "value": 66.0,
+            "Male": 42.5,
+            "Female": 23.5
+        },
+        "2000": {
+            "value": 79.9,
+            "Male": 45.6,
+            "Female": 34.3
+        }
+    },
+    "Netherlands": {
+        "2025": {
+            "value": 41.0,
+            "Male": 20.6,
+            "Female": 20.4
+        },
+        "2020": {
+            "value": 45.0,
+            "Male": 22.9,
+            "Female": 22.1
+        },
+        "2015": {
+            "value": 50.099999999999994,
+            "Male": 26.2,
+            "Female": 23.9
+        },
+        "2012": {
+            "value": 52.2,
+            "Male": 27.5,
+            "Female": 24.7
+        },
+        "2010": {
+            "value": 55.3,
+            "Male": 29.4,
+            "Female": 25.9
+        },
+        "2005": {
+            "value": 60.800000000000004,
+            "Male": 32.7,
+            "Female": 28.1
+        },
+        "2000": {
+            "value": 67.4,
+            "Male": 36.7,
+            "Female": 30.7
+        }
+    },
+    "Niger": {
+        "2025": {
+            "value": 31.1,
+            "Male": 31.0,
+            "Female": 0.1
+        },
+        "2020": {
+            "value": 24.2,
+            "Male": 24.0,
+            "Female": 0.2
+        },
+        "2015": {
+            "value": 18.8,
+            "Male": 18.6,
+            "Female": 0.2
+        },
+        "2012": {
+            "value": 16.1,
+            "Male": 15.9,
+            "Female": 0.2
+        },
+        "2010": {
+            "value": 14.6,
+            "Male": 14.4,
+            "Female": 0.2
+        },
+        "2005": {
+            "value": 11.600000000000001,
+            "Male": 11.3,
+            "Female": 0.3
+        },
+        "2000": {
+            "value": 9.3,
+            "Male": 9.0,
+            "Female": 0.3
+        }
+    },
+    "Nigeria": {
+        "2025": {
+            "value": 24.5,
+            "Male": 23.8,
+            "Female": 0.7
+        },
+        "2020": {
+            "value": 21.099999999999998,
+            "Male": 20.2,
+            "Female": 0.9
+        },
+        "2015": {
+            "value": 18.5,
+            "Male": 17.4,
+            "Female": 1.1
+        },
+        "2012": {
+            "value": 17.1,
+            "Male": 15.9,
+            "Female": 1.2
+        },
+        "2010": {
+            "value": 16.3,
+            "Male": 15.0,
+            "Female": 1.3
+        },
+        "2005": {
+            "value": 14.6,
+            "Male": 13.0,
+            "Female": 1.6
+        },
+        "2000": {
+            "value": 13.3,
+            "Male": 11.3,
+            "Female": 2.0
+        }
+    },
+    "Niue": {
+        "2025": {
+            "value": 25.7,
+            "Male": 16.2,
+            "Female": 9.5
+        },
+        "2020": {
+            "value": 28.5,
+            "Male": 18.2,
+            "Female": 10.3
+        },
+        "2015": {
+            "value": 31.700000000000003,
+            "Male": 20.3,
+            "Female": 11.4
+        },
+        "2012": {
+            "value": 33.9,
+            "Male": 21.9,
+            "Female": 12.0
+        },
+        "2010": {
+            "value": 35.7,
+            "Male": 23.2,
+            "Female": 12.5
+        },
+        "2005": {
+            "value": 40.5,
+            "Male": 26.5,
+            "Female": 14.0
+        },
+        "2000": {
+            "value": 46.3,
+            "Male": 30.6,
+            "Female": 15.7
+        }
+    },
+    "Norway": {
+        "2025": {
+            "value": 29.1,
+            "Male": 14.4,
+            "Female": 14.7
+        },
+        "2020": {
+            "value": 36.0,
+            "Male": 17.9,
+            "Female": 18.1
+        },
+        "2015": {
+            "value": 44.5,
+            "Male": 22.4,
+            "Female": 22.1
+        },
+        "2012": {
+            "value": 50.4,
+            "Male": 25.5,
+            "Female": 24.9
+        },
+        "2010": {
+            "value": 55.1,
+            "Male": 28.0,
+            "Female": 27.1
+        },
+        "2005": {
+            "value": 68.1,
+            "Male": 34.7,
+            "Female": 33.4
+        },
+        "2000": {
+            "value": 84.1,
+            "Male": 43.1,
+            "Female": 41.0
+        }
+    },
+    "Oman": {
+        "2025": {
+            "value": 32.1,
+            "Male": 30.8,
+            "Female": 1.3
+        },
+        "2020": {
+            "value": 26.5,
+            "Male": 25.4,
+            "Female": 1.1
+        },
+        "2015": {
+            "value": 22.0,
+            "Male": 21.0,
+            "Female": 1.0
+        },
+        "2012": {
+            "value": 19.9,
+            "Male": 18.9,
+            "Female": 1.0
+        },
+        "2010": {
+            "value": 18.5,
+            "Male": 17.5,
+            "Female": 1.0
+        },
+        "2005": {
+            "value": 15.700000000000001,
+            "Male": 14.8,
+            "Female": 0.9
+        },
+        "2000": {
+            "value": 13.3,
+            "Male": 12.5,
+            "Female": 0.8
+        }
+    },
+    "Pakistan": {
+        "2025": {
+            "value": 47.9,
+            "Male": 46.3,
+            "Female": 1.6
+        },
+        "2020": {
+            "value": 46.0,
+            "Male": 43.9,
+            "Female": 2.1
+        },
+        "2015": {
+            "value": 44.9,
+            "Male": 41.9,
+            "Female": 3.0
+        },
+        "2012": {
+            "value": 44.2,
+            "Male": 40.6,
+            "Female": 3.6
+        },
+        "2010": {
+            "value": 44.400000000000006,
+            "Male": 40.2,
+            "Female": 4.2
+        },
+        "2005": {
+            "value": 44.4,
+            "Male": 38.5,
+            "Female": 5.9
+        },
+        "2000": {
+            "value": 45.8,
+            "Male": 37.4,
+            "Female": 8.4
+        }
+    },
+    "Panama": {
+        "2025": {
+            "value": 7.8,
+            "Male": 6.1,
+            "Female": 1.7
+        },
+        "2020": {
+            "value": 10.1,
+            "Male": 8.0,
+            "Female": 2.1
+        },
+        "2015": {
+            "value": 13.2,
+            "Male": 10.6,
+            "Female": 2.6
+        },
+        "2012": {
+            "value": 15.4,
+            "Male": 12.5,
+            "Female": 2.9
+        },
+        "2010": {
+            "value": 17.3,
+            "Male": 14.1,
+            "Female": 3.2
+        },
+        "2005": {
+            "value": 23.0,
+            "Male": 18.9,
+            "Female": 4.1
+        },
+        "2000": {
+            "value": 30.7,
+            "Male": 25.5,
+            "Female": 5.2
+        }
+    },
+    "Paraguay": {
+        "2025": {
+            "value": 26.4,
+            "Male": 21.0,
+            "Female": 5.4
+        },
+        "2020": {
+            "value": 30.9,
+            "Male": 24.4,
+            "Female": 6.5
+        },
+        "2015": {
+            "value": 36.2,
+            "Male": 28.3,
+            "Female": 7.9
+        },
+        "2012": {
+            "value": 40.3,
+            "Male": 31.3,
+            "Female": 9.0
+        },
+        "2010": {
+            "value": 42.8,
+            "Male": 33.1,
+            "Female": 9.7
+        },
+        "2005": {
+            "value": 51.0,
+            "Male": 39.0,
+            "Female": 12.0
+        },
+        "2000": {
+            "value": 61.1,
+            "Male": 46.2,
+            "Female": 14.9
+        }
+    },
+    "Peru": {
+        "2025": {
+            "value": 4.3,
+            "Female": 4.3
+        },
+        "2020": {
+            "value": 5.0,
+            "Female": 5.0
+        },
+        "2015": {
+            "value": 5.9,
+            "Female": 5.9
+        },
+        "2012": {
+            "value": 6.5,
+            "Female": 6.5
+        },
+        "2010": {
+            "value": 6.9,
+            "Female": 6.9
+        },
+        "2005": {
+            "value": 8.2,
+            "Female": 8.2
+        },
+        "2000": {
+            "value": 9.7,
+            "Female": 9.7
+        }
+    },
+    "Philippines": {
+        "2025": {
+            "value": 42.1,
+            "Male": 35.6,
+            "Female": 6.5
+        },
+        "2020": {
+            "value": 46.4,
+            "Male": 39.0,
+            "Female": 7.4
+        },
+        "2015": {
+            "value": 51.5,
+            "Male": 43.0,
+            "Female": 8.5
+        },
+        "2012": {
+            "value": 55.0,
+            "Male": 45.8,
+            "Female": 9.2
+        },
+        "2010": {
+            "value": 57.3,
+            "Male": 47.6,
+            "Female": 9.7
+        },
+        "2005": {
+            "value": 64.4,
+            "Male": 53.2,
+            "Female": 11.2
+        },
+        "2000": {
+            "value": 72.0,
+            "Male": 59.1,
+            "Female": 12.9
+        }
+    },
+    "Poland": {
+        "2025": {
+            "value": 43.8,
+            "Male": 26.0,
+            "Female": 17.8
+        },
+        "2020": {
+            "value": 49.5,
+            "Male": 28.9,
+            "Female": 20.6
+        },
+        "2015": {
+            "value": 56.099999999999994,
+            "Male": 32.4,
+            "Female": 23.7
+        },
+        "2012": {
+            "value": 61.0,
+            "Male": 34.9,
+            "Female": 26.1
+        },
+        "2010": {
+            "value": 64.2,
+            "Male": 36.5,
+            "Female": 27.7
+        },
+        "2005": {
+            "value": 73.30000000000001,
+            "Male": 41.1,
+            "Female": 32.2
+        },
+        "2000": {
+            "value": 84.8,
+            "Male": 46.9,
+            "Female": 37.9
+        }
+    },
+    "Portugal": {
+        "2025": {
+            "value": 42.2,
+            "Male": 29.3,
+            "Female": 12.9
+        },
+        "2020": {
+            "value": 43.5,
+            "Male": 30.3,
+            "Female": 13.2
+        },
+        "2015": {
+            "value": 45.2,
+            "Male": 31.5,
+            "Female": 13.7
+        },
+        "2012": {
+            "value": 46.4,
+            "Male": 32.4,
+            "Female": 14.0
+        },
+        "2010": {
+            "value": 47.099999999999994,
+            "Male": 32.9,
+            "Female": 14.2
+        },
+        "2005": {
+            "value": 49.4,
+            "Male": 34.5,
+            "Female": 14.9
+        },
+        "2000": {
+            "value": 51.8,
+            "Male": 36.1,
+            "Female": 15.7
+        }
+    },
+    "Republic of Korea": {
+        "2025": {
+            "value": 47.6,
+            "Male": 44.0,
+            "Female": 3.6
+        },
+        "2020": {
+            "value": 50.699999999999996,
+            "Male": 46.9,
+            "Female": 3.8
+        },
+        "2015": {
+            "value": 54.0,
+            "Male": 49.8,
+            "Female": 4.2
+        },
+        "2012": {
+            "value": 56.1,
+            "Male": 51.7,
+            "Female": 4.4
+        },
+        "2010": {
+            "value": 57.9,
+            "Male": 53.3,
+            "Female": 4.6
+        },
+        "2005": {
+            "value": 62.0,
+            "Male": 57.0,
+            "Female": 5.0
+        },
+        "2000": {
+            "value": 67.1,
+            "Male": 61.5,
+            "Female": 5.6
+        }
+    },
+    "Republic of Moldova": {
+        "2025": {
+            "value": 55.199999999999996,
+            "Male": 49.8,
+            "Female": 5.4
+        },
+        "2020": {
+            "value": 53.199999999999996,
+            "Male": 47.8,
+            "Female": 5.4
+        },
+        "2015": {
+            "value": 51.1,
+            "Male": 45.7,
+            "Female": 5.4
+        },
+        "2012": {
+            "value": 50.0,
+            "Male": 44.6,
+            "Female": 5.4
+        },
+        "2010": {
+            "value": 49.5,
+            "Male": 44.1,
+            "Female": 5.4
+        },
+        "2005": {
+            "value": 47.5,
+            "Male": 42.1,
+            "Female": 5.4
+        },
+        "2000": {
+            "value": 46.2,
+            "Male": 40.7,
+            "Female": 5.5
+        }
+    },
+    "Romania": {
+        "2025": {
+            "value": 49.900000000000006,
+            "Male": 29.8,
+            "Female": 20.1
+        },
+        "2020": {
+            "value": 54.400000000000006,
+            "Male": 33.1,
+            "Female": 21.3
+        },
+        "2015": {
+            "value": 59.599999999999994,
+            "Male": 36.9,
+            "Female": 22.7
+        },
+        "2012": {
+            "value": 62.9,
+            "Male": 39.5,
+            "Female": 23.4
+        },
+        "2010": {
+            "value": 65.3,
+            "Male": 41.4,
+            "Female": 23.9
+        },
+        "2005": {
+            "value": 72.2,
+            "Male": 46.6,
+            "Female": 25.6
+        },
+        "2000": {
+            "value": 80.19999999999999,
+            "Male": 52.8,
+            "Female": 27.4
+        }
+    },
+    "Russian Federation": {
+        "2025": {
+            "value": 78.6,
+            "Male": 54.6,
+            "Female": 24.0
+        },
+        "2020": {
+            "value": 80.19999999999999,
+            "Male": 56.8,
+            "Female": 23.4
+        },
+        "2015": {
+            "value": 81.8,
+            "Male": 59.0,
+            "Female": 22.8
+        },
+        "2012": {
+            "value": 82.8,
+            "Male": 60.3,
+            "Female": 22.5
+        },
+        "2010": {
+            "value": 83.6,
+            "Male": 61.2,
+            "Female": 22.4
+        },
+        "2005": {
+            "value": 86.1,
+            "Male": 64.0,
+            "Female": 22.1
+        },
+        "2000": {
+            "value": 89.0,
+            "Male": 67.2,
+            "Female": 21.8
+        }
+    },
+    "Rwanda": {
+        "2025": {
+            "value": 5.0,
+            "Female": 5.0
+        },
+        "2020": {
+            "value": 5.2,
+            "Female": 5.2
+        },
+        "2015": {
+            "value": 5.5,
+            "Female": 5.5
+        },
+        "2012": {
+            "value": 5.7,
+            "Female": 5.7
+        },
+        "2010": {
+            "value": 5.8,
+            "Female": 5.8
+        },
+        "2005": {
+            "value": 6.3,
+            "Female": 6.3
+        },
+        "2000": {
+            "value": 6.7,
+            "Female": 6.7
+        }
+    },
+    "Samoa": {
+        "2025": {
+            "value": 47.5,
+            "Male": 31.6,
+            "Female": 15.9
+        },
+        "2020": {
+            "value": 53.2,
+            "Male": 35.9,
+            "Female": 17.3
+        },
+        "2015": {
+            "value": 59.9,
+            "Male": 41.0,
+            "Female": 18.9
+        },
+        "2012": {
+            "value": 64.9,
+            "Male": 44.8,
+            "Female": 20.1
+        },
+        "2010": {
+            "value": 68.3,
+            "Male": 47.4,
+            "Female": 20.9
+        },
+        "2005": {
+            "value": 78.2,
+            "Male": 54.9,
+            "Female": 23.3
+        },
+        "2000": {
+            "value": 89.4,
+            "Male": 63.4,
+            "Female": 26.0
+        }
+    },
+    "Saudi Arabia": {
+        "2025": {
+            "value": 38.1,
+            "Male": 35.5,
+            "Female": 2.6
+        },
+        "2020": {
+            "value": 34.1,
+            "Male": 31.4,
+            "Female": 2.7
+        },
+        "2015": {
+            "value": 30.799999999999997,
+            "Male": 27.9,
+            "Female": 2.9
+        },
+        "2012": {
+            "value": 29.3,
+            "Male": 26.3,
+            "Female": 3.0
+        },
+        "2010": {
+            "value": 27.9,
+            "Male": 24.9,
+            "Female": 3.0
+        },
+        "2005": {
+            "value": 25.6,
+            "Male": 22.3,
+            "Female": 3.3
+        },
+        "2000": {
+            "value": 23.7,
+            "Male": 20.2,
+            "Female": 3.5
+        }
+    },
+    "Senegal": {
+        "2025": {
+            "value": 29.2,
+            "Male": 28.7,
+            "Female": 0.5
+        },
+        "2020": {
+            "value": 26.400000000000002,
+            "Male": 25.8,
+            "Female": 0.6
+        },
+        "2015": {
+            "value": 24.099999999999998,
+            "Male": 23.4,
+            "Female": 0.7
+        },
+        "2012": {
+            "value": 22.900000000000002,
+            "Male": 22.1,
+            "Female": 0.8
+        },
+        "2010": {
+            "value": 22.099999999999998,
+            "Male": 21.2,
+            "Female": 0.9
+        },
+        "2005": {
+            "value": 20.3,
+            "Male": 19.2,
+            "Female": 1.1
+        },
+        "2000": {
+            "value": 19.0,
+            "Male": 17.6,
+            "Female": 1.4
+        }
+    },
+    "Serbia": {
+        "2025": {
+            "value": 76.8,
+            "Male": 37.9,
+            "Female": 38.9
+        },
+        "2020": {
+            "value": 79.9,
+            "Male": 40.6,
+            "Female": 39.3
+        },
+        "2015": {
+            "value": 83.30000000000001,
+            "Male": 43.6,
+            "Female": 39.7
+        },
+        "2012": {
+            "value": 85.3,
+            "Male": 45.5,
+            "Female": 39.8
+        },
+        "2010": {
+            "value": 87.0,
+            "Male": 46.8,
+            "Female": 40.2
+        },
+        "2005": {
+            "value": 91.0,
+            "Male": 50.4,
+            "Female": 40.6
+        },
+        "2000": {
+            "value": 95.80000000000001,
+            "Male": 54.6,
+            "Female": 41.2
+        }
+    },
+    "Seychelles": {
+        "2025": {
+            "value": 48.5,
+            "Male": 40.9,
+            "Female": 7.6
+        },
+        "2020": {
+            "value": 50.3,
+            "Male": 42.1,
+            "Female": 8.2
+        },
+        "2015": {
+            "value": 51.8,
+            "Male": 43.0,
+            "Female": 8.8
+        },
+        "2012": {
+            "value": 53.2,
+            "Male": 44.0,
+            "Female": 9.2
+        },
+        "2010": {
+            "value": 54.3,
+            "Male": 44.8,
+            "Female": 9.5
+        },
+        "2005": {
+            "value": 56.5,
+            "Male": 46.2,
+            "Female": 10.3
+        },
+        "2000": {
+            "value": 59.3,
+            "Male": 48.1,
+            "Female": 11.2
+        }
+    },
+    "Sierra Leone": {
+        "2025": {
+            "value": 84.9,
+            "Male": 76.2,
+            "Female": 8.7
+        },
+        "2020": {
+            "value": 78.8,
+            "Male": 68.6,
+            "Female": 10.2
+        },
+        "2015": {
+            "value": 72.0,
+            "Male": 60.0,
+            "Female": 12.0
+        },
+        "2012": {
+            "value": 68.4,
+            "Male": 55.0,
+            "Female": 13.4
+        },
+        "2010": {
+            "value": 66.5,
+            "Male": 52.1,
+            "Female": 14.4
+        },
+        "2005": {
+            "value": 62.8,
+            "Male": 45.6,
+            "Female": 17.2
+        },
+        "2000": {
+            "value": 61.0,
+            "Male": 40.1,
+            "Female": 20.9
+        }
+    },
+    "Singapore": {
+        "2025": {
+            "value": 33.5,
+            "Male": 28.8,
+            "Female": 4.7
+        },
+        "2020": {
+            "value": 33.2,
+            "Male": 28.3,
+            "Female": 4.9
+        },
+        "2015": {
+            "value": 33.0,
+            "Male": 28.0,
+            "Female": 5.0
+        },
+        "2012": {
+            "value": 32.9,
+            "Male": 27.7,
+            "Female": 5.2
+        },
+        "2010": {
+            "value": 32.9,
+            "Male": 27.6,
+            "Female": 5.3
+        },
+        "2005": {
+            "value": 33.0,
+            "Male": 27.5,
+            "Female": 5.5
+        },
+        "2000": {
+            "value": 33.199999999999996,
+            "Male": 27.4,
+            "Female": 5.8
+        }
+    },
+    "Slovakia": {
+        "2025": {
+            "value": 52.9,
+            "Male": 37.0,
+            "Female": 15.9
+        },
+        "2020": {
+            "value": 54.900000000000006,
+            "Male": 38.1,
+            "Female": 16.8
+        },
+        "2015": {
+            "value": 57.300000000000004,
+            "Male": 39.7,
+            "Female": 17.6
+        },
+        "2012": {
+            "value": 58.800000000000004,
+            "Male": 40.7,
+            "Female": 18.1
+        },
+        "2010": {
+            "value": 60.0,
+            "Male": 41.4,
+            "Female": 18.6
+        },
+        "2005": {
+            "value": 63.6,
+            "Male": 43.7,
+            "Female": 19.9
+        },
+        "2000": {
+            "value": 67.6,
+            "Male": 46.2,
+            "Female": 21.4
+        }
+    },
+    "Slovenia": {
+        "2025": {
+            "value": 34.6,
+            "Male": 18.7,
+            "Female": 15.9
+        },
+        "2020": {
+            "value": 37.4,
+            "Male": 20.4,
+            "Female": 17.0
+        },
+        "2015": {
+            "value": 40.400000000000006,
+            "Male": 22.3,
+            "Female": 18.1
+        },
+        "2012": {
+            "value": 42.5,
+            "Male": 23.6,
+            "Female": 18.9
+        },
+        "2010": {
+            "value": 44.1,
+            "Male": 24.6,
+            "Female": 19.5
+        },
+        "2005": {
+            "value": 48.0,
+            "Male": 27.0,
+            "Female": 21.0
+        },
+        "2000": {
+            "value": 52.5,
+            "Male": 29.9,
+            "Female": 22.6
+        }
+    },
+    "South Africa": {
+        "2025": {
+            "value": 33.800000000000004,
+            "Male": 29.6,
+            "Female": 4.2
+        },
+        "2020": {
+            "value": 35.6,
+            "Male": 30.4,
+            "Female": 5.2
+        },
+        "2015": {
+            "value": 37.9,
+            "Male": 31.4,
+            "Female": 6.5
+        },
+        "2012": {
+            "value": 39.5,
+            "Male": 32.1,
+            "Female": 7.4
+        },
+        "2010": {
+            "value": 40.5,
+            "Male": 32.5,
+            "Female": 8.0
+        },
+        "2005": {
+            "value": 43.9,
+            "Male": 33.9,
+            "Female": 10.0
+        },
+        "2000": {
+            "value": 47.8,
+            "Male": 35.3,
+            "Female": 12.5
+        }
+    },
+    "Spain": {
+        "2025": {
+            "value": 49.2,
+            "Male": 24.8,
+            "Female": 24.4
+        },
+        "2020": {
+            "value": 53.7,
+            "Male": 28.0,
+            "Female": 25.7
+        },
+        "2015": {
+            "value": 58.400000000000006,
+            "Male": 31.3,
+            "Female": 27.1
+        },
+        "2012": {
+            "value": 61.7,
+            "Male": 33.7,
+            "Female": 28.0
+        },
+        "2010": {
+            "value": 63.9,
+            "Male": 35.3,
+            "Female": 28.6
+        },
+        "2005": {
+            "value": 70.19999999999999,
+            "Male": 39.8,
+            "Female": 30.4
+        },
+        "2000": {
+            "value": 77.5,
+            "Male": 45.2,
+            "Female": 32.3
+        }
+    },
+    "Sri Lanka": {
+        "2025": {
+            "value": 27.900000000000002,
+            "Male": 27.8,
+            "Female": 0.1
+        },
+        "2020": {
+            "value": 28.3,
+            "Male": 28.1,
+            "Female": 0.2
+        },
+        "2015": {
+            "value": 28.799999999999997,
+            "Male": 28.4,
+            "Female": 0.4
+        },
+        "2012": {
+            "value": 29.3,
+            "Male": 28.8,
+            "Female": 0.5
+        },
+        "2010": {
+            "value": 29.900000000000002,
+            "Male": 29.3,
+            "Female": 0.6
+        },
+        "2005": {
+            "value": 31.3,
+            "Male": 30.2,
+            "Female": 1.1
+        },
+        "2000": {
+            "value": 33.4,
+            "Male": 31.5,
+            "Female": 1.9
+        }
+    },
+    "Sweden": {
+        "2025": {
+            "value": 29.9,
+            "Male": 15.0,
+            "Female": 14.9
+        },
+        "2020": {
+            "value": 35.1,
+            "Male": 17.5,
+            "Female": 17.6
+        },
+        "2015": {
+            "value": 41.2,
+            "Male": 20.4,
+            "Female": 20.8
+        },
+        "2012": {
+            "value": 45.3,
+            "Male": 22.3,
+            "Female": 23.0
+        },
+        "2010": {
+            "value": 48.3,
+            "Male": 23.8,
+            "Female": 24.5
+        },
+        "2005": {
+            "value": 56.8,
+            "Male": 27.7,
+            "Female": 29.1
+        },
+        "2000": {
+            "value": 67.2,
+            "Male": 32.6,
+            "Female": 34.6
+        }
+    },
+    "Switzerland": {
+        "2025": {
+            "value": 39.2,
+            "Male": 22.7,
+            "Female": 16.5
+        },
+        "2020": {
+            "value": 42.8,
+            "Male": 24.7,
+            "Female": 18.1
+        },
+        "2015": {
+            "value": 46.599999999999994,
+            "Male": 26.9,
+            "Female": 19.7
+        },
+        "2012": {
+            "value": 49.2,
+            "Male": 28.3,
+            "Female": 20.9
+        },
+        "2010": {
+            "value": 50.9,
+            "Male": 29.2,
+            "Female": 21.7
+        },
+        "2005": {
+            "value": 55.6,
+            "Male": 31.8,
+            "Female": 23.8
+        },
+        "2000": {
+            "value": 61.1,
+            "Male": 35.0,
+            "Female": 26.1
+        }
+    },
+    "Thailand": {
+        "2025": {
+            "value": 40.199999999999996,
+            "Male": 38.3,
+            "Female": 1.9
+        },
+        "2020": {
+            "value": 41.800000000000004,
+            "Male": 39.7,
+            "Female": 2.1
+        },
+        "2015": {
+            "value": 43.699999999999996,
+            "Male": 41.4,
+            "Female": 2.3
+        },
+        "2012": {
+            "value": 44.699999999999996,
+            "Male": 42.3,
+            "Female": 2.4
+        },
+        "2010": {
+            "value": 45.7,
+            "Male": 43.2,
+            "Female": 2.5
+        },
+        "2005": {
+            "value": 47.699999999999996,
+            "Male": 44.9,
+            "Female": 2.8
+        },
+        "2000": {
+            "value": 49.7,
+            "Male": 46.6,
+            "Female": 3.1
+        }
+    },
+    "Tonga": {
+        "2025": {
+            "value": 55.9,
+            "Male": 44.0,
+            "Female": 11.9
+        },
+        "2020": {
+            "value": 58.0,
+            "Male": 45.6,
+            "Female": 12.4
+        },
+        "2015": {
+            "value": 60.3,
+            "Male": 47.3,
+            "Female": 13.0
+        },
+        "2012": {
+            "value": 61.7,
+            "Male": 48.4,
+            "Female": 13.3
+        },
+        "2010": {
+            "value": 62.9,
+            "Male": 49.3,
+            "Female": 13.6
+        },
+        "2005": {
+            "value": 66.1,
+            "Male": 51.8,
+            "Female": 14.3
+        },
+        "2000": {
+            "value": 69.5,
+            "Male": 54.4,
+            "Female": 15.1
+        }
+    },
+    "Turkey": {
+        "2025": {
+            "value": 39.9,
+            "Male": 30.7,
+            "Female": 9.2
+        },
+        "2020": {
+            "value": 45.300000000000004,
+            "Male": 34.7,
+            "Female": 10.6
+        },
+        "2015": {
+            "value": 51.9,
+            "Male": 39.5,
+            "Female": 12.4
+        },
+        "2012": {
+            "value": 56.2,
+            "Male": 42.7,
+            "Female": 13.5
+        },
+        "2010": {
+            "value": 59.4,
+            "Male": 45.0,
+            "Female": 14.4
+        },
+        "2005": {
+            "value": 68.2,
+            "Male": 51.5,
+            "Female": 16.7
+        },
+        "2000": {
+            "value": 78.4,
+            "Male": 58.7,
+            "Female": 19.7
+        }
+    },
+    "Uganda": {
+        "2025": {
+            "value": 13.9,
+            "Male": 11.8,
+            "Female": 2.1
+        },
+        "2020": {
+            "value": 16.2,
+            "Male": 13.8,
+            "Female": 2.4
+        },
+        "2015": {
+            "value": 19.299999999999997,
+            "Male": 16.4,
+            "Female": 2.9
+        },
+        "2012": {
+            "value": 21.3,
+            "Male": 18.1,
+            "Female": 3.2
+        },
+        "2010": {
+            "value": 22.7,
+            "Male": 19.3,
+            "Female": 3.4
+        },
+        "2005": {
+            "value": 27.1,
+            "Male": 23.1,
+            "Female": 4.0
+        },
+        "2000": {
+            "value": 32.3,
+            "Male": 27.5,
+            "Female": 4.8
+        }
+    },
+    "Ukraine": {
+        "2025": {
+            "value": 56.6,
+            "Male": 43.6,
+            "Female": 13.0
+        },
+        "2020": {
+            "value": 59.8,
+            "Male": 46.3,
+            "Female": 13.5
+        },
+        "2015": {
+            "value": 63.4,
+            "Male": 49.4,
+            "Female": 14.0
+        },
+        "2012": {
+            "value": 65.8,
+            "Male": 51.4,
+            "Female": 14.4
+        },
+        "2010": {
+            "value": 67.2,
+            "Male": 52.6,
+            "Female": 14.6
+        },
+        "2005": {
+            "value": 71.5,
+            "Male": 56.4,
+            "Female": 15.1
+        },
+        "2000": {
+            "value": 76.10000000000001,
+            "Male": 60.2,
+            "Female": 15.9
+        }
+    },
+    "United Kingdom of Great Britain and Northern Ireland": {
+        "2025": {
+            "value": 28.7,
+            "Male": 15.0,
+            "Female": 13.7
+        },
+        "2020": {
+            "value": 33.2,
+            "Male": 17.3,
+            "Female": 15.9
+        },
+        "2015": {
+            "value": 38.3,
+            "Male": 19.9,
+            "Female": 18.4
+        },
+        "2012": {
+            "value": 41.900000000000006,
+            "Male": 21.8,
+            "Female": 20.1
+        },
+        "2010": {
+            "value": 44.4,
+            "Male": 23.0,
+            "Female": 21.4
+        },
+        "2005": {
+            "value": 51.5,
+            "Male": 26.8,
+            "Female": 24.7
+        },
+        "2000": {
+            "value": 60.2,
+            "Male": 31.3,
+            "Female": 28.9
+        }
+    },
+    "United Republic of Tanzania": {
+        "2025": {
+            "value": 26.4,
+            "Male": 23.2,
+            "Female": 3.2
+        },
+        "2020": {
+            "value": 28.6,
+            "Male": 25.1,
+            "Female": 3.5
+        },
+        "2015": {
+            "value": 31.3,
+            "Male": 27.5,
+            "Female": 3.8
+        },
+        "2012": {
+            "value": 33.2,
+            "Male": 29.2,
+            "Female": 4.0
+        },
+        "2010": {
+            "value": 34.4,
+            "Male": 30.3,
+            "Female": 4.1
+        },
+        "2005": {
+            "value": 38.3,
+            "Male": 33.8,
+            "Female": 4.5
+        },
+        "2000": {
+            "value": 42.5,
+            "Male": 37.6,
+            "Female": 4.9
+        }
+    },
+    "United States of America": {
+        "2025": {
+            "value": 26.8,
+            "Male": 15.4,
+            "Female": 11.4
+        },
+        "2020": {
+            "value": 30.4,
+            "Male": 17.4,
+            "Female": 13.0
+        },
+        "2015": {
+            "value": 34.5,
+            "Male": 19.5,
+            "Female": 15.0
+        },
+        "2012": {
+            "value": 37.3,
+            "Male": 21.0,
+            "Female": 16.3
+        },
+        "2010": {
+            "value": 39.3,
+            "Male": 22.0,
+            "Female": 17.3
+        },
+        "2005": {
+            "value": 44.599999999999994,
+            "Male": 24.7,
+            "Female": 19.9
+        },
+        "2000": {
+            "value": 50.7,
+            "Male": 27.7,
+            "Female": 23.0
+        }
+    },
+    "Uruguay": {
+        "2025": {
+            "value": 31.1,
+            "Male": 18.3,
+            "Female": 12.8
+        },
+        "2020": {
+            "value": 37.7,
+            "Male": 22.0,
+            "Female": 15.7
+        },
+        "2015": {
+            "value": 46.099999999999994,
+            "Male": 26.7,
+            "Female": 19.4
+        },
+        "2012": {
+            "value": 52.0,
+            "Male": 30.0,
+            "Female": 22.0
+        },
+        "2010": {
+            "value": 56.3,
+            "Male": 32.3,
+            "Female": 24.0
+        },
+        "2005": {
+            "value": 69.2,
+            "Male": 39.6,
+            "Female": 29.6
+        },
+        "2000": {
+            "value": 84.80000000000001,
+            "Male": 48.1,
+            "Female": 36.7
+        }
+    },
+    "Uzbekistan": {
+        "2025": {
+            "value": 23.9,
+            "Male": 22.7,
+            "Female": 1.2
+        },
+        "2020": {
+            "value": 25.0,
+            "Male": 23.8,
+            "Female": 1.2
+        },
+        "2015": {
+            "value": 26.2,
+            "Male": 24.9,
+            "Female": 1.3
+        },
+        "2012": {
+            "value": 27.2,
+            "Male": 25.9,
+            "Female": 1.3
+        },
+        "2010": {
+            "value": 27.9,
+            "Male": 26.5,
+            "Female": 1.4
+        },
+        "2005": {
+            "value": 29.6,
+            "Male": 28.1,
+            "Female": 1.5
+        },
+        "2000": {
+            "value": 31.6,
+            "Male": 30.1,
+            "Female": 1.5
+        }
+    },
+    "Viet Nam": {
+        "2025": {
+            "value": 46.6,
+            "Male": 45.6,
+            "Female": 1.0
+        },
+        "2020": {
+            "value": 47.300000000000004,
+            "Male": 46.2,
+            "Female": 1.1
+        },
+        "2015": {
+            "value": 48.4,
+            "Male": 47.1,
+            "Female": 1.3
+        },
+        "2012": {
+            "value": 49.0,
+            "Male": 47.6,
+            "Female": 1.4
+        },
+        "2010": {
+            "value": 49.699999999999996,
+            "Male": 48.3,
+            "Female": 1.4
+        },
+        "2005": {
+            "value": 51.1,
+            "Male": 49.5,
+            "Female": 1.6
+        },
+        "2000": {
+            "value": 53.0,
+            "Male": 51.1,
+            "Female": 1.9
+        }
+    },
+    "Zambia": {
+        "2025": {
+            "value": 28.7,
+            "Male": 24.8,
+            "Female": 3.9
+        },
+        "2020": {
+            "value": 29.7,
+            "Male": 25.5,
+            "Female": 4.2
+        },
+        "2015": {
+            "value": 31.1,
+            "Male": 26.5,
+            "Female": 4.6
+        },
+        "2012": {
+            "value": 32.1,
+            "Male": 27.3,
+            "Female": 4.8
+        },
+        "2010": {
+            "value": 32.8,
+            "Male": 27.8,
+            "Female": 5.0
+        },
+        "2005": {
+            "value": 34.8,
+            "Male": 29.3,
+            "Female": 5.5
+        },
+        "2000": {
+            "value": 37.1,
+            "Male": 31.0,
+            "Female": 6.1
+        }
+    },
+    "Zimbabwe": {
+        "2025": {
+            "value": 32.0,
+            "Male": 30.3,
+            "Female": 1.7
+        },
+        "2020": {
+            "value": 32.5,
+            "Male": 30.6,
+            "Female": 1.9
+        },
+        "2015": {
+            "value": 33.3,
+            "Male": 31.2,
+            "Female": 2.1
+        },
+        "2012": {
+            "value": 33.8,
+            "Male": 31.5,
+            "Female": 2.3
+        },
+        "2010": {
+            "value": 34.2,
+            "Male": 31.8,
+            "Female": 2.4
+        },
+        "2005": {
+            "value": 35.2,
+            "Male": 32.5,
+            "Female": 2.7
+        },
+        "2000": {
+            "value": 36.6,
+            "Male": 33.5,
+            "Female": 3.1
+        }
+    }
+}

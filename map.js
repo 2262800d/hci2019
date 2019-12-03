@@ -50,7 +50,20 @@ $(function () {
                         console.log(jsonData[id]["country_name"]);
                         console.log(jsonData[id]["data"]);
                         var datanums = Object.values(jsonData[id]["data"]);
-                        config["data"]["datasets"][0]["data"]=datanums;
+                        console.log(datanums);
+                        var datamale = [];
+                        var datafemale = [];
+                        for(var entry in datanums){
+                            datamale.push(datanums[entry]["Male"]);
+                            datafemale.push(datanums[entry]["Female"]);
+                        }
+                       // = Object.values(datanums["Male"]);
+                       // = Object.values(datanums["Female"]);
+                        //config["data"]["datasets"][0]["data"]=datanums.reverse();
+                        console.log(datafemale);
+                        config["data"]["datasets"][0]["data"]=datamale.reverse();
+                        config["data"]["datasets"][1]["data"]=datafemale.reverse();
+
                         window.myLine.update();
                         
                                          
@@ -100,7 +113,14 @@ $(function () {
                             fill: "#cc0000"
                         },
                         label: "More than 80%"
-                    }
+                    },
+                    {
+                        attrs: {
+                            fill: "#5d5d5d"
+                        },
+                        label: "No data available"
+                    },
+
                 ]
             }
         },
@@ -113,7 +133,7 @@ function buildMap(){
     var dataCountries = null;
     var countryCodes = null;
     $.ajax({ 
-        url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data.json", 
+        url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data1.json", 
         dataType: 'json', 
         async: false, 
         success: function(json){ 
@@ -128,7 +148,7 @@ function buildMap(){
             countryCodes=json;
         } 
     });
-    //console.log(dataCountries);
+    console.log(dataCountries);
     //var jsonData = {};
     for(var country in dataCountries){
         //console.log(country);
@@ -136,7 +156,9 @@ function buildMap(){
            // console.log(dataCountries[country]);
             var code = countryCodes[country][1];
             //console.log(code);
-            var val = dataCountries[country]["2015"];
+            //var val = dataCountries[country]["2015"];
+            var val = dataCountries[country]["2015"]["value"];
+
             //console.log(val);
             jsonData[code] = {
                 value: val,
@@ -146,7 +168,7 @@ function buildMap(){
         }
 
     }
-    console.log(jsonData);
+    //console.log(jsonData);
 
     return jsonData;
 }
