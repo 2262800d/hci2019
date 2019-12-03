@@ -9,15 +9,17 @@ with open("tobacco_data.json", 'r', encoding="utf-8") as f:
                 sex=el["dims"]["SEX"]
                 val=float(el["Value"][0:el["Value"].index('[')-1])
                 if country not in dic:
-                    dic.update({country:{year:val}})
-                
+                    dic.update({country:{year:{"value":val,sex:val}}})
                 else:
                     if year not in dic[country]:
-                         dic[country].update({year:val})   
+                        dic[country].update({year:{"value":val,sex:val}}) 
                     else:
-                        temp=dic[country]
-                    
-                        temp[year]=temp[year]+float(el["Value"][0:el["Value"].index('[')-1])
+					 
+                        if sex not in dic[country][year]:
+                            tempVal=dic[country][year]["value"]+val
+                            dic[country][year][sex]=val
+                            dic[country][year]["value"]=tempVal
+						
                 
         #print(dic)
         print(json.dumps(dic))
