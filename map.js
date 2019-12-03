@@ -85,8 +85,12 @@ $(function () {
                         
                         
                         //death
-                        console.log(deathRates[country_name])
-                        var ded = Object.values(deathRates[country_name])
+                        y = ['2000','2005','2010','2012','2015'];
+                        var ded = []// Object.values(deathRates[country_name]);
+                        for(var yer in y){
+                            ded.push(deathRates[country_name][y[yer]]);
+                        }
+                        console.log(ded);
                         config["data"]["datasets"][2]["data"] = ded;
 
 
