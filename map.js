@@ -1,7 +1,11 @@
 $(function () {
     $(".mapcontainer").mapael({
         map: {
-            name: "world_countries"
+            name: "world_countries",
+            zoom: {
+                enabled: true,
+                maxLevel: 10
+            }
 
             // Set default plots and areas style
             , defaultPlot: {
@@ -42,6 +46,7 @@ $(function () {
         legend: {
             area: {
                 title: "Population of France by department",
+                display: true,
                 slices: [
                     {
                         max: 10,
