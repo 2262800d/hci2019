@@ -1,4 +1,4 @@
-
+﻿
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,6 +15,12 @@
             margin: auto;
             margin-top: 50px;
         }
+         .rightPanel {
+            float: right;
+            width: 223px;
+            border-radius: 5px;
+            margin-left: 5px;
+        }
 
         .container {
             max-width: 80%;
@@ -26,7 +32,12 @@
         */
 
         .mapael .map {
+            margin-right: 228px;
+            overflow: hidden;
             position: relative;
+            background-color: #fff;
+            border-color:#000000;
+            border-radius: 5px;
         }
 
         .mapael .mapTooltip {
@@ -95,21 +106,23 @@
 </head>
 
 <body>
-<div class="container">
+    <div class="container">
 
-    <h1>Map with some custom plotted cities and areas</h1>
+        <h1>Map with some custom plotted cities and areas</h1>
 
-    <div class="mapcontainer">
-        <div class="map">
-            <span>Alternative content for the map</span>
+        <div class="mapcontainer">
+            <div class="rightPanel">
+                <div class="areaLegend"></div>
+                <div class="plotLegend"></div>
+            </div>
+            <div class="map"></div>
+            <div style="clear: both;"></div>
         </div>
-        <div class="areaLegend"></div>
-        <div class="plotLegend"></div>
+        
+
+        <p><b>All example for jQuery Mapael are available <a href="https://www.vincentbroute.fr/mapael/">here</a>.</b></p>
+
     </div>
-
-    <p><b>All example for jQuery Mapael are available <a href="https://www.vincentbroute.fr/mapael/">here</a>.</b></p>
-
-</div>
 
 
 </body>
