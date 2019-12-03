@@ -1,8 +1,7 @@
-$(document).ready(
-    $(".close").onClick = function() {
-        $("#myModal").style.display = "none";
-     } 
-);
+
+
+
+
 $(function () {
     $(".mapcontainer").mapael({
         map: {
@@ -163,5 +162,10 @@ function buildMap(){
 
     return jsonData;
 }
+$(document).ready(function () { 
+    $(".close").click(function () {
 
+        $("#myModal").css("display", "none");
+    });
+});
 
