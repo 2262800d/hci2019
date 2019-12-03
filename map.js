@@ -58,7 +58,7 @@ $(function () {
         },
         legend: {
             area: {
-                title: "Population of France by department",
+                title: "Percentage of population\n using Tobacco",
                 display: true,
                 slices: [
                     {
@@ -66,14 +66,14 @@ $(function () {
                         attrs: {
                             fill: "#32c12c"
                         },
-                        label: "Less than de 300 000 inhabitants"
+                        label: "Less than 10%"
                     },
                     {   min:10,
                         max: 40,
                         attrs: {
                             fill: "#87c735"
                         },
-                        label: "Less than de 300 000 inhabitants"
+                        label: "Between 10% and 40%"
                     },
                     {
                         min: 40,
@@ -81,7 +81,7 @@ $(function () {
                         attrs: {
                             fill: "#ffff00"
                         },
-                        label: "Between 100 000 and 500 000 inhabitants"
+                        label: "Between 40% and 60%"
                     },
                     {
                         min: 60,
@@ -89,14 +89,14 @@ $(function () {
                         attrs: {
                             fill: "#ff6600"
                         },
-                        label: "Between 500 000 and 1 000 000 inhabitants"
+                        label: "Between 60% and 80%"
                     },
                     {
                         min: 80,
                         attrs: {
                             fill: "#cc0000"
                         },
-                        label: "More than 1 million inhabitants"
+                        label: "More than 80%"
                     }
                 ]
             }
