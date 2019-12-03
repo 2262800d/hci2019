@@ -1,3 +1,8 @@
+$(document).ready(
+    $(".close").onClick = function() {
+        $("#myModal").style.display = "none";
+     } 
+);
 $(function () {
     $(".mapcontainer").mapael({
         map: {
@@ -40,8 +45,16 @@ $(function () {
                     , attrsHover: {
                         fill: "#000"
                     }
+                },
+                eventHandlers: {
+                    click: function () {
+                        var modal = document.getElementById("myModal");
+                        modal.style.display = "block";      
+                                         
+                    }
                 }
             }
+            
         },
         legend: {
             area: {
@@ -150,4 +163,5 @@ function buildMap(){
 
     return jsonData;
 }
+
 
