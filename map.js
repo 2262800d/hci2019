@@ -49,6 +49,9 @@ $(function () {
                         //console.log(id); 
                         console.log(jsonData[id]["country_name"]);
                         console.log(jsonData[id]["data"]);
+                        var datanums = Object.values(jsonData[id]["data"]);
+                        config["data"]["datasets"][0]["data"]=datanums;
+                        window.myLine.update();
                         
                                          
                     }

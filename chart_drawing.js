@@ -8,13 +8,7 @@ var MONTHS = ['2000','2005','2010','2012','2015','2020','2025'];
 					backgroundColor: window.chartColors.red,
 					borderColor: window.chartColors.red,
 					data: [
-						randomScalingFactor(),
-						randomScalingFactor(),
-						randomScalingFactor(),
-						randomScalingFactor(),
-						randomScalingFactor(),
-						randomScalingFactor(),
-						randomScalingFactor()
+						
 					],
 					fill: false,
 				
@@ -46,8 +40,14 @@ var MONTHS = ['2000','2005','2010','2012','2015','2020','2025'];
 						scaleLabel: {
 							display: true,
 							labelString: 'Value'
-						}
-					}
+                        }
+                    },
+                    yAxes: [{
+                        ticks: {
+                            suggestedMin: 0,
+                            suggestedMax: 100
+                        }
+                    }]
 				}
 			}
 		};
