@@ -48,6 +48,8 @@ $(function () {
                         modal.style.display = "block";  
                         //console.log(id); 
                         console.log(jsonData[id]["country_name"]);
+                        $("#countryTitle").text(jsonData[id]["country_name"]);
+                        $("#countryTitle").css("font-weight", "bold");
                         console.log(jsonData[id]["data"]);
                         var datanums = Object.values(jsonData[id]["data"]);
                         console.log(datanums);
@@ -61,8 +63,8 @@ $(function () {
                        // = Object.values(datanums["Female"]);
                         //config["data"]["datasets"][0]["data"]=datanums.reverse();
                         console.log(datafemale);
-                        config["data"]["datasets"][0]["data"]=datamale.reverse();
-                        config["data"]["datasets"][1]["data"]=datafemale.reverse();
+                        config["data"]["datasets"][0]["data"]=datamale;//.reverse();
+                        config["data"]["datasets"][1]["data"]=datafemale;//.reverse();
 
                         window.myLine.update();
                         

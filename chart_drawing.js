@@ -29,7 +29,7 @@ var MONTHS = ['2000','2005','2010','2012','2015','2020','2025'];
 				responsive: true,
 				title: {
 					display: true,
-					text: 'Chart.js Line Chart'
+					text: 'Tobacco use'
 				},
 				tooltips: {
 					mode: 'index',
