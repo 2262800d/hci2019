@@ -67,7 +67,18 @@ var config = {
                 ticks: {
                     suggestedMin: 0,
                     suggestedMax: 100
+                },
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Percentage'
                 }
+            }],
+            xAxes:[{
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Year'
+                }
+
             }]
         }
     }
@@ -77,7 +88,7 @@ var config2 = {
     data: {
         labels: ['2008','2010','2012','2014'],
         datasets: [{
-            label: 'Cigarette Prices in $US(2008-2010)',
+            label: 'Cigarette Prices',
             backgroundColor: window.chartColors.green,
             borderColor: window.chartColors.green,
             data: [
@@ -92,7 +103,7 @@ var config2 = {
         responsive: true,
         title: {
             display: true,
-            text: 'Cigarette Prices in $US(2008-2010)'
+            text: 'Cigarette Prices in US Dollars(2008-2010)'
         },
         tooltips: {
             mode: 'index',
@@ -120,7 +131,18 @@ var config2 = {
                 ticks: {
                     suggestedMin: 0,
                     suggestedMax: 20
+                },
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Price($US)'
                 }
+            }],
+            xAxes:[{
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Year'
+                }
+
             }]
         }
     }

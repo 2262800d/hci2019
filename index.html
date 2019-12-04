@@ -127,7 +127,7 @@
             padding: 20px;
             border: 1px solid #888;
             width: 80%;
-            height: 60%;
+            height: 65%;
         }
 
         /* The Close Button */
@@ -157,6 +157,7 @@
             /* height: 50%; */
             float: left;
             display: inline-block;
+            margin-bottom: 2%;
         }
         input[type=radio] {
             display:none; 
@@ -192,6 +193,7 @@
         background-image: none;
             background-color:#2196F3;
         }
+
     </style>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" charset="utf-8"></script>
@@ -249,11 +251,17 @@
         <div class="modal-content">
             <span class="close">&times;</span>
             <p id="countryTitle"></p>
+            <p>Visualization of the correlation between tobacco usage, cigarette prices and death caused smoking. </p>
 
             <div id="canvasContainer">
                 <canvas id="canvas"></canvas>
                 <canvas id="canvas2"></canvas>
             </div>
+            <p>&nbsp</p>
+            <p>&nbsp</p>
+            <p id="who">Data provided by the World Health Organization.</p>
+
+            
 
 
         </div>
