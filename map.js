@@ -1,6 +1,7 @@
 const jsonData = {};
 var priceData = {};
 var deathRates ={}
+var countryCodes = {}
 $(function () {
     $(".mapcontainer").mapael({
         map: {
@@ -199,7 +200,7 @@ $(function () {
 
 function buildMap(){
     var dataCountries = null;
-    var countryCodes = null;
+   // var countryCodes = null;
     $.ajax({ 
         url: "https://raw.githubusercontent.com/2262800d/hci2019/master/data/parsed_data1.json", 
         dataType: 'json', 

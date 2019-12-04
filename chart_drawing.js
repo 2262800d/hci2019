@@ -103,7 +103,7 @@ var config2 = {
         responsive: true,
         title: {
             display: true,
-            text: 'Cigarette Prices in US Dollars(2008-2010)'
+            text: 'Cigarette Prices in US Dollars'
         },
         tooltips: {
             mode: 'index',
