@@ -31,7 +31,7 @@ $(function () {
             }
             , defaultArea: {
                 attrs: {
-                    fill: "#808080"
+                    fill: "#949494"
                     , stroke: "#ced8d0"
                 }
                 , attrsHover: {
@@ -119,6 +119,7 @@ $(function () {
             area: {
                 title: "Percentage of population\n using Tobacco",
                 display: true,
+                hideElemsOnClick:false,
                 slices: [
                     {
                         max: 10,
@@ -183,7 +184,7 @@ $(function () {
                     },
                     {
                         attrs: {
-                            fill: "#5d5d5d"
+                            fill: "#949494"
                         },
                         label: "No data available"
                     },
