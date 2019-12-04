@@ -46,8 +46,10 @@ $(function () {
                 },
                 eventHandlers: {
                     click: function (e, id) {
+                        
                         var modal = document.getElementById("myModal");
                         modal.style.display = "block";  
+                        if(jsonData.hasOwnProperty(id)){
                         $("#countryTitle").text(jsonData[id]["country_name"]);
                         var country_name=jsonData[id]["country_name"];
                         $("#countryTitle").css("font-weight", "bold");
@@ -87,16 +89,25 @@ $(function () {
                         //death
                         y = ['2000','2005','2010','2012','2015'];
                         var ded = []// Object.values(deathRates[country_name]);
-                        for(var yer in y){
-                            ded.push(deathRates[country_name][y[yer]]);
-                        }
+                        if(deathRates[country_name]){
+                            for(var yer in y){
+                                
+                                ded.push(deathRates[country_name][y[yer]]);
+                            }
+                         }
                         console.log(ded);
                         config["data"]["datasets"][2]["data"] = ded;
 
-
+                        }else{
+                            $("#countryTitle").text("No data available");
+                            config["data"]["datasets"][0]["data"] = [];
+                            config["data"]["datasets"][1]["data"] = [];
+                            config["data"]["datasets"][2]["data"] = [];
+                            config2["data"]["datasets"][0]["data"] = [];
+                        }
                         window.myLine.update();
                         window.myLine2.update();
-
+                     
                                          
                     }
                 }
@@ -116,34 +127,58 @@ $(function () {
                         label: "Less than 10%"
                     },
                     {   min:10,
-                        max: 40,
+                        max: 20,
                         attrs: {
                             fill: "#87c735"
                         },
-                        label: "Between 10% and 40%"
+                        label: "Between 10% and 20%"
+                    },
+                    {
+                        min: 20,
+                        max: 30,
+                        attrs: {
+                            fill: "#e5ff00"
+                        },
+                        label: "Between 20% and 30%"
+                    },
+                    {
+                        min: 30,
+                        max: 40,
+                        attrs: {
+                            fill: "#ffe400"
+                        },
+                        label: "Between 30% and 40%"
                     },
                     {
                         min: 40,
+                        max: 50,
+                        attrs: {
+                            fill: "#ffaf00"
+                        },
+                        label: "Between 40% and 50%"
+                    },
+                    {
+                        min: 50,
                         max: 60,
                         attrs: {
-                            fill: "#ffff00"
+                            fill: "#ff6900"
                         },
-                        label: "Between 40% and 60%"
+                        label: "Between 50% and 60%"
                     },
                     {
                         min: 60,
-                        max: 80,
+                        max:70,
                         attrs: {
-                            fill: "#ff6600"
+                            fill: "#ff0000"
                         },
-                        label: "Between 60% and 80%"
+                        label: "Between 60% and 70%"
                     },
                     {
-                        min: 80,
+                        min: 70,
                         attrs: {
-                            fill: "#cc0000"
+                            fill: "#000000"
                         },
-                        label: "More than 80%"
+                        label: "More than 70%"
                     },
                     {
                         attrs: {
@@ -195,8 +230,10 @@ function buildMap(){
             deathRates=json;
         } 
     });
-    console.log(dataCountries);
+    //console.log(dataCountries);
     //var jsonData = {};
+    var female_values = {}
+    var male_values = {}
     for(var country in dataCountries){
         //console.log(country);
         if (dataCountries.hasOwnProperty(country)){
@@ -205,7 +242,10 @@ function buildMap(){
             //console.log(code);
             //var val = dataCountries[country]["2015"];
             var val = dataCountries[country]["2015"]["value"];
-
+            
+            female_values[code]={value:dataCountries[country]["2015"]["Female"]};
+            male_values[code]={value:dataCountries[country]["2015"]["Male"]};
+            
             //console.log(val);
             jsonData[code] = {
                 value: val,
@@ -215,14 +255,56 @@ function buildMap(){
         }
 
     }
+    // console.log(female_values);
+    // console.log(male_values);
     //console.log(jsonData);
+    console.log("1",document.getElementById("radio1").checked);
+    console.log("2",document.getElementById("radio2").checked);
+    if($("#radio1").prop("checked")){
+        console.log(female_values);
+        return female_values;
+    }else if($("#radio2").prop("checked")){
+        console.log(male_values);
+        return male_values;
+    }
 
-    return jsonData;
+    //return jsonData;
 }
 $(document).ready(function () { 
     $(".close").click(function () {
 
         $("#myModal").css("display", "none");
     });
+
+    $("#radio1").click(function(input){
+        var updatedOptions = {'areas': {}};
+        updatedOptions.areas = buildMap();
+        //console.log(document.getElementById("radio1").checked);
+        $(".mapcontainer").trigger('update', [{
+            mapOptions: updatedOptions, 
+            animDuration: 10
+        }]);
+
+    });
+
+    $("#radio2").click(function(input){
+        var updatedOptions = {'areas': {}};
+        updatedOptions.areas = buildMap();
+        $(".mapcontainer").trigger('update', [{
+            mapOptions: updatedOptions, 
+            animDuration: 10
+        }]);
+
+    });
+
+    // $("#radio2+label").change(function(){
+    //     var updatedOptions = {areas: buildMap()};
+    //     console.log("click");
+    //     $(".mapcontainer").trigger('update', [{
+    //         mapOptions: updatedOptions, 
+    //         animDuration: 10
+    //     }]);
+
+    // });
 });
 

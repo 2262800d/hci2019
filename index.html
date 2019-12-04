@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <title>Map with some custom plotted cities and areas</title>
@@ -14,9 +15,10 @@
             margin: auto;
             margin-top: 50px;
         }
-         .rightPanel {
+
+        .rightPanel {
             float: right;
-            width: 10%;
+            width: 15%;
             border-radius: 5px;
             margin-left: 5px;
         }
@@ -32,11 +34,11 @@
         */
 
         .mapael .map {
-            margin-right: 228px;
+            margin-right: 200px;
             overflow: hidden;
             position: relative;
             background-color: #fff;
-            border-color:#000000;
+            border-color: #000000;
             border-radius: 5px;
         }
 
@@ -53,6 +55,7 @@
             display: none;
             color: #fff;
         }
+
         .mapael .zoomButton {
             background-color: #fff;
             border: 1px solid #ccc;
@@ -69,9 +72,9 @@
             left: 10px;
 
             -webkit-user-select: none;
-            -khtml-user-select : none;
+            -khtml-user-select: none;
             -moz-user-select: none;
-            -o-user-select : none;
+            -o-user-select: none;
             user-select: none;
         }
 
@@ -89,83 +92,128 @@
         .mapael .zoomOut {
             top: 50px;
         }
+
         /* The Modal (background) */
         .modal {
-        display: none; /* Hidden by default */
-        position: fixed; /* Stay in place */
-        z-index: 1; /* Sit on top */
-        padding-top: 100px; /* Location of the box */
-        left: 0;
-        top: 0;
-        width: 100%; /* Full width */
-        height: 100%; /* Full height */
-        overflow: auto; /* Enable scroll if needed */
-        background-color: rgb(0,0,0); /* Fallback color */
-        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+            display: none;
+            /* Hidden by default */
+            position: fixed;
+            /* Stay in place */
+            z-index: 1;
+            /* Sit on top */
+            padding-top: 100px;
+            /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%;
+            /* Full width */
+            height: 100%;
+            /* Full height */
+            overflow: auto;
+            /* Enable scroll if needed */
+            background-color: rgb(0, 0, 0);
+            /* Fallback color */
+            background-color: rgba(0, 0, 0, 0.4);
+            /* Black w/ opacity */
         }
 
         /* Modal Content */
         .modal-content {
-        background-color: #fefefe;
-        margin: auto;
-        padding: 20px;
-        border: 1px solid #888;
-        width: 80%;
-        height: 60%;
+            background-color: #fefefe;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            height: 60%;
         }
 
         /* The Close Button */
         .close {
-        color: #aaaaaa;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
+            color: #aaaaaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
         }
 
         .close:hover,
         .close:focus {
-        color: #000;
-        text-decoration: none;
-        cursor: pointer;
+            color: #000;
+            text-decoration: none;
+            cursor: pointer;
         }
 
         #canvasContainer {
             width: 50%;
             height: 50%;
             display: flex;
-        
+
         }
+
         #canvas2,#canvas {
             width: 20%;
             /* height: 50%; */
             float: left;
             display: inline-block;
         }
+        input[type=radio] {
+            display:none; 
+            margin:10px;
+        }
 
+        input[type=radio] + label {
+            display:inline-block;
+            margin:-2px;
+            padding: 4px 4px;
+            background-color: rgb(163, 142, 142);
+            border-color: rgb(24, 21, 21);
+            border-style:solid;
+            border-width: thin;
+            font-family: Arial;
+            color:#fff;
+            
+        }
+        #radio1 + label{
+            border-top-left-radius: 25px;
+            border-bottom-left-radius: 25px;
+
+        }
+        #radio2 + label{
+            border-top-right-radius: 25px;
+            border-bottom-right-radius: 25px;
+        }
+        /*
+        Change background color for label next to checked radio button
+        to make it look like highlighted button
+        */
+        input[type=radio]:checked + label { 
+        background-image: none;
+            background-color:#2196F3;
+        }
     </style>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" charset="utf-8"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"
-            charset="utf-8"></script>
+        charset="utf-8"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js" charset="utf-8"></script>
     <script src="jsmaps/jquery.mapael.js" charset="utf-8"></script>
     <script src="jsmaps/france_departments.js" charset="utf-8"></script>
     <script src="jsmaps/world_countries.js" charset="utf-8"></script>
     <script src="jsmaps/usa_states.js" charset="utf-8"></script>
     <script src="map.js" charset="utf-8"></script>
-    <script  src="utils.js" charset="utf-8"></script>
+    <script src="utils.js" charset="utf-8"></script>
     <script src="chart_drawing.js" charset="utf-8"></script>
-    <script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.js" charset="utf-8"></script>
-    <script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js" charset="utf-8"></script>
-    <script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.js" charset="utf-8"></script>
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.js" charset="utf-8"></script>
+
     <!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.css"> -->
-    
+
 
 </head>
 
 <body>
+
 
     <div class="container">
 
@@ -173,6 +221,13 @@
 
         <div class="mapcontainer">
             <div class="rightPanel">
+                <div style="margin-bottom:10%">
+                <input type="radio" id="radio1" name="radios" value="all" checked="true">
+                <label for="radio1" id="label1">&nbspFemale</label>
+                <input type="radio" id="radio2" name="radios" value="false">
+                <label for="radio2" id="label2">Male&nbsp&nbsp</label>
+                
+             </div>
                 <div class="areaLegend"></div>
                 <div class="plotLegend"></div>
             </div>
@@ -181,7 +236,8 @@
         </div>
 
 
-        <p><b>All example for jQuery Mapael are available <a href="https://www.vincentbroute.fr/mapael/">here</a>.</b></p>
+        <p><b>All example for jQuery Mapael are available <a href="https://www.vincentbroute.fr/mapael/">here</a>.</b>
+        </p>
 
 
     </div>
@@ -191,17 +247,18 @@
         <div class="modal-content">
             <span class="close">&times;</span>
             <p id="countryTitle"></p>
-            
+
             <div id="canvasContainer">
                 <canvas id="canvas"></canvas>
                 <canvas id="canvas2"></canvas>
             </div>
-           
-           
+
+
         </div>
 
     </div>
 
 
 </body>
+
 </html>
