@@ -5,6 +5,7 @@ $(function () {
     $(".mapcontainer").mapael({
         map: {
             name: "world_countries",
+            
             zoom: {
                 enabled: true,
                 maxLevel: 10
